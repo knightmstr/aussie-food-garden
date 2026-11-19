@@ -25,7 +25,7 @@ jobs:
           node-version: 22
       # Fails the build on broken links, missing pages or pages missing from docs/nav.json.
       - run: node scripts/build.mjs --strict
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         if: github.ref == 'refs/heads/main'
         with:
           path: dist
