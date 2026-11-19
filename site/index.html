@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Aussie Food Garden</title>
+<meta name="description" content="Sourced, state-by-state guide to growing food in Australia: crops, companions, rotations, soil-building and organic pest control.">
+<meta name="theme-color" content="#2f6b3a">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Food Garden">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <button id="menuBtn" class="icon-btn" aria-label="Menu" aria-expanded="false" aria-controls="nav">
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+  </button>
+  <a class="brand" href="#/">Aussie Food Garden</a>
+  <form id="searchForm" role="search" class="search">
+    <input id="q" type="search" placeholder="Search" aria-label="Search" autocomplete="off" enterkeyhint="search">
+  </form>
+</header>
+
+<noscript><p style="padding:16px">This guide needs JavaScript. You can also read it as plain markdown on GitHub, in the <code>docs</code> folder.</p></noscript>
+<div class="layout">
+  <nav id="nav" class="nav" aria-label="Guide sections"></nav>
+  <div id="scrim" class="scrim" hidden></div>
+  <main id="main" tabindex="-1">
+    <div id="status" class="status" role="status" aria-live="polite"></div>
+    <article id="content" class="content"></article>
+    <footer class="foot">
+      <p id="offline"></p>
+      <p>Content is sourced from the linked pages and checked by hand where marked. Always follow product labels and local biosecurity rules.</p>
+    </footer>
+  </main>
+</div>
+
+<script src="vendor/marked.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "groups": [
+    { "title": "", "pages": [
+      { "path": "index", "title": "Start here" }
+    ]},
+    { "title": "By state and territory", "pages": [
+      { "path": "states/nt", "title": "Northern Territory" },
+      { "path": "states/wa", "title": "Western Australia" },
+      { "path": "states/qld", "title": "Queensland" },
+      { "path": "states/nsw-act", "title": "NSW and ACT" },
+      { "path": "states/vic", "title": "Victoria" },
+      { "path": "states/tas", "title": "Tasmania" },
+      { "path": "states/sa", "title": "South Australia" }
+    ]},
+    { "title": "Fix problems organically", "pages": [
+      { "path": "pests/insects", "title": "Insect and mite pests" },
+      { "path": "pests/diseases", "title": "Diseases, weeds and soil problems" }
+    ]},
+    { "title": "Across Australia", "pages": [
+      { "path": "principles", "title": "Rotation, soil and companions" },
+      { "path": "fruit-and-nut-trees", "title": "Fruit and nut trees" },
+      { "path": "native-foods", "title": "Native foods" },
+      { "path": "biosecurity-and-weeds", "title": "Biosecurity and weeds" }
+    ]},
+    { "title": "About", "pages": [
+      { "path": "about", "title": "Sources, limits and updates" }
+    ]}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aussie-food-garden",
+  "version": "0.1.0",
+  "description": "Sourced, state-by-state guide to growing food in Australia, as markdown plus an offline-capable web app.",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "check": "node scripts/build.mjs --check",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/build.mjs && python3 -m http.server 8080 --directory dist"
+  },
+  "license": "MIT"
+}

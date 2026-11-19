@@ -1,0 +1,35 @@
+name: Correction or better source
+description: Report a wrong, outdated or unsupported statement, or suggest a better source.
+labels: ["content"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Which page is it on? (for example docs/states/qld.md)
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: What is wrong or missing?
+      description: Quote the sentence or table row if you can.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
+      description: A government, research, council or industry page that supports your correction. Please avoid sources that only repeat other pages.
+    validations:
+      required: true
+  - type: dropdown
+    id: safety
+    attributes:
+      label: Is it a safety issue?
+      description: For example a toxic plant, a spray, or a legal rule.
+      options:
+        - "No"
+        - "Yes, please look at this first"
+    validations:
+      required: true
