@@ -4,14 +4,22 @@ A sourced guide to growing food in Australia in ways that also look after the lo
 
 > **How much to trust it:** every fact links to the page it came from, and anything that does not is tagged `[inference]` or `[general knowledge]`. Many official planting calendars are images or PDF grids that could not be read, so some regions have thin or proxy data. Each page says exactly what is weak. Follow product labels, and check local rules before moving plants or fruit. More in [Sources, limits and updates](about.md).
 
+## New to growing food? Start here
+
+Short beginner pages for two places, with first crops, what to sow each month and what to watch for. They sit on top of the full state pages.
+
+- [Start here: Darwin and the Top End](start/darwin.md)
+- [Start here: Sydney](start/sydney.md)
+- [Small spaces, pots and renting](start/small-spaces.md) for balconies, courtyards and rentals
+
 ## Find your state or territory
 
 | State or territory | Best covered | Weakest |
 |---|---|---|
-| [Northern Territory](states/nt.md) | Government crop sheets, termites, fruit fly, declared weeds, bush-food safety | The official Darwin/Katherine sowing grid could not be read, so the month table is partial and one grid is marked unverified |
+| [Northern Territory](states/nt.md) | Government crop sheets, termites, fruit fly, declared weeds, bush-food safety | The Darwin/Katherine sowing grid is transcribed but dates from 2005/2008. Tennant Creek and Alice Springs grids are unread |
 | [Western Australia](states/wa.md) | Perth sandy-soil advice, Medfly and movement rules, soil-building legumes | No home-garden calendar outside a Perth school-garden guide |
 | [Queensland](states/qld.md) | Biosecurity rules, avocado, sugar-industry cover-crop trials | Planting months are from community and commercial sources, and several are proxies |
-| [NSW and ACT](states/nsw-act.md) | Canberra and the ACT, fruit fly, fire ants, myrtle rust | No readable Sydney, Northern Rivers or inland calendar |
+| [NSW and ACT](states/nsw-act.md) | Canberra and the ACT, fruit fly, fire ants, myrtle rust | Sydney months come from one council seed library. No Northern Rivers or inland calendar |
 | [Victoria](states/vic.md) | Fruit fly, anthracnose, clubroot, one orchard trial | Calendars are commercial or community, with no BoM frost dates |
 | [Tasmania](states/tas.md) | Fruit fly status, BoM frost counts, a cover-crop trial | Calendars disagree and the frost-date sources conflict |
 | [South Australia](states/sa.md) | Adelaide plains calendar (Green Adelaide), fruit fly rules, Riverland irrigation | No Hills, Fleurieu or far-north calendars |
