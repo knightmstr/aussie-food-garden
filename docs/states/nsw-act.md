@@ -1,6 +1,6 @@
 # New South Wales and the ACT
 
-> **How reliable is this page?** Canberra and the ACT are the best covered: a government (ACT Government) note, Bureau of Meteorology frost statements and several newspaper and community calendars. Sydney, the Northern Rivers (a proxy from south-east Queensland only), the tablelands and inland NSW have no readable month-by-month calendar, so those sections say so and point to the best timing advice available. Most NSW fruit, nut, cover-crop and native-food facts come from NSW Government pages, but several are broadacre or industry figures, and no NSW weed list, ACT biosecurity rules or fire ant carrier list was read. Treat every date as a guide and check it against your own frost pattern.
+> **How reliable is this page?** Canberra and the ACT are the best covered: a government (ACT Government) note, Bureau of Meteorology frost statements and several newspaper and community calendars. Sydney now has a month-by-month table from the City of Ryde seed library (one council, one seed list). The Northern Rivers (a proxy from south-east Queensland only), the tablelands and inland NSW have no readable month-by-month calendar, so those sections say so and point to the best timing advice available. Most NSW fruit, nut, cover-crop and native-food facts come from NSW Government pages, but several are broadacre or industry figures, and no NSW weed list, ACT biosecurity rules or fire ant carrier list was read. Treat every date as a guide and check it against your own frost pattern.
 
 ## Regions and seasons
 
@@ -56,9 +56,76 @@ Deep Green's February-June cool-alpine calendars were not retrieved, so autumn i
 
 ### Sydney
 
-No month-by-month calendar could be read. Ryde Council (Sydney) publishes a monthly seasonal planting guide with seed and seedling columns for the "Sydney region", but its tick grid lost its column alignment in text, so no crop can be assigned to a month ([Ryde, January 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/3/library/2024-01-seasonal-planting-guide.pdf); [Ryde, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)). Open the PDFs yourself for the monthly ticks.
+The best Sydney source is the City of Ryde's Eastwood Seed Library seasonal planting guide ([Ryde Council, June 2024 guide](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf), 16 pages, council). It ticks the months to plant for the "Sydney region" and gives depth, spacing and germination time for each seed variety it stocks. The table below transcribes the edible vegetables and herbs; the flowers (edible and not) are left out. Ticks were read by software and the rows were checked against the PDF's own text.
 
-What is sourced from Ryde: herbs like 18-21 C to get going, so early spring is the time for outdoor herbs, and rosemary germinates best at soil 17-21 C ([Ryde, January 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/3/library/2024-01-seasonal-planting-guide.pdf), council).
+How far to trust it:
+- It is a council **seed library list**, so it covers only the varieties the library stocks. Crops that are missing from it (broccoli, cauliflower, cabbage, peas, garlic, potato, sweet potato, sweet corn, asparagus) are not "wrong", they are simply not listed. Snow pea appears with no months ticked.
+- It describes one mild temperate suburb area (Ryde, northern Sydney). It gives no frost dates or microclimate advice.
+- Its introduction says it was first written for spring and the list is updated over time. A few entries look odd (rosemary transplant spacing is printed as 150 cm; winter melon is ticked for January and October to December), so they are shown as printed.
+- Many warm-season crops have two windows, January to February and September to December, with nothing ticked from March to August (for example cucumber, eggplant, bush and climbing beans, celery).
+
+| Crop | Months to plant (Ryde) | Depth (mm) | Spacing (cm) | Germination (days) |
+|---|---|---|---|---|
+| Alfalfa (sprouts) | All year | — | — | — |
+| Basil | Sep to Dec | 3 / 5 | 30 | 3 to 9 / 5 to 10 |
+| Beetroot | Jan to Apr, Jul to Dec | 15 | 15 | 5 to 10 |
+| Bergamot (wild) | Jan to Apr, Sep to Dec | 1 | 45 | 7 to 14 |
+| Bok choy / pak choi | All year | 10 | 25 | 7 to 10 |
+| Broad bean | Mar to Jul | 50 | 50 | 7 to 14 |
+| Bush bean | Jan to Feb, Sep to Dec | 25 | 15 | 8 to 10 |
+| Capsicum | Aug to Dec | 6 | 50 | 10 to 21 |
+| Carrot | Jan to Apr, Dec | 5 | 8 | 10 to 21 / 14 to 21 |
+| Celery | Jan to Feb, Sep to Dec | 3 | 30 | 14 to 21 |
+| Chamomile (German) | Jul to Nov | 1 | 30 | 7 to 14 |
+| Chervil | Jan to Apr, Aug to Dec | 6 | 25 | 10 to 14 |
+| Chicory | Mar to May, Sep to Nov | 5 | 40 | 7 to 10 |
+| Chilli | Aug to Dec | 5 | 50 | 7 to 21 |
+| Chives | Jan to Mar, Sep to Dec | 6 | 15 | 12 to 18 |
+| Climbing bean | Jan to Feb, Sep to Dec | 25 | 15 | 6 to 10 / 8 to 10 |
+| Coriander / cilantro | Mar to Apr, Aug to Nov | 10 | 25 | 7 to 20 |
+| Cucumber | Jan to Feb, Sep to Dec | 10 | 40 | 4 to 10 / 6 to 10 |
+| Dill | Jan to Feb, Aug to Dec | 2 | 20 | 7 to 21 |
+| Eggplant | Jan to Feb, Sep to Dec | 5 | 60 / 70 | 7 to 14 |
+| Fennel | Jan to Apr, Aug to Dec | 8 | 45 | 7 to 14 |
+| Garlic chives | Jan to Mar, Sep to Dec | 8 | 15 | 14 to 21 |
+| Hairy melon | Jan to Feb, Sep to Dec | 25 | 40 | 10 to 20 |
+| Kale | Mar to Aug | 15 | 45 | 7 to 10 |
+| Kohlrabi | Jan to Apr, Aug to Dec | 5 | 30 | 3 to 7 |
+| Leek | Jan to Apr, Aug to Dec | 5 | 20 | 5 to 10 |
+| Lemon balm | Mar to Apr, Sep to Dec | 3 | 50 | 7 to 14 |
+| Lemongrass | Jan to May, Sep to Dec | 5 | 30 | 14 to 21 |
+| Lettuce (Goldrush) | All year | 3 | 20 | 8 to 14 |
+| Lettuce (mignonette) | Jan to Apr, Aug to Dec | 5 | 35 | — |
+| Lettuce (red and green salad) | Mar to May, Sep to Dec | 3 | 20 | 8 to 14 |
+| Luffa | Sep to Dec | 15 | 50 | 14 to 21 |
+| Mixed greens | Mar to Nov | 6 | 20 | 5 to 10 |
+| Mustard (red giant) | All year | 5 | 30 / 35 | 5 to 14 / 7 to 14 |
+| Okra | Sep to Dec | 10 | 60 | 12 to 14 |
+| Onion | Mar to Aug | 5 | 10 | 10 to 14 |
+| Oregano | Mar to Apr, Aug to Dec | 5 | 50 | 7 to 14 |
+| Parsley | Jan to May, Aug to Dec | 3 | 30 | 14 to 21 |
+| Pumpkin | Sep to Dec | 15 / 20 | 150 | 5 to 10 / 6 to 10 |
+| Radish | All year | 10 | 5 | 3 to 14 |
+| Rocket | All year | 5 | — | 8 to 14 |
+| Rosemary | Mar to May, Sep to Nov | 3 | 150 | 15 to 25 |
+| Sage | Sep to Dec | 5 | 50 | 7 to 21 |
+| Silverbeet | Jan to May, Sep to Dec | 15 | 25 / 50 | 5 to 10 |
+| Spinach (perpetual leaf) | Jan to May, Sep to Dec | 12 | 30 | 14 to 21 |
+| Spinach (English Medania) | Mar to Aug | 12 | 30 | 14 to 21 |
+| Spring onion | All year | 5 | 30 (rows) | 6 to 14 |
+| Strawberry (alpine) | Jun to Aug | 3 | 15 | 14 to 56 |
+| Swede | Feb to Apr | 6 | 10 | 7 to 15 |
+| Thyme | Mar to Apr, Sep to Dec | 1 | 30 | 14 to 21 |
+| Tomato | Aug to Dec | 5 / 6 | 50 / 60 | 5 to 10 / 7 to 13 / 10 to 14 |
+| Turnip | Jan to Apr, Sep to Dec | 6 | 7 to 12 | 6 to 10 |
+| Watermelon | Aug to Dec | 20 | 75 | 10 to 14 |
+| Winter melon | Jan, Oct to Dec | 25 | 50 | 7 to 14 |
+| Zucchini | Jan, Sep to Dec | 20 | 75 | 7 to 14 |
+
+- Herbs "like a temperature range between 18 to 21 degrees Celsius to get going, so if you are planting outdoors early Spring is always a good time." ([Ryde Council, June 2024 guide](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf))
+- Rosemary germinates in 15 to 25 days at about 17 to 21 C soil temperature, and is started in trays. ([Ryde Council, June 2024 guide](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf))
+- Warm-season crops (tomato, capsicum, chilli, watermelon) are ticked August to December, and okra, luffa and pumpkin September to December. Cool-season crops (broad bean, onion, kale, spinach, strawberry) sit in autumn and winter. Quick leafy crops (bok choy, mustard, rocket, radish, spring onion, Goldrush lettuce) are ticked all year.
+- The older January 2024 edition of the same guide ([Ryde, January 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/3/library/2024-01-seasonal-planting-guide.pdf)) was not read.
 
 A commercial calendar gives season-level lists only. Its lists are cut off and every month in a season shows the same list, so month-level timing is not supported ([PlantSale Sydney PDF](https://plantsale.pages.dev/downloads/garden-calendar-sydney.pdf), commercial, weak):
 
@@ -69,7 +136,7 @@ A commercial calendar gives season-level lists only. Its lists are cut off and e
 | Winter (Jun-Aug) | beetroot, broad bean, broccoli, carrot, garden pea, kale |
 | Spring (Sep-Nov) | asparagus, basil, beans, beetroot |
 
-[inference] Sydney probably sits between the Canberra and south-east Queensland patterns, with frost-tender crops going out earlier than in Canberra. This is unverified until the Ryde grid is read.
+[inference] Sydney probably sits between the Canberra and south-east Queensland patterns, with frost-tender crops going out earlier than in Canberra. The Ryde months above fit that pattern but come from one council's seed library.
 
 ### Northern Rivers and Mid North Coast (proxy: south-east Queensland)
 
@@ -191,7 +258,7 @@ See also [insect pests](../pests/insects.md), [diseases, weeds and soil problems
 
 ## Gaps and what to check locally
 
-- Sydney: the Ryde Council tick grids (January and June 2024) could not be read; download and read them. Also check Sydney Water and council calendars, which were not reached.
+- Sydney: only the Ryde Council June 2024 guide has been read. It is a seed library list with no frost data, and it lacks brassicas such as broccoli and cabbage, peas, garlic, potato, sweet potato and sweet corn. The January 2024 edition, Sydney Water and other council calendars were not read.
 - Northern Rivers and Mid North Coast: no NSW calendar; the Dayboro and Deep Green rows are Queensland proxies. Ask a local council or community garden.
 - Tablelands (Orange, Bathurst, Armidale, Goulburn, Cooma, Blue Mountains) and the western slopes, plains and Riverina: no calendar and no frost dates; use BoM climate guides.
 - Canberra: Canberra Organic Growers Society and Gardening Australia calendars were not read; the ACT Government page gives no month list beyond leafy greens and savoy cabbage. The Canberra tomato timing is disputed.
