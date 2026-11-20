@@ -31,7 +31,7 @@
     8
    ],
    "label": "Dry season",
-   "blurb": "The widest range of crops is shaded on the NT sheet.",
+   "blurb": "The widest range of crops can be sown in these months.",
    "prep": "plant"
   },
   {
@@ -40,7 +40,7 @@
     10
    ],
    "label": "Late dry season",
-   "blurb": "Few crops are shaded again. Plan the wet-season fallow and start seedlings in containers before the December rains.",
+   "blurb": "Few crops are sown in these months.",
    "prep": "late"
   }
  ],
