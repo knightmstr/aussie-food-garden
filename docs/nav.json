@@ -27,7 +27,7 @@
       "pages": [
         {
           "path": "start/darwin",
-          "title": "Darwin, month by month"
+          "title": "Darwin"
         },
         {
           "path": "states/nt",
@@ -35,7 +35,7 @@
         },
         {
           "path": "start/sydney",
-          "title": "Sydney, month by month"
+          "title": "Sydney"
         },
         {
           "path": "states/nsw-act",
