@@ -5,21 +5,13 @@
       "pages": [
         {
           "path": "index",
-          "title": "Start here"
+          "title": "Guide overview"
         }
       ]
     },
     {
-      "title": "Beginners start here",
+      "title": "New to growing",
       "pages": [
-        {
-          "path": "start/darwin",
-          "title": "Darwin and the Top End"
-        },
-        {
-          "path": "start/sydney",
-          "title": "Sydney"
-        },
         {
           "path": "start/small-spaces",
           "title": "Small spaces, pots and renting"
@@ -27,11 +19,23 @@
       ]
     },
     {
-      "title": "By state and territory",
+      "title": "By place",
       "pages": [
+        {
+          "path": "start/darwin",
+          "title": "Darwin, month by month"
+        },
         {
           "path": "states/nt",
           "title": "Northern Territory"
+        },
+        {
+          "path": "start/sydney",
+          "title": "Sydney, month by month"
+        },
+        {
+          "path": "states/nsw-act",
+          "title": "NSW and ACT"
         },
         {
           "path": "states/wa",
@@ -40,10 +44,6 @@
         {
           "path": "states/qld",
           "title": "Queensland"
-        },
-        {
-          "path": "states/nsw-act",
-          "title": "NSW and ACT"
         },
         {
           "path": "states/vic",

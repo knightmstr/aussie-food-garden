@@ -235,40 +235,49 @@
 
       document.title = 'Your ' + a.short + ' garden · Aussie Food Garden';
       var names = a.sow[mi] || [];
-      var blurb = season.blurb || (names.length + ' ' + (a.sowCountText || 'crops are listed this month.'));
-      html += '<p class="kicker">' + esc(MONTHS[m - 1].toUpperCase()) + ' · ' + esc(season.label.toUpperCase()) + '</p>';
-      html += '<h1>Your ' + esc(a.short) + ' garden this month</h1><p class="lede">' + esc(blurb) + '</p>';
-      html += '<div class="tools"><label>Showing <select id="monthSel" aria-label="Month">';
-      for (var i = 1; i <= 12; i++) html += '<option value="' + i + '"' + (i === m ? ' selected' : '') + '>' + MONTHS[i - 1] + '</option>';
-      html += '</select></label><a href="#/choose" class="change">Change area</a></div>';
-      html += '<div class="seg" role="group" aria-label="Your growing space"><button type="button" data-space="pots" aria-pressed="' + (space === 'pots') + '">Pots or balcony</button><button type="button" data-space="yard" aria-pressed="' + (space === 'yard') + '">Backyard</button></div>';
-
-      html += '<h2>Plant now</h2>';
       var now = a.starter.filter(function (c) { return c.months.indexOf(m) >= 0; });
       var later = a.starter.filter(function (c) { return c.months.indexOf(m) < 0; });
+      var blurb = season.blurb || (names.length + ' ' + (a.sowCountText || 'crops are listed this month.'));
+      var prepItems = a.prep[season.prep] || [], shopItems = a.shopping[space] || [];
+      var chev = '<span class="chev" aria-hidden="true">›</span>';
+
+      html += '<p class="kicker">' + esc(MONTHS[m - 1].toUpperCase()) + ' · ' + esc(season.label.toUpperCase()) + '</p>';
+      html += '<div class="hero"><span class="big">' + now.length + '</span><span class="what">' + (now.length === 1 ? 'starter crop to sow right now' : 'starter crops to sow right now') + '</span></div>';
+      html += '<p class="lede">' + esc(blurb) + '</p>';
+      html += '<div class="chips"><label class="chip">' + esc(a.short) + ' · <select id="monthSel" aria-label="Month">';
+      for (var i = 1; i <= 12; i++) html += '<option value="' + i + '"' + (i === m ? ' selected' : '') + '>' + MONTHS[i - 1] + '</option>';
+      html += '</select></label><a href="#/choose" class="chip">Change area</a></div>';
+
       if (now.length) {
-        html += '<div class="group">';
-        now.forEach(function (c) { html += cropRow(c, m, false); });
+        html += '<div class="tiles">';
+        now.slice(0, 4).forEach(function (c) { html += '<a class="tile" href="#/' + c.slug + '"><strong>' + esc(c.name) + '</strong><span class="meta">' + esc(c.meta) + '</span></a>'; });
         html += '</div>';
       } else html += '<div class="group"><p class="empty">None of the starter crops are sown in ' + MONTHS[m - 1] + '.</p></div>';
-      if (names.length) html += '<details class="all"><summary>All ' + names.length + ' crops listed for ' + MONTHS[m - 1] + '</summary><p>' + names.map(esc).join(', ') + '.</p></details>';
-      if (later.length) html += '<p class="later"><strong>Coming up:</strong> ' + later.map(function (c) { return '<a href="#/' + c.slug + '">' + esc(c.name) + '</a> (' + esc(monthRange(c.months)) + ')'; }).join(', ') + '.</p>';
-      html += '<p class="fine">Source: ' + esc(a.sowSource) + '. <a href="#/' + a.sowSourcePage + '">Full sowing table and caveats</a>.</p>';
 
-      html += '<h2>Get ready</h2>' + checklist(a.prep[season.prep] || [], a.id + '-prep', checks);
-      html += '<h2>What to get</h2>' + checklist(a.shopping[space] || [], a.id + '-' + space, checks);
-      html += '<h2>Where next</h2><div class="group">';
-      a.links.forEach(function (l) {
-        html += '<a class="row" href="#/' + l.path + '"><span class="main"><span class="tag">' + esc(l.tag) + '</span><strong>' + esc(l.title) + '</strong></span><span class="end"><span class="chev" aria-hidden="true">›</span></span></a>';
+      html += '<div class="folds">';
+      html += '<details class="fold"><summary>All crops for ' + MONTHS[m - 1] + '<span class="end">' + names.length + ' ' + chev + '</span></summary><div class="body"><p>' + (names.length ? names.map(esc).join(', ') + '.' : 'None listed.') + '</p>' +
+        (later.length ? '<p class="later"><strong>Coming up:</strong> ' + later.map(function (c) { return '<a href="#/' + c.slug + '">' + esc(c.name) + '</a> (' + esc(monthRange(c.months)) + ')'; }).join(', ') + '.</p>' : '') + '</div></details>';
+      html += '<details class="fold"><summary>Get ready<span class="end">' + prepItems.length + ' jobs ' + chev + '</span></summary><div class="body">' + checklist(prepItems, a.id + '-prep', checks) + '</div></details>';
+      html += '<details class="fold"' + (params._open === 'shop' ? ' open' : '') + '><summary>What to get<span class="end">' + shopItems.length + ' items ' + chev + '</span></summary><div class="body">' +
+        '<div class="seg" role="group" aria-label="Your growing space"><button type="button" data-space="pots" aria-pressed="' + (space === 'pots') + '">Pots or balcony</button><button type="button" data-space="yard" aria-pressed="' + (space === 'yard') + '">Backyard</button></div>' +
+        checklist(shopItems, a.id + '-' + space, checks) + '</div></details>';
+      a.links.slice(0, 3).forEach(function (l) {
+        html += '<div class="fold"><a class="fold-link" href="#/' + l.path + '">' + esc(l.title) + chev + '</a></div>';
       });
-      html += '</div></div>';
+      if (a.links.length > 3) {
+        html += '<details class="fold"><summary>More reading<span class="end">' + (a.links.length - 3) + ' ' + chev + '</span></summary><div class="body"><div class="group">';
+        a.links.slice(3).forEach(function (l) { html += '<a class="row" href="#/' + l.path + '"><span class="main"><span class="tag">' + esc(l.tag) + '</span><strong>' + esc(l.title) + '</strong></span><span class="end">' + chev + '</span></a>'; });
+        html += '</div></div></details>';
+      }
+      html += '</div>';
+      html += '<p class="srcline">Source: ' + esc(a.sowSource) + '. <a href="#/' + a.sowSourcePage + '">Full table and caveats</a></p></div>';
       contentEl.innerHTML = html;
       markNav(''); markTabs('home'); statusEl.textContent = '';
       window.scrollTo(0, 0);
 
       $('#monthSel').addEventListener('change', function (e) { location.hash = '#/area/' + id + '?m=' + e.target.value; });
       contentEl.querySelectorAll('.seg button').forEach(function (b) {
-        b.addEventListener('click', function () { store('afg-space', b.dataset.space); showArea(id, params); });
+        b.addEventListener('click', function () { store('afg-space', b.dataset.space); params._open = 'shop'; showArea(id, params); });
       });
       contentEl.querySelectorAll('.check input').forEach(function (cb) {
         cb.addEventListener('change', function () {
