@@ -53,6 +53,8 @@
 ### Powdery mildew
 
 **Recognise:** powdery white growth on leaves of cucurbits, roses, grapes and many ornamentals ([Hort Innovation VG05094](https://www.horticulture.com.au/globalassets/hort-innovation/historic-reports/sustainable-integrated-control-of-foliar-diseases-in-greenhouse-vegetables-vg05094.pdf)). In the NT it is the cooler-season mildew of cucumber ([NT Agnote B4](https://daf.nt.gov.au/__data/assets/pdf_file/0005/233384/352.pdf)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=powdery+mildew+leaves&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** use the airflow, spacing and sanitation steps listed under [Downy mildew](#downy-mildew); the sources there are general foliar-disease advice, not specific to powdery mildew.
 **Beneficials and biological control:** AUSVEG states there are no registered or consistently effective biological control agents for the mildews ([AUSVEG](https://ausveg.com.au/app/data/technical-insights/docs/MegaPestsManagingFoliarDiseases.pdf)).
 **Physical controls:** none sourced beyond removing affected leaves.
@@ -63,6 +65,8 @@
 ### Downy mildew
 
 **Recognise:** white downy growth on leaf undersides in moist weather, then brown spots and dead areas; hard to control once advanced. Different species attack cucurbits, grape, lettuce and onion ([Business Queensland](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/diseases/horticultural/downy-mildew)). In the NT it is the wet-season mildew of cucumber ([NT Agnote B4](https://daf.nt.gov.au/__data/assets/pdf_file/0005/233384/352.pdf)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=downy+mildew+leaves&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** favoured by warm, moist weather; spores blow in from older crops and survive in soil and residue. Use resistant varieties, remove or plough in old crops promptly, space plants wider ([Business Queensland](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/diseases/horticultural/downy-mildew)). AUSVEG adds clean transplants, weed control, checking older leaves, avoiding morning watering and high humidity, leaf trimming and ventilation, and (lettuce) avoiding high ammonium nitrate ([AUSVEG](https://ausveg.com.au/app/data/technical-insights/docs/MegaPestsManagingFoliarDiseases.pdf)).
 **Beneficials and biological control:** none registered or consistently effective ([AUSVEG](https://ausveg.com.au/app/data/technical-insights/docs/MegaPestsManagingFoliarDiseases.pdf)).
 **Physical controls:** remove old crop residue; do not leave it near new plantings ([Business Queensland](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/diseases/horticultural/downy-mildew)).
@@ -73,6 +77,8 @@
 ### Late blight
 
 **Recognise:** potato and tomato disease caused by Phytophthora infestans; favoured by still, warm, humid weather (old strains need about 8 hours of leaf wetness at 15 C, optimum about 22 C) ([AUSVEG PT04010](https://ausveg.com.au/app/data/technical-insights/docs/PT04010.pdf)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=late+blight+tomato+Phytophthora+infestans&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** main inoculum is infected tubers, volunteer potatoes and cull piles, and infected tubers can carry symptomless mycelium. Remove and destroy affected plants; do not irrigate blighted crops; do not mow infected crops (it releases spores); deep-bury haulm at an approved site. Cultivars with useful foliar and tuber resistance (overseas ratings): Admiral, Atlantic, Charlotte, Innovator, Midas, Nooksack, Norland, Orla, Osprey, Sebago, Simcoe, Sini, Symfonia, Trent, Valentina, Victoria ([AUSVEG PT04010](https://ausveg.com.au/app/data/technical-insights/docs/PT04010.pdf)). Kangaroo apple and nightshades act as indicator weeds (same source).
 **Beneficials and biological control:** none sourced.
 **Physical controls:** hygiene as above.
@@ -83,6 +89,8 @@
 ### Anthracnose of beans
 
 **Recognise:** angular reddish-brown spots along leaf veins, dark sunken lesions on stems and pods, seed lesions, possible pink-orange spore ooze ([Agriculture Victoria](https://agriculture.vic.gov.au/biosecurity/plant-diseases/vegetable-diseases/anthracnose-of-beans)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=bean+anthracnose&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** infected seed is the main route; rain, overhead irrigation and wind spread it; symptoms are best at 18-25 C. Use certified or disease-free-history seed, leave at least 2 years before beans return after an infected crop, remove diseased plants, and do not cultivate or harvest wet infected crops. Tweed Wonder, Wellington Wonder and Redlands Beauty resist the most common race but can be badly affected by less common races (same source).
 **Beneficials and biological control:** none sourced.
 **Physical controls:** removing diseased plants (same source).
@@ -93,6 +101,8 @@
 ### Rust
 
 **Recognise:** a garlic rust story describes slight leaf discolouration spreading on wind-borne spores, linked by the gardener to excess moisture, crowding and heavy clay ([Young Witness](https://www.youngwitness.com.au/story/6882268/winning-the-battle-against-garlic-rust/), a regional news story, weak-anecdotal).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=rust+fungus+leaves&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** the same gardener tried pruning leaves (not enough alone), morning watering, drip irrigation, compost or mounds in clay (not enough alone), containers, sterilising tools, and about a seven-year rotation for garlic in an infected bed (same source). General airflow and wetness advice from the mildew sources is not rust-specific.
 **Beneficials and biological control:** none sourced.
 **Physical controls:** as above.
@@ -103,6 +113,8 @@
 ### Black spot of roses
 
 **Recognise:** black spots, often with a yellow ring, that enlarge; leaves yellow and fall and the bush can defoliate; worst in warm, humid or wet weather ([Burnside area garden group page](https://www.baag.com.au/?p=25451)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=black+spot+rose&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** water the soil not the leaves, keep the root zone consistently moist, clear fallen leaves in autumn and winter (the fungus overwinters on the ground), feed every 6-8 weeks with extra potash, choose resistant varieties, prune off infected material early. Do not compost infected material or keep a persistently infected rose (same source).
 **Beneficials and biological control:** none sourced.
 **Physical controls:** leaf clean-up and pruning as above.
@@ -113,6 +125,8 @@
 ### White rot
 
 **Recognise:** onion, garlic and leek roots rot brown to black at the stem base, with fluffy white growth and poppy-seed-sized black sclerotia; pink root can look similar ([AUSVEG white rot](https://ausveg.com.au/knowledge-hub/developing-strategies-to-inhibit-onion-white-rot/)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=onion+white+rot+Sclerotium+cepivorum&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** sclerotia can stay dormant up to 20 years and germinate only near Allium roots; one per 10 kg of soil can start an outbreak; spread is mainly by soil, equipment and flowing water; most active in cool moist soil (about 7-22 C) and strongly inhibited above 25 C. Plant later when soil is warmer (trade-off: later harvest), use free-draining soil and strong-rooted varieties, and limit soil movement (same source). [inference] Do not plant bought-in sets or move soil from unknown sources, and do not replant Alliums in infested soil.
 **Beneficials and biological control:** none sourced.
 **Physical controls:** hygiene and limiting soil movement.
@@ -123,6 +137,8 @@
 ### Peach leaf curl
 
 **Recognise:** young leaves turn pink-red, thicken and curl and may drop; fruit can show raised rough areas. Favoured by a cool wet spring at budswell, then warm humid growth; fungal optimum 20-26 C. Affects peach and nectarine, also apricot and almond ([NSW DPI](https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0009/1580067/Peach-leaf-curl.pdf)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=peach+leaf+curl&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** maintain tree vigour, thin fruit more heavily, irrigate adequately and give extra nitrogen (NSW DPI). Bin fallen leaves, remove distorted leaves and fruit, choose less susceptible varieties (none named); untreated trees worsen each year ([SGA](https://www.sgaonline.org.au/peach-leaf-curl/)).
 **Beneficials and biological control:** no biological control agents are known ([NSW DPI](https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0009/1580067/Peach-leaf-curl.pdf)).
 **Physical controls:** leaf clean-up as above.
@@ -155,6 +171,8 @@
 ### Sooty mould
 
 **Recognise:** a secondary black mould growing on honeydew from aphids, scale, mealybugs, whiteflies, psyllids and leafhoppers; it does not feed on the plant but blocks light ([Yates](https://www.yates.com.au/garden-hub/sooty-mould/), retail brand page).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=sooty+mould&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** control the insects first, then wash leaves once honeydew is gone; keep plants watered, sunny and fed (same source). [inference] Washing before the insects are controlled lets the mould return. The ant-honeydew link is not sourced.
 **Beneficials and biological control:** see [insect pests](../pests/insects.md) for the sap-suckers.
 **Physical controls:** washing leaves, as above.
@@ -165,6 +183,8 @@
 ### Myrtle rust
 
 **Recognise:** small purple spots on soft young leaves, shoot tips or stems, then bright yellow powdery pustules fading to dull yellow then grey; leaves distort. Hosts include eucalypts, bottlebrush, paperbark, tea tree and lilly pilly, with over 300 species recorded. Lemon myrtle is not named on the page read, so its susceptibility is unverified here ([NSW DPI](https://www.dpi.nsw.gov.au/biosecurity/plant/insect-pests-and-plant-diseases/myrtle-rust)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=myrtle+rust&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** check plants regularly; consider removing healthy highly susceptible plants before infection; wash clothes and gloves; do not replant similar Myrtaceae ([NSW DPI](https://www.dpi.nsw.gov.au/biosecurity/plant/insect-pests-and-plant-diseases/myrtle-rust), [Agriculture Victoria](https://agriculture.vic.gov.au/biosecurity/plant-diseases/shrub-and-tree-diseases/myrtle-rust/treating-myrtle-rust-in-home-gardens)).
 **Beneficials and biological control:** none sourced.
 **Physical controls:** do not touch, move or collect material from suspect plants; wet plants before removal if no fungicide is used; bag plants before pulling; sun-dry bagged material 3-4 weeks; hairspray can stick spores on a small plant; do not use infected plants as mulch or in green waste; scrub pots and tools with detergent and dry them (Agriculture Victoria). NSW DPI says spray the plant and neighbours 3-4 days before removal and bag it first.
@@ -177,6 +197,8 @@
 ### Clubroot
 
 **Recognise:** wilting, stunting and pale plants above ground; stubby swollen galls on roots. Hits all brassicas including cabbage, broccoli, turnip, radish and canola ([Hort Innovation clubroot fact sheet](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-clubroot-management-in-brassica-vegetables-fact-sheet.pdf)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=clubroot+brassica&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** resting spores survive up to 20 years and there is no effective control once symptoms appear. Keep soil at pH 7.0-7.5 with reactive lime applied at least one week before transplanting; soils below pH 6 raise risk. Calcium nitrate and boron inhibit infection, while ammonium fertilisers acidify and raise risk. Leave more than 7 years between brassica crops (2 years only within an integrated program); control shepherd's purse and wild radish. Risk factors are soil 17-25 C, compaction, wet poorly drained soil and brassicas in the last 2 years. Rocket and some radishes are resistant; turnip, radish and canola are highly susceptible. Resistant cultivars help but resistance can erode (same source). The 7.0-7.5 target is for brassicas only, not other crops.
 **Beneficials and biological control:** Bacillus subtilis or Gliocladium catenulatum at transplanting helps only at low disease pressure (same source).
 **Physical controls:** quarantine infected areas and reduce runoff; for small infestations remove plants, roots and attached soil and burn or send to industrial landfill; avoid overwatering, improve drainage, use raised beds (same source). [inference] Containers with fresh mix or raised beds are the practical fallback in a home garden.
@@ -187,6 +209,8 @@
 ### Fusarium wilt
 
 **Recognise:** leaves yellow and drop and plants wilt over days; cut stems show reddish-brown discolouration. In tomato, yellowing runs from the lower leaves up, often on one side, and the top wilts by day and recovers at night ([Business Queensland](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/diseases/horticultural/fusarium-wilt-yellows), [PIRSA](https://pir.sa.gov.au/crops-and-plants/weeds-and-plant-pests/plant-pests/pests-and-diseases-of-significant-concern/fusarium_wilt_of_tomato)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Fusarium+wilt&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** the fungus travels in contaminated soil, seed and airborne spores and can persist for decades without a host. Keep it out: avoid contaminated seed, equipment, footwear and water; use resistant varieties or rootstocks where available. Root-knot nematodes raise infection risk. It is favoured by about 28 C, dry weather, acidic soil and ammonium nitrate on fast-growing plants (PIRSA). For brassica yellows avoid ammonium fertilisers on seedlings, and calcium may help suppress disease ([Hort Innovation soilborne guide](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-soilborne-disease-in-vegetable-crops-guide.pdf)). The NT manual lists a Fusarium-tolerant basil (Nufar F1) and a Fusarium-resistant snake bean rootstock (Iron cowpea) ([NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf)).
 **Beneficials and biological control:** none sourced.
 **Physical controls:** use sterilised soil and clean benches, tools, crates and footwear (PIRSA). Do not move soil or plants from infested beds.
@@ -197,6 +221,8 @@
 ### Bacterial wilt
 
 **Recognise:** white ooze when cut tubers or stems are pressed (potato, tomato, eggplant, capsicum, chilli); hot wet weather speeds wilting ([Business Queensland](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/diseases/horticultural/bacterial-wilt)). Wilting and yellowing within days at 25-35 C in moist soil; a stem in water shows a milky stream; bacteria survive over 10 years in soil ([Hort Innovation soilborne guide](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-soilborne-disease-in-vegetable-crops-guide.pdf)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=bacterial+wilt&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** tolerant or resistant varieties; certified whole seed (potato); keep hosts off a site for at least two years and preferably five; do not crop infected soil through summer; keep soil pH 5.5-7, improve drainage, avoid over-irrigation; it spreads in irrigation and rain water downhill and survives in residues and weed hosts (Business Queensland, Hort Innovation).
 **Beneficials and biological control:** none sourced.
 **Physical controls:** use transplants grafted onto resistant rootstock where available (both sources). The NT manual advises raising tomatoes in a protected nursery, not direct-seeding, and using bacterial-wilt-resistant wild Malay eggplant rootstock ([NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf)); NT Government also flags grafting for tomato bacterial wilt ([NT Government](https://nt.gov.au/industry/agriculture/food-crops-plants-and-quarantine/traditional-vegetables)).
@@ -207,6 +233,8 @@
 ### Damping-off
 
 **Recognise:** seed or seedling rots before emergence; after emergence a soft rot or water-soaked sunken lesion at ground level makes seedlings fall over ("wire stem" in cabbage); survivors are stunted ([Business Queensland](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/diseases/horticultural/damping-off)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=damping+off+seedlings&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** raise seedlings in soil-less or fumigated mix on elevated benches, avoid overwatering and splash, clean tools and storage, thin for airflow (same source). The Hort Innovation guide adds raised beds or free-draining soil, transplants rather than direct seeding, rotation with non-hosts, organic matter, and weed control; it favours cool (about 13-15 C) waterlogged soil, and resting spores survive over 10 years ([Hort Innovation soilborne guide](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-soilborne-disease-in-vegetable-crops-guide.pdf)).
 **Beneficials and biological control:** no source for Trichoderma or Bacillus seed treatments.
 **Physical controls:** solarised potting mix was effective against Pythium myriotylum and Phytophthora nicotianae in NT trials ([NT Agnote 537](https://daf.nt.gov.au/__data/assets/pdf_file/0019/232921/537.pdf)); see [Soil solarisation](#soil-solarisation).
@@ -217,6 +245,8 @@
 ### Root-knot nematode
 
 **Recognise:** dig up the plant and check roots for galls or lumps. At-risk crops named: tomatoes and other solanaceae, cucurbits, carrots, lettuce, beans, pineapple, passionfruit ([Organic Gardener](https://www.organicgardener.com.au/biofumigation/)). It can spread on symptomless infested tubers, and patchy infestations call for soil testing by field section ([AUSVEG](https://ausveg.com.au/?p=85173)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=root-knot+nematode+galls&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** rotate susceptible crops with non-hosts such as cereals or grasses; a fallow over six months can reduce some populations if kept weed-free but "may not reduce numbers below damage thresholds"; plant in late autumn or early spring when soil is cooler; inspect transplant roots; add organic matter and green manures (AUSVEG). In the NT, legume green manures are susceptible so should not precede susceptible vegetables ([NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf)); the guava root-knot nematode concentrated in Darwin's residential suburbs infects guava, sunn hemp and many weeds, so practise "come clean, go clean" and contact plant.pathology@nt.gov.au ([NT DAF](https://daf.nt.gov.au/news/2026/root-knot-nematodes-in-the-nt)).
 **Beneficials and biological control:** none sourced (Paecilomyces, Pochonia, neem cake and chitin were not found).
 **Physical controls:** weed-free fallow (AUSVEG). Tagetes (French marigold) trial: in California field trials *T. patula* 'Single Gold' grown as a full-area prior crop consistently reduced root-knot infestation and galling on following tomato, equal to methyl iodide fumigation at one of two sites; tomato yield was about 50% higher than after fallow. This is cultivar-specific and non-Australian, and it works as a break crop, not as scattered companions ([PubMed 30818673](https://pubmed.ncbi.nlm.nih.gov/30818673/); [Laidback Gardener](https://laidbackgardener.blog/2026/06/04/not-another-article-on-companion-planting-or-what-science-has-to-say-about-it/?amp=1), secondary, says small plantings in large fields are unlikely to matter). A Queensland glasshouse screen found sunn hemp resisted three Meloidogyne species, while forage sorghum 'Jumbo' and oat 'Swan' were highly resistant to all three; most soybeans and many biofumigants were susceptible ([AUSVEG](https://ausveg.com.au/knowledge-hub/cover-crops-to-reduce-root-knot-nematode-populations/), glasshouse only). The NT source says sunn hemp hosts the guava root-knot nematode, so check which species you have (NT DAF above). In Queensland wet-tropics cane fallows no cover crop reduced pathogenic nematodes ([Soil CRC](https://soilcrc.com.au/?p=6583)).
@@ -239,6 +269,8 @@
 ### Blossom end rot
 
 **Recognise:** circular dead tissue at the blossom end of tomato, capsicum or watermelon, water-soaked then sunken and leathery; mould is secondary ([NT Agnote 479](https://daf.nt.gov.au/__data/assets/pdf_file/0005/233618/479.pdf)).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=blossom+end+rot+tomato&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** the direct cause is too little calcium reaching the fruit; soil calcium is usually adequate, so it is an uptake and distribution problem. Contributing factors: irregular water, hot dry windy weather, low calcium in light sandy or lateritic soils, very acid soil, excess nitrogen, high salts and waterlogging. Irrigate consistently (avoid long dry spells then heavy watering); add lime or calcium only where soil calcium is low, and raise pH carefully; avoid excessive nitrogen; improve drainage (same source). [inference] Mulch and steady drip watering are the first-line rescue.
 **Beneficials and biological control:** not applicable.
 **Physical controls:** as above.
@@ -249,6 +281,8 @@
 ### Iron chlorosis and alkaline soil
 
 **Recognise:** yellow-white leaves, notably in limestone coastal sands; alkaline soils may also cause shortages of iron, manganese, boron, copper and zinc ([DPIRD WA soil pH](https://www.agric.wa.gov.au/soil-ph-and-plant-health), page marked possibly out of date).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=iron+chlorosis+leaves&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** a pH unit is a tenfold change, so go slowly; over-acidifying brings manganese and aluminium toxicity and phosphorus, calcium and magnesium deficiency (same source). Excess copper can itself cause iron chlorosis, so repeated copper sprays can contribute ([AIH](https://aih.org.au/?p=340)). In Alice Springs, irrigation raises soil pH over time and the guide suggests compost and sulphur and avoiding lime ([Alice Springs guide](https://assets.nationbuilder.com/aridlands/pages/4419/attachments/original/1726025047/Vegie_companion_small2.pdf)).
 **Beneficials and biological control:** not applicable.
 **Physical controls:** none.
@@ -269,6 +303,8 @@
 ### Sunscald and heat
 
 **Recognise:** sunburn comes from high temperature with strong infrared and UV ([AUSVEG/AgNova article](https://ausveg.com.au/?p=42978), promotional).
+
+**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=sunscald+fruit&title=Special%3AMediaSearch&type=image). Search results, not vetted.
 **Prevent:** kaolin must be applied before heat events and wears off (same source).
 **Beneficials and biological control:** not applicable.
 **Physical controls:** shade cloth percentages and timing are not sourced.

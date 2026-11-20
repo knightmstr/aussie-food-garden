@@ -23,6 +23,12 @@ Timing: the sheet shades April to July for cherry tomato and May to July for ful
 - A raised bed with good drainage
 - Stakes or a cage `[inference]`
 
+## Growing methods
+
+- **In a pot:** Cherry tomatoes suit a medium pot, 20 to 30 cm deep ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)). Tomatoes can also grow in hanging baskets ([NSW Environment, small spaces](https://www.environment.nsw.gov.au/about-us/get-involved/sydney-nature/gardens/small-spaces)).
+- **In a bed:** Raised beds 10 to 15 cm high drain better. This is general advice on the Darwin and Katherine sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)).
+- More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
+
 ## How to grow it
 
 1. Raise seedlings in a protected spot, sowing seed 10 mm deep. Seedlings come up in 7 to 10 days.
@@ -34,6 +40,12 @@ Timing: the sheet shades April to July for cherry tomato and May to July for ful
 
 - See the [insect pests page](../pests/insects.md) for fruit fly and caterpillars, and the [diseases page](../pests/diseases.md) for wilts.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
+
+## See it and watch it
+
+[Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=cherry+tomato+Solanum+lycopersicum&title=Special%3AMediaSearch&type=image) · [Videos: search YouTube](https://www.youtube.com/results?search_query=how+to+grow+cherry+tomatoes+in+pots+Australia)
+
+The links open search results for this crop. I have not vetted every result against this guide, so use the photos to identify the plant and check any video advice against the sources above.
 
 ## More
 

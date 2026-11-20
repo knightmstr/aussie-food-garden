@@ -20,6 +20,11 @@
 - A raised bed of well-drained sandy loam with plenty of organic matter
 - Mulch
 
+## Growing methods
+
+- **In a pot:** No source read for this guide gives a pot size for sweet potato. This is a gap.
+- More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
+
 ## How to grow it
 
 1. Make a raised bed of well-drained sandy loam with high organic matter. Avoid heavy clay.
@@ -32,6 +37,12 @@
 - Sweet potato is a root-knot nematode host, so do not follow another host crop with it `[inference]`.
 - The NT page suggests a sorghum or millet green manure before it as general advice `[inference]`.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
+
+## See it and watch it
+
+[Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=sweet+potato+Ipomoea+batatas&title=Special%3AMediaSearch&type=image) · [Videos: search YouTube](https://www.youtube.com/results?search_query=how+to+grow+sweet+potato+Australia)
+
+The links open search results for this crop. I have not vetted every result against this guide, so use the photos to identify the plant and check any video advice against the sources above.
 
 ## More
 

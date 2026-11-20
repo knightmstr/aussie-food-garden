@@ -19,6 +19,11 @@
 - Seed
 - Loose, well-drained soil
 
+## Growing methods
+
+- **In a pot:** No source read for this guide names radish for pots. This is a gap.
+- More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
+
 ## How to grow it
 
 1. Sow seed 10 to 15 mm deep, plants 3 to 5 cm apart, rows 10 to 15 cm apart.
@@ -29,6 +34,12 @@
 
 - The sheet gives no pest advice for radish.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
+
+## See it and watch it
+
+[Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=radish+Raphanus+sativus&title=Special%3AMediaSearch&type=image) · [Videos: search YouTube](https://www.youtube.com/results?search_query=how+to+grow+radish+Australia)
+
+The links open search results for this crop. I have not vetted every result against this guide, so use the photos to identify the plant and check any video advice against the sources above.
 
 ## More
 

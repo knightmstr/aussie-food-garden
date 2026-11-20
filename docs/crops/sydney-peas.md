@@ -15,6 +15,11 @@
 - Seed
 - A trellis or support for climbing types `[inference]`
 
+## Growing methods
+
+- **In a pot:** Peas suit a medium pot, 20 to 30 cm deep. Trellised peas need a deep pot, 30 to 50 cm or more ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)). Peas can also grow in hanging baskets ([NSW Environment, small spaces](https://www.environment.nsw.gov.au/about-us/get-involved/sydney-nature/gardens/small-spaces)).
+- More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
+
 ## How to grow it
 
 1. Sow in autumn, winter or early spring, from April to September.
@@ -24,6 +29,12 @@
 
 - The sources read give no pest advice for peas.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
+
+## See it and watch it
+
+[Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=pea+plant+Pisum+sativum&title=Special%3AMediaSearch&type=image) · [Videos: search YouTube](https://www.youtube.com/results?search_query=how+to+grow+peas+Australia)
+
+The links open search results for this crop. I have not vetted every result against this guide, so use the photos to identify the plant and check any video advice against the sources above.
 
 ## More
 

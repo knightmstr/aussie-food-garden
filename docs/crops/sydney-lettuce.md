@@ -17,6 +17,11 @@
 - A pot or bed
 - A partly shaded spot for midsummer
 
+## Growing methods
+
+- **In a pot:** Open lettuce suits a shallow pot, 15 to 20 cm deep ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)). Lettuce can grow in pots ([NSW Environment, small spaces](https://www.environment.nsw.gov.au/about-us/get-involved/sydney-nature/gardens/small-spaces)).
+- More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
+
 ## How to grow it
 
 1. Sow seed 3 mm deep in clumps, 20 cm apart.
@@ -28,6 +33,12 @@
 
 - Downy mildew affects lettuce. See the [diseases page](../pests/diseases.md).
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
+
+## See it and watch it
+
+[Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=lettuce+Lactuca+sativa&title=Special%3AMediaSearch&type=image) · [Videos: search YouTube](https://www.youtube.com/results?search_query=how+to+grow+lettuce+in+a+pot+Australia)
+
+The links open search results for this crop. I have not vetted every result against this guide, so use the photos to identify the plant and check any video advice against the sources above.
 
 ## More
 

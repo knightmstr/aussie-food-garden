@@ -135,10 +135,10 @@
         }
         s.n.forEach(function (n) { if (!(n.querySelector && n.querySelector('table')) && n.tagName !== 'TABLE') { n.classList.add('fine'); out.appendChild(n); } });
         if (note) { out.appendChild(fold('About these figures', [note])); note = null; }
-      } else if (key === 'what you need') {
+      } else if (key === 'what you need' || key === 'growing methods') {
         out.appendChild(el('h2', null, esc(s.t)));
         s.n.forEach(function (n) {
-          if (n.tagName === 'UL') { var g2 = el('div', 'group'); [].slice.call(n.children).forEach(function (li) { g2.appendChild(el('div', 'row', '<span class="main">' + li.innerHTML + '</span>')); }); out.appendChild(g2); }
+          if (n.tagName === 'UL') { var g2 = el('div', 'group'); [].slice.call(n.children).forEach(function (li) { g2.appendChild(el('div', 'row', '<span class="main"><span>' + li.innerHTML + '</span></span>')); }); out.appendChild(g2); }
           else out.appendChild(n);
         });
       } else if (key === 'how to grow it') {
@@ -147,11 +147,14 @@
           if (n.tagName === 'OL') { var st = el('div', 'steps'); [].slice.call(n.children).forEach(function (li, i) { st.appendChild(el('div', 'step', '<span class="num">' + (i + 1) + '</span><span class="st">' + li.innerHTML + '</span>')); }); out.appendChild(st); }
           else out.appendChild(n);
         });
-      } else if (key === 'more') {
-        out.appendChild(el('h2', null, 'Keep exploring'));
+      } else if (key === 'more' || key === 'see it and watch it') {
+        out.appendChild(el('h2', null, key === 'more' ? 'Keep exploring' : esc(s.t)));
         var chips = el('div', 'chips');
-        s.n.forEach(function (n) { [].slice.call(n.querySelectorAll('a')).forEach(function (a) { var c = el('a', 'chip', a.innerHTML); c.href = a.getAttribute('href'); chips.appendChild(c); }); });
+        s.n.forEach(function (n) {
+          if (n.querySelector('a')) [].slice.call(n.querySelectorAll('a')).forEach(function (a) { var c = el('a', 'chip', a.innerHTML); c.href = a.getAttribute('href'); if (/^https?:/.test(a.getAttribute('href'))) { c.target = '_blank'; c.rel = 'noopener noreferrer'; } chips.appendChild(c); });
+        });
         out.appendChild(chips);
+        s.n.forEach(function (n) { if (!n.querySelector('a')) { n.classList.add('fine'); out.appendChild(n); } });
       } else if (key === 'watch for' || key === 'sources') {
         out.appendChild(fold(s.t, s.n));
       } else {

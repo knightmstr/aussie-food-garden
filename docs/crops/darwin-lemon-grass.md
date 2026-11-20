@@ -19,6 +19,11 @@
 - Divisions of lemon grass (the sheet gives the method as rhizome or division)
 - A sunny spot with room for a clump
 
+## Growing methods
+
+- **In a pot:** No source read for this guide gives a pot size for lemon grass. This is a gap.
+- More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
+
 ## How to grow it
 
 1. Plant divisions 20 mm deep, plants 20 to 30 cm apart, rows 100 cm apart.
@@ -30,6 +35,12 @@
 
 - The sheet gives no pest advice for lemon grass.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
+
+## See it and watch it
+
+[Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=lemon+grass+Cymbopogon+citratus&title=Special%3AMediaSearch&type=image) · [Videos: search YouTube](https://www.youtube.com/results?search_query=how+to+grow+lemongrass+Australia)
+
+The links open search results for this crop. I have not vetted every result against this guide, so use the photos to identify the plant and check any video advice against the sources above.
 
 ## More
 

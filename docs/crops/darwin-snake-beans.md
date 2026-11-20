@@ -23,6 +23,12 @@ Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about
 - A raised or mounded bed that drains well
 - Organic matter to dig in before planting
 
+## Growing methods
+
+- **In a pot:** Peas and beans suit a medium pot, 20 to 30 cm deep. Trellised ones need a deep pot, 30 to 50 cm or more ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)).
+- **In a bed:** Use a raised or mounded bed that drains well, 10 to 15 cm high ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)).
+- More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
+
 ## How to grow it
 
 1. Add extra organic matter to the bed. If waterlogging is likely, mound the bed.
@@ -36,6 +42,12 @@ Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about
 - The NT page lists rusts, mildews, viruses, fungal diseases, root-knot nematodes, aphids, cutworms, bean flies and mites.
 - Snake beans are also a root-knot nematode host. The NT manual puts them after a leafy crop and before cucurbits.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
+
+## See it and watch it
+
+[Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=snake+bean+Vigna+unguiculata+sesquipedalis&title=Special%3AMediaSearch&type=image) · [Videos: search YouTube](https://www.youtube.com/results?search_query=how+to+grow+snake+beans+Australia)
+
+The links open search results for this crop. I have not vetted every result against this guide, so use the photos to identify the plant and check any video advice against the sources above.
 
 ## More
 
