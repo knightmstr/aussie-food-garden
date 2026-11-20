@@ -31,6 +31,17 @@
 1. Sow seed 25 mm deep, 15 cm apart.
 2. Seedlings come up in 8 to 10 days.
 
+## Care guide
+
+- **Starting:** Sow seed directly once frost risk has passed, 2.5 cm deep and about 15 cm apart, in rows at least 40 cm apart. Wet the soil before sowing and mulch after germination. A crop takes about 10 to 14 weeks ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Temperature:** A warm-season crop in cool and temperate climates. No figures are given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Sun and shade:** Full sun ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Watering:** Water regularly in dry weather, daily in hot dry conditions, and less when mild. Keep soil free-draining and avoid overhead watering ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Feeding:** Enrich the soil with compost, rotted manure and blood and bone before planting. If you did, no extra feeding is needed. Seaweed solution at flowering is optional ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Care:** Bush beans reach about 40 cm and need no support. Mulch well, because the roots are shallow, and avoid disturbing the soil ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Common problems and fixes:** Snails and slugs damage seedlings: use pellets or traps. Powdery mildew: avoid overhead watering and leave room for airflow ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Not found:** Temperature figures and pot size.
+
 ## Watch for
 
 - See the [insect pests page](../pests/insects.md) for aphids, and the [diseases page](../pests/diseases.md) for anthracnose of beans and rust.
@@ -49,3 +60,4 @@ The links open search results for this crop. I have not vetted every result agai
 ## Sources
 
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [Bunnings, beans](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans), retailer

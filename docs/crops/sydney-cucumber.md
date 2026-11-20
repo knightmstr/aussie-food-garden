@@ -33,6 +33,17 @@
 3. Train the plants up a trellis or strings.
 4. Plant in spring to mid-summer. Cucumbers love summer heat and resent cool, wet weather.
 
+## Care guide
+
+- **Starting:** SGA gives planting windows for temperate areas (September to January) but no method. Sow direct 10 mm deep, 40 to 60 cm apart. Seeds come up in 4 to 10 days in soil at 18 to 35 °C ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)).
+- **Temperature:** A warm-season crop that frost damages ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)).
+- **Sun and shade:** Full sun in cool areas. In hot areas SGA suggests 30 to 50 percent shade ([SGA](https://sgaonline.org.au/cucumbers)).
+- **Watering:** Drip irrigation under a 5 to 7 cm mulch. Do not let the plants dry out or fruit turns bitter. Hand water early in the morning at the roots ([SGA](https://sgaonline.org.au/cucumbers)).
+- **Feeding:** Plenty of compost, then watered-down worm wee or seaweed liquid at planting and when the first small fruits appear. Strong fertilisers give leaves rather than fruit ([SGA](https://sgaonline.org.au/cucumbers)).
+- **Care:** Support the vines, mulch with straw, pinch the tip after 5 to 7 leaves, and cut fruit leaving some stem ([SGA](https://sgaonline.org.au/cucumbers)).
+- **Common problems and fixes:** Fungal disease: clean straw mulch, drip watering and airflow. Poor fruit set: hand-pollinate with a brush. Bitter fruit: water evenly ([SGA](https://sgaonline.org.au/cucumbers)). Spider mites: eco-oil or wettable sulphur per the label ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)).
+- **Not found:** Feeding intervals.
+
 ## Watch for
 
 - The [diseases page](../pests/diseases.md) covers powdery and downy mildew, which affect cucurbits.
@@ -52,3 +63,5 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [SGA, cucumbers](https://sgaonline.org.au/cucumbers), community
+- [The Seed Collection, cucumber](https://www.theseedcollection.com.au/growguide/cucumber-seeds), retailer

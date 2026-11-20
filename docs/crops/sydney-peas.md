@@ -29,6 +29,17 @@
 1. Sow in autumn, winter or early spring, from April to September.
 2. Peas suit temperatures above 13 and below 21 degrees.
 
+## Care guide
+
+- **Starting:** Sow direct in a furrow 3 to 5 cm deep, seeds 10 to 15 cm apart, covered with about 2 cm of soil. Rows are 80 to 90 cm apart for climbing peas and 40 to 50 cm for dwarf peas. Shoots appear in about 10 days ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
+- **Temperature:** The ideal range is 15 to 24 °C, and peas dislike frost ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
+- **Sun and shade:** At least 6 hours of sun a day and some shelter from strong wind ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
+- **Watering:** Water the seeds well after sowing, then hold off until they come up, because wet soil can rot them. Start again at 5 to 10 cm and keep moisture even. Mulch to hold it ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
+- **Feeding:** Peas fix their own nitrogen and need little. Before planting add manure or compost and a fistful of potash per square metre. Add a sprinkle of all-purpose organic fertiliser when pods start forming ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
+- **Care:** Most peas climb, so put supports up before sowing. Pinch the tips at 20 to 30 cm to encourage branching. Dwarf types grow 50 to 75 cm and are mostly self-supporting ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
+- **Common problems and fixes:** The page names only frost and seed rot from wet soil. No pest or disease fixes were found in the sources read.
+- **Not found:** Pest and disease advice, and pot guidance.
+
 ## Watch for
 
 - The sources read give no pest advice for peas.
@@ -48,3 +59,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [SBS, how to grow peas](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v), media

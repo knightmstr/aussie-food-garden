@@ -32,6 +32,17 @@
 2. Seedlings come up in 8 to 14 days.
 3. Harvest from about 4 weeks, and keep cutting. It can be harvested continuously for months.
 
+## Care guide
+
+- **Starting:** Sow year-round in most climates, though cooler weather gives the best crops. Sow every 3 to 4 weeks. Leaves are ready after about 6 weeks ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Temperature:** Cooler temperatures give the best crops, and sudden changes can cause bolting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Sun and shade:** Full sun to part shade. In very hot summers use part shade or protect from afternoon sun ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Watering:** Keep the soil moist, especially in hot, dry weather. Drying out can cause bolting. Mulch with sugarcane or pea straw ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Feeding:** Feed weekly with a liquid fertiliser for herbs and vegetables. No dilution rate is given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Care:** Pick the outer leaves first and pick regularly. Pinch off flower buds to prevent bolting. Use good potting mix in pots ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Common problems and fixes:** Bolting: even moisture, mulch, regular picking, removing flower buds, and shade. Flea beetles make small holes but are generally minor ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Not found:** Exact temperatures and pot size.
+
 ## Watch for
 
 - The [insect pests page](../pests/insects.md) covers aphids and caterpillars, with organic fixes.
@@ -51,3 +62,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [City of Sydney, tips to start an edible garden](https://news.cityofsydney.nsw.gov.au/articles/tips-to-start-an-edible-garden)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [Bunnings, rocket](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket), retailer

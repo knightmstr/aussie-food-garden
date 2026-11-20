@@ -39,6 +39,17 @@ Timing: the sheet shades April to August. The NT Agnote B4 says cucumber can be 
 3. Mulch after sowing.
 4. Pick from about 5 to 6 weeks.
 
+## Care guide
+
+- **Starting:** Sow direct 10 mm deep, 40 to 60 cm apart in rows 100 to 120 cm apart. Seeds come up in about 4 to 10 days in soil at 18 to 35 °C ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)). SGA suggests mounds about 40 cm across with two plants each, in loose, well-drained soil rich in compost ([SGA](https://sgaonline.org.au/cucumbers)).
+- **Temperature:** A warm-season crop that frost damages ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)). No growing temperature figures are given.
+- **Sun and shade:** Full sun in cool areas. In warm areas with hot summers SGA suggests 30 to 50 percent shade cover ([SGA](https://sgaonline.org.au/cucumbers)).
+- **Watering:** Drip irrigation is best, with drippers under a 5 to 7 cm mulch. Do not let the plants dry out, or fruit can turn bitter or dry. If hand watering, do it early in the morning at the roots ([SGA](https://sgaonline.org.au/cucumbers)). Water when the soil is dry about 5 cm down ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)).
+- **Feeding:** Start with plenty of compost. Feed at planting with watered-down worm wee or a seaweed liquid, and again when the first small fruits appear. Strong fertilisers give leaves rather than fruit ([SGA](https://sgaonline.org.au/cucumbers)). No intervals or rates are given.
+- **Care:** Give it a trellis, fence or wire. Straw mulch keeps roots cool and fruit off the ground. Pinch the growing tip after 5 to 7 leaves. Cut the fruit with scissors or a knife and leave a bit of stem, rather than pulling it ([SGA](https://sgaonline.org.au/cucumbers), [NT manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), p. 33).
+- **Common problems and fixes:** Fungal disease: clean straw mulch, drip watering, airflow and a trellis. Poor fruit set: attract bees with flowers, or move pollen from a male to a female flower with a brush. Bitter fruit: water evenly ([SGA](https://sgaonline.org.au/cucumbers)). Spider mites and aphids: see the [insect page](../pests/insects.md). Sunscald: cover with light fabric on very hot days ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)).
+- **Not found:** Feeding intervals and an NT source for sun and shade.
+
 ## Pests and diseases
 
 - **Melon aphid** spreads the mosaic viruses ([details](../pests/insects.md#cowpea-and-melon-aphids), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 30). Pull out plants with mottled, distorted leaves ([mosaic viruses](../pests/diseases.md#cucurbit-mosaic-viruses), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), pp. 188 to 193).
@@ -62,3 +73,6 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
+- [SGA, cucumbers](https://sgaonline.org.au/cucumbers), community
+- [The Seed Collection, cucumber](https://www.theseedcollection.com.au/growguide/cucumber-seeds), retailer
+- [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), government

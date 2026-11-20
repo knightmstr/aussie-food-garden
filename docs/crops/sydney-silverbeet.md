@@ -31,6 +31,17 @@
 2. Seedlings come up in 5 to 10 days.
 3. Pick outer leaves as it grows.
 
+## Care guide
+
+- **Starting:** Sow seed or transplant seedlings, then thin to the spacing and eat the thinnings. In cool and warm temperate climates plant from spring to autumn ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Temperature:** No figures are given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Sun and shade:** Full sun to part shade ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Watering:** Every 2 to 3 days, or more often in hot weather. It tolerates dry spells but does better with regular water. Wilting plants usually revive with a thorough watering ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Feeding:** Liquid feed regularly in the growing season. No product, rate or interval is given. Enrich the soil with compost before planting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Care:** Mulch with sugarcane or pea straw. Start picking outer leaves after 8 to 10 weeks, twisting each stalk near the base ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Common problems and fixes:** Cercospora leaf spot: grey spots with brown edges, worse in hot humid weather. Snails and slugs: barriers, traps or pellets ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Not found:** Spacing, feeding rate and pot size.
+
 ## Watch for
 
 - The [insect pests page](../pests/insects.md) covers vegetable leafminer, which attacks leafy vegetables, and caterpillars.
@@ -50,3 +61,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [Bunnings, silverbeet](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet), retailer

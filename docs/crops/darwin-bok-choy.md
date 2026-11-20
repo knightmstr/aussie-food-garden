@@ -36,6 +36,17 @@
 2. Seedlings come up in 5 to 7 days.
 3. Pick from about 4 to 6 weeks.
 
+## Care guide
+
+- **Starting:** Sow a few seeds at a time so harvests spread over months, about 20 cm apart ([SGA](https://www.sgaonline.org.au/asian-greens/)). Sow in the bed or in trays of seed-raising mix and transplant when 5 to 7 cm tall ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-plant-and-grow-bok-choy)).
+- **Temperature:** Does best in mild weather, and summer heat causes bolting, which makes leaves bitter and tough. No temperature figures are given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-plant-and-grow-bok-choy)).
+- **Sun and shade:** Full sun. In very hot summers part shade is fine, for example beans or sweet corn as living shade or a shade tent ([SGA](https://www.sgaonline.org.au/asian-greens/)). Use shade cloth in hot weather to reduce bolting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-plant-and-grow-bok-choy)).
+- **Watering:** Roots are shallow, so water often in hot or windy weather. Mulch the bed and check soil moisture regularly ([SGA](https://www.sgaonline.org.au/asian-greens/)). Pea straw or lucerne works as mulch ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-plant-and-grow-bok-choy)).
+- **Feeding:** Before planting, mix one part compost to three parts soil or add well-rotted manure. Use seaweed solution at planting and half-strength manure or compost tea every fortnight ([SGA](https://www.sgaonline.org.au/asian-greens/)). Bunnings also says liquid fertiliser every two weeks.
+- **Care:** Pick outer leaves from about 6 weeks, or cut the whole plant at about 8 weeks ([SGA](https://www.sgaonline.org.au/asian-greens/)). Remove large stones from the bed so the plants are not misshapen.
+- **Common problems and fixes:** Snails are the biggest pest: SGA suggests coffee grounds around the bed. Bunnings lists traps, organic pellets or copper tape. Caterpillars: pick them off or use a bio-insecticide and follow the label. Bolting: shade cloth ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-plant-and-grow-bok-choy)). Diamondback moth is on the [insect page](../pests/insects.md#diamondback-moth).
+- **Not found:** Temperature figures and a watering frequency.
+
 ## Pests and diseases
 
 - **Diamondback moth** chews windows and holes in leaves. It is favoured by warm dry weather, and wet-season rain reduces it ([details](../pests/insects.md#diamondback-moth), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 62).
@@ -57,3 +68,5 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
+- [SGA, Asian greens (2010)](https://www.sgaonline.org.au/asian-greens/), community
+- [Bunnings, bok choy](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-plant-and-grow-bok-choy), retailer

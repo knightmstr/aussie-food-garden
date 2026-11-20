@@ -37,6 +37,17 @@ The sheet gives no weeks to picking for basil.
 3. Space plants 30 cm apart, in rows 30 cm apart.
 4. Mulch straight after planting.
 
+## Care guide
+
+- **Starting:** No source read says how to raise basil seedlings. The Darwin sources only give months. A fusarium-tolerant variety (Nufar F1) is used in the Darwin Rural area ([NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), p. 28).
+- **Temperature:** Basil dislikes cold and dies back when it arrives. Frost-free tropical areas can grow it for years ([SGA](https://sgaonline.org.au/basil)).
+- **Sun and shade:** Full sun. In very warm areas it tolerates part shade ([SGA](https://sgaonline.org.au/basil)).
+- **Watering:** No set amount. Use the finger test: if soil sticks to your finger, skip watering. Water in the morning so leaves are not wet as the temperature drops, and do not use greywater ([SGA](https://sgaonline.org.au/basil)).
+- **Feeding:** Liquid seaweed, worm wee or liquid manure, fairly often through the growing season and after harvests. The source gives no interval ([SGA](https://sgaonline.org.au/basil)).
+- **Care:** Pick often to stop it getting leggy and going to seed. Remove the flowers to keep the leaves lush for longer ([SGA](https://sgaonline.org.au/basil)).
+- **Common problems and fixes:** Snails and caterpillars are the pests SGA names. Regular picking, flower removal and feeding are its only fixes. Fusarium wilt is covered on the [disease page](../pests/diseases.md#fusarium-wilt-of-basil).
+- **Not found:** A seedling method, feeding interval and rates.
+
 ## Pests and diseases
 
 - **Fusarium wilt of basil** is a major Top End disease. Use resistant varieties and clean seed, and do not reuse infected soil or pots ([details](../pests/diseases.md#fusarium-wilt-of-basil), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 164).
@@ -58,3 +69,5 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
+- [SGA, basil](https://sgaonline.org.au/basil), community
+- [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), government

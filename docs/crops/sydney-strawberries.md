@@ -31,6 +31,17 @@
 2. Plant any time of year.
 3. Pick in early spring and autumn for the main harvest.
 
+## Care guide
+
+- **Starting:** Plant runners with healthy white roots, 20 to 30 cm apart, in a slightly raised bed 15 to 20 cm high or a pot. Keep the crown at ground level, not buried ([SGA](https://www.sgaonline.org.au/strawberries/)).
+- **Temperature:** A cool-climate plant. No temperature figures are given ([SGA](https://www.sgaonline.org.au/strawberries/)).
+- **Sun and shade:** In cool areas full sun to part shade, ideally morning sun and protection from afternoon sun. In warm areas use shade cloth. Good airflow matters ([SGA](https://www.sgaonline.org.au/strawberries/)).
+- **Watering:** Sub-surface drip is best. Keep soil moist but not soaked, and avoid wetting leaves and fruit. Roots are shallow, so water regularly, and slightly less during fruiting improves flavour ([SGA](https://www.sgaonline.org.au/strawberries/)).
+- **Feeding:** Weak manure tea at about week three and full-strength seaweed tea at flowering. Everbearing types can have an occasional blood and bone. In pots use half-strength feeds more often ([SGA](https://www.sgaonline.org.au/strawberries/)).
+- **Care:** Mulch between plants with straw or pine needles, and avoid overhead watering. Move plants to fresh soil every three years, and not where tomatoes, eggplant, capsicum or chilli grew in the past three years ([SGA](https://www.sgaonline.org.au/strawberries/)).
+- **Common problems and fixes:** Virus (yellow stripes on leaves): pull out and bag the plants. Mould and fungus: straw mulch and no overhead watering. Slugs: see SGA ([SGA](https://www.sgaonline.org.au/strawberries/)).
+- **Not found:** Pot size, temperature figures and feeding quantities.
+
 ## Watch for
 
 - The sources read give no pest advice for strawberries.
@@ -50,3 +61,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [SGA, strawberries](https://www.sgaonline.org.au/strawberries/), community

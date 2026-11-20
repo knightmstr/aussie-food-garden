@@ -30,6 +30,17 @@
 1. Sow seed 10 mm deep, 5 cm apart.
 2. Seedlings come up in 3 to 14 days.
 
+## Care guide
+
+- **Starting:** Sow in loose, well-drained soil with blood and bone dug in. Cover lightly. Seedlings come up in about a week. Thin to 10 to 15 cm and sow every 3 to 4 weeks. Winter types take 8 to 10 weeks and are sown from late summer to early autumn ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Temperature:** No figures. Pull winter types if frost is expected ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Sun and shade:** Full sun ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Feeding:** Not required. Blood and bone at planting, and optionally a liquid organic fertiliser weekly or fortnightly ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Care:** Mulch with sugarcane or pea straw and do not strip too much foliage ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Common problems and fixes:** Splitting and bolting: even moisture. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Not found:** Any figure for temperature or watering. Only one retailer page was read.
+
 ## Watch for
 
 - The sources read give no pest advice for radish.
@@ -49,3 +60,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [Bunnings, radishes](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes), retailer

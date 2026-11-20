@@ -33,6 +33,17 @@
 3. In midsummer, plant in a partly shaded spot.
 4. Pick outer leaves as it grows.
 
+## Care guide
+
+- **Starting:** Sow direct or transplant. Space plants 20 to 30 cm apart, with miniature types 10 to 15 cm. Seeds come up in 2 to 14 days, and harvest takes 50 to 80 days. Transplant in the cool morning or on mild overcast days ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
+- **Temperature:** Seed germinates at 4 to 26 °C and will not germinate above 30 °C. Cos types cope with extremes better. In temperate areas without severe frosts lettuce grows year-round ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
+- **Sun and shade:** Full sun in winter and spring, and some shade in hot, dry summers ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
+- **Watering:** Keep moisture steady, because drops in moisture check growth and increase bitterness. Drip is preferred over overhead watering, which encourages rots and downy mildew. Mulch to hold moisture ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
+- **Feeding:** Use nitrogen-rich manure and add potash, keeping fertiliser near the surface because the roots are shallow. In containers, feed regularly with liquid fertiliser ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
+- **Care:** Weed carefully, since roots are shallow. In pots choose loose-leaf types, use a premium potting mix and water morning and night ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
+- **Common problems and fixes:** Bolting and bitterness: choose varieties for the season, water evenly, shade, and harvest before the centre turns conical. Snails and slugs: baits or beer traps. Damping-off: well-drained beds and no overwatering. Aphids: organic insecticides, and destroy plants with necrotic yellows ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
+- **Not found:** Watering volumes and fertiliser rates.
+
 ## Watch for
 
 - Downy mildew affects lettuce. See the [diseases page](../pests/diseases.md).
@@ -52,3 +63,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [Diggers, how to grow lettuce](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce), retailer

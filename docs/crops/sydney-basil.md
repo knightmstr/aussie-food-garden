@@ -32,6 +32,17 @@
 2. Seedlings come up in about 3 to 10 days.
 3. Herbs like 18 to 21 degrees Celsius to get going, so spring is a good time to plant them outdoors.
 
+## Care guide
+
+- **Starting:** SGA gives planting times only: September in warm and temperate areas, and October in cool to cold areas once frost risk has passed. It gives no seedling method ([SGA](https://sgaonline.org.au/basil)).
+- **Temperature:** Basil dislikes cold and is a summer-growing annual that dies back when it arrives ([SGA](https://sgaonline.org.au/basil)).
+- **Sun and shade:** Loves full sun. In cooler climates it needs at least four hours of sun a day ([SGA](https://sgaonline.org.au/basil)).
+- **Watering:** Use the finger test, water in the morning, and do not use greywater ([SGA](https://sgaonline.org.au/basil)).
+- **Feeding:** Liquid seaweed, worm wee or liquid manure, fairly often through the season and after harvests. No interval is given ([SGA](https://sgaonline.org.au/basil)).
+- **Care:** Pick often and remove flowers ([SGA](https://sgaonline.org.au/basil)).
+- **Common problems and fixes:** Snails and caterpillars. See the [insect page](../pests/insects.md).
+- **Not found:** A seedling method and feeding interval.
+
 ## Watch for
 
 - The sources read give no pest advice for basil.
@@ -51,3 +62,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [City of Sydney, tips to start an edible garden](https://news.cityofsydney.nsw.gov.au/articles/tips-to-start-an-edible-garden)
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [SGA, basil](https://sgaonline.org.au/basil), community

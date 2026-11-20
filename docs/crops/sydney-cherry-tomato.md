@@ -33,6 +33,17 @@
 2. Seedlings come up in 5 to 10 days.
 3. Plant out 50 cm apart in a sunny spot.
 
+## Care guide
+
+- **Starting:** The Adelaide council advises seed-raising mix, soil at 25 °C, transplanting at 3 to 5 cm with a second pair of leaves, and hardening off over several days. Plant 7.5 to 10 cm deep with only the top two leaves above ground ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).
+- **Temperature:** Plant out when the soil is 15 to 20 °C and night temperatures are around 15 °C, which in Adelaide is late October to mid November. Use shade cloth in extreme heat ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)). Adelaide is not Sydney, so check local dates.
+- **Sun and shade:** At least 6 hours of sun, preferably morning, with shelter from the late afternoon sun ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).
+- **Watering:** A slow, deep soak once a week when rain is irregular, every 2 to 3 days in extreme heat. Check with a finger and water the soil rather than the leaves. In pots, water until it drains and do not use saucers ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).
+- **Feeding:** Feed at least 2 to 3 times over the plant life, with a liquid feed about every 3 weeks. Use a potash-heavy fertiliser, not a high-nitrogen one. Pots need feeding more often ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).
+- **Care:** Tall types need stakes and 80 to 100 cm spacing, and bush types 50 to 60 cm. Use soft ties and pinch the side shoots on tall types ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).
+- **Common problems and fixes:** Blossom end rot: water evenly. Fruit splitting: pick early if heavy rain is forecast. Sunburn: shade cloth. Fungal disease: rotate, prune for airflow and water the base only. Bacterial wilt has no cure ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).
+- **Not found:** A Sydney source for dates and feeding.
+
 ## Watch for
 
 - See the [insect pests page](../pests/insects.md) for fruit fly and caterpillars, and the [diseases page](../pests/diseases.md) for wilts and blight.
@@ -51,3 +62,4 @@ The links open search results for this crop. I have not vetted every result agai
 ## Sources
 
 - [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
+- [Salisbury Council, growing tomatoes (Adelaide)](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf), council

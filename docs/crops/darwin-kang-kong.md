@@ -36,6 +36,17 @@
 2. Seedlings come up in 5 to 7 days.
 3. First picking is about 7 to 8 weeks later.
 
+## Care guide
+
+- **Starting:** On dry land, broadcast or sow seed in rows or raised beds, or use cuttings ([NT VF5](https://daf.nt.gov.au/__data/assets/pdf_file/0020/227603/vf5.pdf)). One Cairns grower sows seed 1 cm deep and 15 to 20 cm apart, with germination in 5 to 10 days. Cuttings with at least three nodes, one under the soil, root in 3 to 5 days ([Rob Pyne](https://robpyne.com.au/kangkong)).
+- **Temperature:** Prefers steady high temperatures above 23 °C ([NT VF5](https://daf.nt.gov.au/__data/assets/pdf_file/0020/227603/vf5.pdf)). The Cairns grower says it thrives at 20 to 35 °C.
+- **Sun and shade:** Full sun ([Rob Pyne](https://robpyne.com.au/kangkong)). The NT sheet does not cover sun.
+- **Watering:** Keep the soil moist, but dry-land plants are not grown in flooded soil ([NT VF5](https://daf.nt.gov.au/__data/assets/pdf_file/0020/227603/vf5.pdf)). Planting at the start of the wet season cuts the need for extra watering ([Rob Pyne](https://robpyne.com.au/kangkong)).
+- **Feeding:** The NT sheet says organic fertiliser and urea are applied after planting, with no amounts. The Cairns grower uses liquid fertiliser, chook manure or cow manure, also with no rates.
+- **Care:** On dry land, plants are pulled 20 to 30 days after planting. For repeat cuts, cut about 10 cm above the ground before flowering and new shoots come every 2 to 3 weeks. Growing it in pots keeps it from spreading. It is a noxious weed in some areas, so check local rules ([Rob Pyne](https://robpyne.com.au/kangkong)).
+- **Common problems and fixes:** Grasshoppers and caterpillars in the dry season. The Cairns grower suggests regular white oil, with no recipe given. White blister is on the [disease page](../pests/diseases.md#white-blister-of-kang-kong).
+- **Not found:** Sun advice from an NT source, feeding rates, and non-chemical pest fixes.
+
 ## Pests and diseases
 
 - **White blister:** white blisters under the leaves and pale spots on top. Keep to hygiene and avoid contaminated equipment and planting material ([details](../pests/diseases.md#white-blister-of-kang-kong), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 182).
@@ -57,3 +68,5 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
+- [NT Fact Sheet VF5, Kangkong](https://daf.nt.gov.au/__data/assets/pdf_file/0020/227603/vf5.pdf), government
+- [Rob Pyne, kangkong (Cairns blog)](https://robpyne.com.au/kangkong), personal blog

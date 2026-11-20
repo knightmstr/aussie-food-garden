@@ -37,6 +37,17 @@
 3. Water well and protect from wind.
 4. First picking is about 10 weeks after sowing.
 
+## Care guide
+
+- **Starting:** Chilli is grown as seedlings and planted into mounded beds ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/capsicum-and-chilli)). Sow seed 5 mm deep in trays of seed-raising mix. Seeds come up in 7 to 21 days at soil temperatures of 22 to 35 °C. Transplant at 5 to 10 cm with the first true leaves ([Seed Collection](https://www.theseedcollection.com.au/growguide/chilli-seeds)).
+- **Temperature:** Suited to 15 to 32 °C. Plants do not grow below 10 °C, and above 32 °C pollination can suffer ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/capsicum-and-chilli)).
+- **Sun and shade:** Full sun, at least 6 hours a day ([Seed Collection](https://www.theseedcollection.com.au/growguide/chilli-seeds)). Protect plants from wind ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/capsicum-and-chilli)).
+- **Watering:** Water well. The NT page says to use mulch with drip irrigation. Water deeply in the early morning or late afternoon when the soil is dry about 5 cm down, and keep the leaves dry ([Seed Collection](https://www.theseedcollection.com.au/growguide/chilli-seeds)).
+- **Feeding:** In well-prepared soil no extra fertiliser is needed. In poor soil use a balanced fruit and vegetable fertiliser, as slow-release at transplanting or liquid while flowering and fruiting. Container plants may need more ([Seed Collection](https://www.theseedcollection.com.au/growguide/chilli-seeds)). No rates or intervals are given.
+- **Care:** Stake or use a tripod. Pick regularly and cut fruit leaving about 3 cm of stem. In pots use at least a 20 L container ([Seed Collection](https://www.theseedcollection.com.au/growguide/chilli-seeds)). Plants grow to about 90 cm ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/capsicum-and-chilli)).
+- **Common problems and fixes:** Aphids and whitefly: hose off or use a soap spray. Fruit fly: remove fallen fruit and use exclusion netting or traps. Blossom end rot: water evenly. Sunscald: do not prune in midsummer and use light fabric on very hot days. Wilts have no cure: remove the plant, rotate and choose resistant types ([Seed Collection](https://www.theseedcollection.com.au/growguide/chilli-seeds)). See the Darwin mites, anthracnose and pink disease entries below.
+- **Not found:** Feeding rates, and a Darwin source for sun and shade.
+
 ## Pests and diseases
 
 - **Broad mite and rust mite** curl and bronze leaves, and broad mite breeds in 4 to 5 days in the dry season. Check young top leaves weekly ([details](../pests/insects.md#broad-rust-and-russet-mites), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 72 to 76).
@@ -62,3 +73,4 @@ The links open search results for this crop. I have not vetted every result agai
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [nt.gov.au, capsicum and chilli](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/capsicum-and-chilli), government
 - [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
+- [The Seed Collection, chilli](https://www.theseedcollection.com.au/growguide/chilli-seeds), retailer

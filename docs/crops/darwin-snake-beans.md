@@ -41,6 +41,17 @@ Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about
 4. Train the vines onto the trellis. Keep soil moist and water in dry spells.
 5. Pick about two weeks after flowering, usually 8 to 10 weeks after sowing, when the seed outlines are just visible. Pick at least twice a week, more in very hot weather.
 
+## Care guide
+
+- **Starting:** Sow seed directly, not as seedlings. Sow any time of year, 2 cm deep, with climbing types 30 to 50 cm apart in the row and 2 to 3 m between rows. Plant into damp soil, then do not water for 3 to 4 days, because watering straight away can rot the seed ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
+- **Temperature:** No source read gives a growing temperature. The NT page describes warm, humid conditions with steady rain and says frost damages the plants ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans)).
+- **Sun and shade:** Not covered by any source read for snake beans.
+- **Watering:** Keep soil moisture up with regular watering. Water stress lowers yield and overwatering can cause root rot. Sandy soils dry faster than heavy clay, so water them more often. Drip tape gives good control ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
+- **Feeding:** Dig in extra organic matter before planting ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans)). The NT farm sheet gives a complete NPK fertiliser (14:14:12) at 70 g per square metre along the rows, banded 50 mm from the seed, then a 50:50 urea and potassium sulphate side dressing at 5 g per m of row every four weeks. Those are farm rates and are not tested in pots ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
+- **Care:** Put the trellis up before planting or soon after. Mulch around the plants, keeping it clear of the stems, to suppress weeds and hold moisture. Pick at least twice a week, or the pods get too large and tough ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
+- **Common problems and fixes:** Fusarium wilt: use clean seed and good hygiene. Nematodes: grow a green manure crop each year so they do not build up ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)). Bean fly, podborer, rust and wilt are covered below and on the [insect](../pests/insects.md#bean-fly) and [disease](../pests/diseases.md#fusarium-wilt-of-snake-beans) pages.
+- **Not found:** Sun and shade, germination temperature and pot feeding.
+
 ## Pests and diseases
 
 - **Bean fly** is the worst snake bean pest in the dry season. Check seedlings twice a week in the first week after they come up ([bean fly](../pests/insects.md#bean-fly), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 66).
@@ -66,3 +77,5 @@ The links open search results for this crop. I have not vetted every result agai
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [nt.gov.au, snake beans](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans), government
 - [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
+- [NT Agnote B15, Growing snake beans in the Top End (2006)](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf), government
+- [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), government
