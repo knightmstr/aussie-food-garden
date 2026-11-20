@@ -32,6 +32,13 @@
 2. Seedlings come up in about 3 to 10 days.
 3. Herbs like 18 to 21 degrees Celsius to get going, so spring is a good time to plant them outdoors.
 
+## Companion crops
+
+- **Good neighbours:** [Tomato](sydney-cherry-tomato.md).
+- **Where this comes from:** [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) says basil improves tomatoes and repels flies and mosquitoes.
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** SGA gives planting times only: September in warm and temperate areas, and October in cool to cold areas once frost risk has passed. It gives no seedling method ([SGA](https://sgaonline.org.au/basil)).

@@ -37,6 +37,13 @@ The sheet gives no weeks to picking for basil.
 3. Space plants 30 cm apart, in rows 30 cm apart.
 4. Mulch straight after planting.
 
+## Companion crops
+
+- **Good neighbours:** [Tomato](darwin-cherry-tomato.md).
+- **Where this comes from:** [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) says basil improves tomatoes and repels flies and mosquitoes.
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** No source read says how to raise basil seedlings. The Darwin sources only give months. A fusarium-tolerant variety (Nufar F1) is used in the Darwin Rural area ([NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), p. 28).

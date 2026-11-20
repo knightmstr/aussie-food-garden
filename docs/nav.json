@@ -19,6 +19,10 @@
         {
           "title": "Growing methods, photos and videos",
           "path": "methods"
+        },
+        {
+          "path": "companions",
+          "title": "Companion crops"
         }
       ]
     },

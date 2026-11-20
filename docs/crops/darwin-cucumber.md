@@ -39,6 +39,14 @@ Timing: the sheet shades April to August. The NT Agnote B4 says cucumber can be 
 3. Mulch after sowing.
 4. Pick from about 5 to 6 weeks.
 
+## Companion crops
+
+- **Good neighbours:** [Beans](darwin-snake-beans.md), [Peas](../companions.md#peas), [Corn](../companions.md#corn), [Sunflower](../companions.md#sunflower), [Radish](darwin-radish.md).
+- **Keep apart:** [Aromatic herbs](../companions.md#aromatic-herbs), [Potatoes](../companions.md#potatoes).
+- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) and the [Hornsby fact sheet](https://hornsby.nsw.gov.au/__data/assets/pdf_file/0015/52512/HSC00272-EGFS-Guild-and-Companion-Planting_FA.pdf).
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow 3 to 4 seeds 0.5 to 1 cm deep at each station, 30 to 40 cm apart if trellised (double if not) in rows 1 to 1.5 m apart, and thin to one plant at the two-leaf stage ([Agnote B4](https://daf.nt.gov.au/__data/assets/pdf_file/0005/233384/352.pdf)). The NT sheet says sow all year but pests and disease are hardest to control in the hot, humid wet season, and long green types suit the Top End better than apple types, which lack mildew resistance. Another source gives germination in 4 to 10 days in soil at 18 to 35 °C ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds), a retailer). SGA suggests mounds about 40 cm across with two plants each ([SGA](https://sgaonline.org.au/cucumbers)).

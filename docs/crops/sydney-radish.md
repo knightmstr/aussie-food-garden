@@ -30,6 +30,13 @@
 1. Sow seed 10 mm deep, 5 cm apart.
 2. Seedlings come up in 3 to 14 days.
 
+## Companion crops
+
+- **Good neighbours:** [Peas](sydney-peas.md), [Lettuce](sydney-lettuce.md), [Cucumber](sydney-cucumber.md), [Nasturtium](../companions.md#nasturtium).
+- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf).
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow in loose, well-drained soil with blood and bone dug in. Cover lightly. Seedlings come up in about a week. Thin to 10 to 15 cm and sow every 3 to 4 weeks. Winter types take 8 to 10 weeks and are sown from late summer to early autumn ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).

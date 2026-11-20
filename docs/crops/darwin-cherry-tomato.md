@@ -40,6 +40,14 @@ Timing: the sheet shades April to July for cherry tomato and May to July for ful
 3. Water the seedlings in with a weak fertiliser solution.
 4. Mulch. First picking is about 7 to 8 weeks later.
 
+## Companion crops
+
+- **Good neighbours:** [Basil](darwin-basil.md), [Parsley](../companions.md#parsley), [Chives](../companions.md#chives), [Onions and garlic](../companions.md#onions-and-garlic), [Cucumber](darwin-cucumber.md), [Marigold](../companions.md#marigold), [Nasturtium](../companions.md#nasturtium), [Petunias](../companions.md#petunias), [Asparagus](../companions.md#asparagus).
+- **Keep apart:** [Potatoes](../companions.md#potatoes), [Eggplant](../companions.md#eggplant), [Corn](../companions.md#corn).
+- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) and the [Hornsby fact sheet](https://hornsby.nsw.gov.au/__data/assets/pdf_file/0015/52512/HSC00272-EGFS-Guild-and-Companion-Planting_FA.pdf). The two sources disagree on corn: the NT sheet says avoid it and Hornsby lists it as a companion.
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Grow from seed or seedlings. The NT page gives late April to July as the best planting window, and says to plant seedlings into moist soil in the evening to avoid sunburn ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/tomatoes)). The NT manual advises raising the small seed in a protected nursery rather than direct sowing ([NT manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), p. 17). An Adelaide council advises seed-raising mix, soil at 25 °C, transplanting at 3 to 5 cm with a second pair of leaves, and hardening off over several days ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).

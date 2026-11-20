@@ -37,6 +37,10 @@
 3. Water well and protect from wind.
 4. First picking is about 10 weeks after sowing.
 
+## Companion crops
+
+- No source read names companion plants for chilli. See the [companion crops page](../companions.md) for what is known, and for flowering strips that suit any crop ([Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips)).
+
 ## Care guide
 
 - **Starting:** Chilli is grown as seedlings and planted into mounded beds ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/capsicum-and-chilli)). Sow seed 5 mm deep in trays of seed-raising mix. Seeds come up in 7 to 21 days at soil temperatures of 22 to 35 °C. Transplant at 5 to 10 cm with the first true leaves ([Seed Collection](https://www.theseedcollection.com.au/growguide/chilli-seeds)).

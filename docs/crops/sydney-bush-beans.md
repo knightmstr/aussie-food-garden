@@ -31,6 +31,14 @@
 1. Sow seed 25 mm deep, 15 cm apart.
 2. Seedlings come up in 8 to 10 days.
 
+## Companion crops
+
+- **Good neighbours:** [Corn](../companions.md#corn), [Sunflower](../companions.md#sunflower), [Cucumber](sydney-cucumber.md), [Celery](../companions.md#celery), [Potatoes](../companions.md#potatoes).
+- **Keep apart:** [Onions and garlic](../companions.md#onions-and-garlic).
+- **Where this comes from:** [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) lists corn, sunflowers, cucumber and celery for bush beans. [Hornsby fact sheet](https://hornsby.nsw.gov.au/__data/assets/pdf_file/0015/52512/HSC00272-EGFS-Guild-and-Companion-Planting_FA.pdf) adds onions, garlic and potatoes, which the NT sheet disagrees with for onions.
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow seed directly once frost risk has passed, 2.5 cm deep and about 15 cm apart, in rows at least 40 cm apart. Wet the soil before sowing and mulch after germination. A crop takes about 10 to 14 weeks ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).

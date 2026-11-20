@@ -36,6 +36,14 @@
 2. Seedlings come up in 5 to 7 days.
 3. Pick from about 4 to 6 weeks.
 
+## Companion crops
+
+- **Good neighbours:** [Beans](darwin-snake-beans.md), [Beetroot](../companions.md#beetroot), [Cabbage family](../companions.md#cabbage-family), [Carrot](../companions.md#carrot), [Cucumber](darwin-cucumber.md), [Marjoram](../companions.md#marjoram), [Peas](../companions.md#peas), [Strawberries](../companions.md#strawberries), [Dill](../companions.md#dill), [Celery](../companions.md#celery), [Tomato](darwin-cherry-tomato.md).
+- **Keep apart:** [Parsley](../companions.md#parsley).
+- **Where this comes from:** [SGA](https://www.sgaonline.org.au/asian-greens/) lists the first group and says avoid parsley. [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) adds dill, celery, tomato and aromatic herbs for cabbage-family crops.
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow a few seeds at a time so harvests spread over months, about 20 cm apart ([SGA](https://www.sgaonline.org.au/asian-greens/)). Sow in the bed or in trays of seed-raising mix and transplant when 5 to 7 cm tall ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-plant-and-grow-bok-choy)).

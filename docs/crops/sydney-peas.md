@@ -29,6 +29,14 @@
 1. Sow in autumn, winter or early spring, from April to September.
 2. Peas suit temperatures above 13 and below 21 degrees.
 
+## Companion crops
+
+- **Good neighbours:** [Carrot](../companions.md#carrot), [Radish](sydney-radish.md), [Cucumber](sydney-cucumber.md), [Corn](../companions.md#corn), [Beans](sydney-bush-beans.md), [Squash and pumpkin](../companions.md#squash-and-pumpkin), [Potatoes](../companions.md#potatoes).
+- **Keep apart:** [Onions and garlic](../companions.md#onions-and-garlic).
+- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) and the [Hornsby fact sheet](https://hornsby.nsw.gov.au/__data/assets/pdf_file/0015/52512/HSC00272-EGFS-Guild-and-Companion-Planting_FA.pdf).
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow direct in a furrow 3 to 5 cm deep, seeds 10 to 15 cm apart, covered with about 2 cm of soil. Rows are 80 to 90 cm apart for climbing peas and 40 to 50 cm for dwarf peas. Shoots appear in about 10 days ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).

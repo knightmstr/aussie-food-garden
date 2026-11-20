@@ -35,6 +35,10 @@
 3. Mulch after planting.
 4. First picking is about 12 weeks later.
 
+## Companion crops
+
+- No source read names companion plants for lemon grass. See the [companion crops page](../companions.md) for what is known, and for flowering strips that suit any crop ([Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips)).
+
 ## Care guide
 
 - **Starting:** Divide clumps in spring, making sure each piece has roots, and cut the stalks back by half before replanting. Stalk cuttings root in about 4 to 6 weeks. Seed is slow, 14 to 25 days, sown 5 mm deep and transplanted at 10 to 15 cm ([Love The Garden](https://www.lovethegarden.com/au-en/growing-guide/how-grow-lemongrass)).

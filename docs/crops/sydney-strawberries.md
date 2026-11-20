@@ -31,6 +31,13 @@
 2. Plant any time of year.
 3. Pick in early spring and autumn for the main harvest.
 
+## Companion crops
+
+- **Good neighbours:** [Borage](sydney-strawberries.md), [Lettuce](sydney-lettuce.md).
+- **Where this comes from:** [Hornsby fact sheet](https://hornsby.nsw.gov.au/__data/assets/pdf_file/0015/52512/HSC00272-EGFS-Guild-and-Companion-Planting_FA.pdf) lists borage. [Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce) lists strawberries as a companion for lettuce.
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Plant runners with healthy white roots, 20 to 30 cm apart, in a slightly raised bed 15 to 20 cm high or a pot. Keep the crown at ground level, not buried ([SGA](https://www.sgaonline.org.au/strawberries/)).

@@ -36,6 +36,10 @@
 2. Seedlings come up in 5 to 7 days.
 3. First picking is about 7 to 8 weeks later.
 
+## Companion crops
+
+- No source read names companion plants for kang kong. See the [companion crops page](../companions.md) for what is known, and for flowering strips that suit any crop ([Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips)).
+
 ## Care guide
 
 - **Starting:** On dry land, broadcast or sow seed in rows or raised beds, or use cuttings ([NT VF5](https://daf.nt.gov.au/__data/assets/pdf_file/0020/227603/vf5.pdf)). One Cairns grower sows seed 1 cm deep and 15 to 20 cm apart, with germination in 5 to 10 days. Cuttings with at least three nodes, one under the soil, root in 3 to 5 days ([Rob Pyne](https://robpyne.com.au/kangkong)).

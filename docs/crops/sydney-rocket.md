@@ -32,6 +32,10 @@
 2. Seedlings come up in 8 to 14 days.
 3. Harvest from about 4 weeks, and keep cutting. It can be harvested continuously for months.
 
+## Companion crops
+
+- No source read names companion plants for rocket. See the [companion crops page](../companions.md) for what is known, and for flowering strips that suit any crop ([Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips)).
+
 ## Care guide
 
 - **Starting:** Sow year-round in most climates, though cooler weather gives the best crops. Sow every 3 to 4 weeks. Leaves are ready after about 6 weeks ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).

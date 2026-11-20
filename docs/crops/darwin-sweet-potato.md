@@ -36,6 +36,10 @@
 3. Mulch after planting to cool the soil, hold moisture and suppress weeds.
 4. First picking is about 18 to 20 weeks later.
 
+## Companion crops
+
+- No source read names companion plants for sweet potato. See the [companion crops page](../companions.md) for what is known, and for flowering strips that suit any crop ([Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips)).
+
 ## Care guide
 
 - **Starting:** Grow from cuttings (slips), not whole roots. Cut shoots 15 to 20 cm long with clean secateurs, leave 5 to 7 cm of the tip above ground and bury the lower half horizontally, 25 to 35 cm apart in rows 90 cm apart ([DPIRD WA](https://www.agric.wa.gov.au/sweet-potato/growing-sweet-potatoes-western-australia?nopaging=1)). At home you can sprout a tuber in potting mix or in a jar of water and cut the slips at the base when they are about 15 cm long ([Yates](https://yates.com.au/how-to-grow/sweet-potato/)).

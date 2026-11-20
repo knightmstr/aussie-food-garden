@@ -34,6 +34,13 @@
 2. Seedlings come up in 5 to 8 days.
 3. Pick from about 6 to 8 weeks.
 
+## Companion crops
+
+- **Good neighbours:** [Peas](../companions.md#peas), [Lettuce](../companions.md#lettuce), [Cucumber](darwin-cucumber.md), [Nasturtium](../companions.md#nasturtium).
+- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf).
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow in loose, well-drained soil with organic matter, with blood and bone dug in first. Cover the seed lightly. Seedlings come up in about a week. Thin to 10 to 15 cm, eat the thinnings, and sow every 3 to 4 weeks. Summer types take 4 to 6 weeks ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).

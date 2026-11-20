@@ -41,6 +41,14 @@ Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about
 4. Train the vines onto the trellis. Keep soil moist and water in dry spells.
 5. Pick about two weeks after flowering, usually 8 to 10 weeks after sowing, when the seed outlines are just visible. Pick at least twice a week, more in very hot weather.
 
+## Companion crops
+
+- **Good neighbours:** [Corn](../companions.md#corn), [Cucumber](darwin-cucumber.md), [Peas](../companions.md#peas), [Marigold](../companions.md#marigold).
+- **Keep apart:** [Onions and garlic](../companions.md#onions-and-garlic).
+- **Where this comes from:** [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) gives advice for beans in general, not snake beans specifically. It says beans suit most vegetables and herbs. The NT farm sheet also says to grow a green manure each year against nematodes.
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow seed directly, not as seedlings. Sow any time of year, 2 cm deep, with climbing types 30 to 50 cm apart in the row and 2 to 3 m between rows. Plant into damp soil, then do not water for 3 to 4 days, because watering straight away can rot the seed ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).

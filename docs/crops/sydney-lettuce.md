@@ -33,6 +33,14 @@
 3. In midsummer, plant in a partly shaded spot.
 4. Pick outer leaves as it grows.
 
+## Companion crops
+
+- **Good neighbours:** [Carrot](../companions.md#carrot), [Cucumber](sydney-cucumber.md), [Radish](sydney-radish.md), [Corn](../companions.md#corn), [Beans](sydney-bush-beans.md), [Celery](../companions.md#celery), [Beetroot](../companions.md#beetroot), [Chives](../companions.md#chives), [Strawberries](sydney-strawberries.md), [Flowers for beneficial insects](../companions.md#flowers-for-beneficial-insects).
+- **Keep apart:** [Cabbage family](../companions.md#cabbage-family), [Parsley](../companions.md#parsley).
+- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf), the [Hornsby fact sheet](https://hornsby.nsw.gov.au/__data/assets/pdf_file/0015/52512/HSC00272-EGFS-Guild-and-Companion-Planting_FA.pdf) and [Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce).
+- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Care guide
 
 - **Starting:** Sow direct or transplant. Space plants 20 to 30 cm apart, with miniature types 10 to 15 cm. Seeds come up in 2 to 14 days, and harvest takes 50 to 80 days. Transplant in the cool morning or on mild overcast days ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
