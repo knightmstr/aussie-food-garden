@@ -35,7 +35,7 @@
 ## Care guide
 
 - **Starting:** SGA gives planting times only: September in warm and temperate areas, and October in cool to cold areas once frost risk has passed. It gives no seedling method ([SGA](https://sgaonline.org.au/basil)).
-- **Temperature:** Basil dislikes cold and is a summer-growing annual that dies back when it arrives ([SGA](https://sgaonline.org.au/basil)).
+- **Temperature:** Basil dislikes cold and is a summer-growing annual that dies back when it arrives ([SGA](https://sgaonline.org.au/basil)). The Eastwood seed library says herbs like 18 to 21 °C to get going ([City of Ryde seed library guide](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)).
 - **Sun and shade:** Loves full sun. In cooler climates it needs at least four hours of sun a day ([SGA](https://sgaonline.org.au/basil)).
 - **Watering:** Use the finger test, water in the morning, and do not use greywater ([SGA](https://sgaonline.org.au/basil)).
 - **Feeding:** Liquid seaweed, worm wee or liquid manure, fairly often through the season and after harvests. No interval is given ([SGA](https://sgaonline.org.au/basil)).
