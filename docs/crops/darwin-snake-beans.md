@@ -41,9 +41,13 @@ Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about
 4. Train the vines onto the trellis. Keep soil moist and water in dry spells.
 5. Pick about two weeks after flowering, usually 8 to 10 weeks after sowing, when the seed outlines are just visible. Pick at least twice a week, more in very hot weather.
 
-## Watch for
+## Pests and diseases
 
-- The NT page lists rusts, mildews, viruses, fungal diseases, root-knot nematodes, aphids, cutworms, bean flies and mites.
+- **Bean fly** is the worst snake bean pest in the dry season. Check seedlings twice a week in the first week after they come up ([bean fly](../pests/insects.md#bean-fly), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 66).
+- **Bean podborer and pod-sucking bug** attack flowers and pods ([details](../pests/insects.md#bean-podborer-and-pod-sucking-bug), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 50 to 54).
+- **Aphids:** cowpea aphid colonies build up before flowering ([cowpea aphid](../pests/insects.md#cowpea-and-melon-aphids), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 28).
+- **Bean rust:** choose black or white-seeded types, since brown-seeded ones are the most susceptible ([bean rust](../pests/diseases.md#bean-rust), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 148).
+- **Fusarium wilt** can collapse plants in one to three days around flowering. It is serious around Darwin ([details](../pests/diseases.md#fusarium-wilt-of-snake-beans), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 166).
 - Snake beans are also a root-knot nematode host. The NT manual puts them after a leafy crop and before cucurbits.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
@@ -61,3 +65,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [nt.gov.au, snake beans](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans), government
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

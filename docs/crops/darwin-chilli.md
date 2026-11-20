@@ -37,8 +37,12 @@
 3. Water well and protect from wind.
 4. First picking is about 10 weeks after sowing.
 
-## Watch for
+## Pests and diseases
 
+- **Broad mite and rust mite** curl and bronze leaves, and broad mite breeds in 4 to 5 days in the dry season. Check young top leaves weekly ([details](../pests/insects.md#broad-rust-and-russet-mites), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 72 to 76).
+- **Spiralling whitefly** and **fruit fly** are the other pests to watch ([details](../pests/insects.md#season-notes-for-the-top-end), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 70, 88).
+- **Anthracnose** causes sunken spots on ripening fruit, worse in wet, windy weather. **Pink disease** girdles stems in humid, foggy, rainy weather ([details](../pests/diseases.md#anthracnose-and-pink-disease-of-chilli), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 146, 172).
+- **Bacterial wilt** hits chilli in Darwin's red soils ([details](../pests/diseases.md#sclerotium-base-rot-and-bacterial-wilt), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 134).
 - The NT page lists caterpillars, fruit fly, aphids, rots, wilts and viruses. Rain and high humidity raise disease risk.
 - Plants do not grow below 10 degrees Celsius, and pollination can suffer above 32 degrees.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
@@ -57,3 +61,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [nt.gov.au, capsicum and chilli](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/capsicum-and-chilli), government
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

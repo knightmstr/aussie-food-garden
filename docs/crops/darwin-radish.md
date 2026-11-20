@@ -34,8 +34,9 @@
 2. Seedlings come up in 5 to 8 days.
 3. Pick from about 6 to 8 weeks.
 
-## Watch for
+## Pests and diseases
 
+- The NT field guide has no radish entry. Radish is a brassica, so the [diamondback moth](../pests/insects.md#diamondback-moth) entry may be relevant `[inference]`.
 - The sheet gives no pest advice for radish.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
@@ -52,4 +53,4 @@ The links open search results for this crop. I have not vetted every result agai
 ## Sources
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

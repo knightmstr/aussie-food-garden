@@ -2,7 +2,7 @@
 
 How to choose between a pot, a raised bed, in-ground planting and a trellis. The crop-by-crop table covers the 20 starter crops on the [Darwin](start/darwin.md) and [Sydney](start/sydney.md) pages.
 
-> **How reliable is this page?** Pot sizes come from one council in Adelaide ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)) and two Sydney sources. None is a Darwin source, so treat sizes as a starting point in the Top End. Where no source names a crop, the table says so instead of guessing. The photo and video links open search results that I have not checked one by one.
+> **How reliable is this page?** Pot sizes come from one council in Adelaide ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)) and two Sydney sources. None is a Darwin source, so treat sizes as a starting point in the Top End. Where no source names a crop, the table says so instead of guessing. The video links open search results that I have not checked one by one.
 
 ## Pick a method
 
@@ -43,7 +43,7 @@ Pot depths use Salisbury's three bands: shallow 15 to 20 cm, medium 20 to 30 cm,
 
 ## Photos and videos
 
-- **Photos for identification:** every crop page, and each pest and disease entry on the [insect](pests/insects.md) and [disease](pests/diseases.md) pages, links to a Wikimedia Commons image search. These are search results, so check that a photo matches the plant or pest before relying on it. Pests and diseases vary by region and growth stage.
+- **Photos for identification:** crop, pest and disease pages show licensed photos from Wikimedia Commons, with the author and licence under each one and the full list on the [photo credits](photo-credits.md) page. Some entries have no photo, or show a close relative of the plant. Check that a photo matches before relying on it, because pests and diseases vary by region and growth stage. Other entries link to a Wikimedia Commons image search.
 - **Videos:** the only video page I could confirm is the NT Government's [grafting snakebean video](https://nt.gov.au/industry/agriculture/food-crops-plants-and-quarantine/asian-vegetables/grafting-snakebean-video). That is an advanced technique, not a beginner task. I could read only its title, not watch it.
 - **Beginner video searches** (popular channels and Gardening Australia episodes appear in these results; I have not vetted them against this guide's sources):
   - [How to start a vegie patch, Australia](https://www.youtube.com/results?search_query=how+to+start+a+vegie+patch+Australia)
@@ -58,4 +58,4 @@ Pot depths use Salisbury's three bands: shallow 15 to 20 cm, medium 20 to 30 cm,
 - No Darwin source gives pot sizes. Salisbury is in Adelaide, so sizes are untested in the tropics.
 - Sweet potato, lemon grass, kang kong and radish have no pot guidance in the sources read.
 - I could not play or vet any video. Video advice may suit another climate or conflict with the sourced pages. When it does, follow the sourced page and the label on any product.
-- Photo links are searches, not chosen images. Licences vary by file, so check the licence on the file page before reusing a photo.
+- Some photos are of a close relative, and some entries have none. Licences vary by file, so check the file page before reusing a photo.

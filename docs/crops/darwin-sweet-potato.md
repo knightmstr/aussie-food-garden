@@ -36,8 +36,12 @@
 3. Mulch after planting to cool the soil, hold moisture and suppress weeds.
 4. First picking is about 18 to 20 weeks later.
 
-## Watch for
+## Pests and diseases
 
+- **Sweet potato weevil:** larvae tunnel through stems and roots, worse in the dry season. Mound soil, fill cracks and plant clean cuttings ([details](../pests/insects.md#sweet-potato-weevil), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 40).
+- **Tortoise beetle:** usually needs no control except on young plants ([details](../pests/insects.md#sweet-potato-tortoise-beetle), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 38).
+- **Giant northern termite** can hollow roots, and the damage often shows only at digging ([details](../pests/insects.md#giant-northern-termite), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 82).
+- **Feathery mottle virus and phytoplasma:** use virus-free cuttings and pull out infected plants ([details](../pests/diseases.md#sweet-potato-feathery-mottle-virus-and-phytoplasma), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 186 to 193).
 - Sweet potato is a root-knot nematode host, so do not follow another host crop with it `[inference]`.
 - The NT page suggests a sorghum or millet green manure before it as general advice `[inference]`.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
@@ -56,3 +60,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [nt.gov.au, sweet potato](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/sweet-potato), government
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

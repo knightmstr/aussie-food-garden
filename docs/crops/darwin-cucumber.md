@@ -39,9 +39,13 @@ Timing: the sheet shades April to August. The NT Agnote B4 says cucumber can be 
 3. Mulch after sowing.
 4. Pick from about 5 to 6 weeks.
 
-## Watch for
+## Pests and diseases
 
-- The [diseases page](../pests/diseases.md) covers powdery and downy mildew, which affect cucurbits.
+- **Melon aphid** spreads the mosaic viruses ([details](../pests/insects.md#cowpea-and-melon-aphids), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 30). Pull out plants with mottled, distorted leaves ([mosaic viruses](../pests/diseases.md#cucurbit-mosaic-viruses), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), pp. 188 to 193).
+- **Cucumber moth and pumpkin beetle** chew leaves and tips. Bt works only on very young caterpillars ([cucumber moth](../pests/insects.md#cucumber-moth), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 60).
+- **Melon thrips** make silvery, crinkled leaves ([details](../pests/insects.md#melon-thrips), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 84).
+- **Alternaria blight and downy and powdery mildew** are covered on the [diseases page](../pests/diseases.md#leaf-spots-alternaria-cercospora-and-bacterial) ([NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 136 to 174). The guide says downy mildew needs wet conditions.
+- **Choanephora wet rot** can rot fruit in 24 to 48 hours in warm humid rain. Keep fruit off the soil on a trellis or mulch ([details](../pests/diseases.md#choanephora-wet-rot), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 154).
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
 ## See it and watch it
@@ -57,4 +61,4 @@ The links open search results for this crop. I have not vetted every result agai
 ## Sources
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

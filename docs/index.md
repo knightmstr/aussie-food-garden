@@ -6,10 +6,11 @@ A sourced guide to growing food in Australia in ways that also look after the lo
 
 ## New to growing food? Start here
 
-Short beginner pages for two places, with first crops, what to sow each month and what to watch for. They sit on top of the full state pages.
+In the app, pick your place on the landing page. You get this month's starter crops, an all-crops list and a planting calendar for that place. The same pages are here as plain text, with first crops, what to sow each month and what to watch for. They sit on top of the full state pages.
 
-- [Start here: Darwin and the Top End](start/darwin.md)
-- [Start here: Sydney](start/sydney.md)
+- [Darwin and the Top End](start/darwin.md)
+- [Sydney](start/sydney.md)
+- [Growing methods, photos and videos](methods.md)
 - [Small spaces, pots and renting](start/small-spaces.md) for balconies, courtyards and rentals
 
 ## Find your state or territory
@@ -28,7 +29,7 @@ Not sure which region you are in? Each state page starts with a table of its reg
 
 ## What do you need?
 
-- **I want to know what to plant now:** open your state page and go to *What to plant, month by month*. Check the source type beside each table.
+- **I want to know what to plant now:** open the app's Planting calendar for Darwin or Sydney, or your state page and go to *What to plant, month by month*. Check the source type beside each table.
 - **Aphids are on my plants:** start with [aphids](pests/insects.md#aphids), then the [pest finder](pests/insects.md#pest-finder) for other insects.
 - **Something is wrong with the leaves or soil:** use the [problem finder](pests/diseases.md#problem-finder). [Powdery mildew](pests/diseases.md#powdery-mildew), [clubroot](pests/diseases.md#clubroot) and [root-knot nematode](pests/diseases.md#root-knot-nematode) are covered.
 - **I want soil that stays fertile:** read [rotation, soil and companions](principles.md), which separates what has evidence from what is folklore.

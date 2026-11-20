@@ -40,9 +40,12 @@ Timing: the sheet shades April to July for cherry tomato and May to July for ful
 3. Water the seedlings in with a weak fertiliser solution.
 4. Mulch. First picking is about 7 to 8 weeks later.
 
-## Watch for
+## Pests and diseases
 
-- See the [insect pests page](../pests/insects.md) for fruit fly and caterpillars, and the [diseases page](../pests/diseases.md) for wilts.
+- **Tomato leaf curl virus** is one of the most serious Top End tomato diseases, spread by whitefly. Late March sowing reduced it in the guide ([details](../pests/diseases.md#tomato-leaf-curl-virus), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 188 to 193).
+- **Bacterial wilt** occurs in red soils around Darwin. Use clean potting mix ([details](../pests/diseases.md#sclerotium-base-rot-and-bacterial-wilt), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 134).
+- **Fruit fly** stings young green tomatoes ([details](../pests/insects.md#season-notes-for-the-top-end), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 70). **Corn earworm** attacks flowers and fruit ([details](../pests/insects.md#helicoverpa-and-cluster-caterpillars), [NT DPIF field guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 58). **Russet mite** bronzes stems from the base up ([details](../pests/insects.md#broad-rust-and-russet-mites), [NT DPIF field guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 78).
+- **Leaf spots and blossom end rot:** remove infected lower leaves, keep foliage dry and water evenly ([details](../pests/diseases.md#leaf-spots-alternaria-cercospora-and-bacterial), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 142, 196).
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
 ## See it and watch it
@@ -59,3 +62,4 @@ The links open search results for this crop. I have not vetted every result agai
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
 - [nt.gov.au, tomatoes](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/tomatoes), government
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

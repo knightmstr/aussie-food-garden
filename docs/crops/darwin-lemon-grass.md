@@ -35,9 +35,9 @@
 3. Mulch after planting.
 4. First picking is about 12 weeks later.
 
-## Watch for
+## Pests and diseases
 
-- The sheet gives no pest advice for lemon grass.
+- The NT field guide has no lemon grass entry, and the sheet gives no pest advice for it.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
 ## See it and watch it

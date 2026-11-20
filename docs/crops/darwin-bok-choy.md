@@ -36,9 +36,11 @@
 2. Seedlings come up in 5 to 7 days.
 3. Pick from about 4 to 6 weeks.
 
-## Watch for
+## Pests and diseases
 
-- The [insect pests page](../pests/insects.md) covers caterpillars and aphids, with organic fixes.
+- **Diamondback moth** chews windows and holes in leaves. It is favoured by warm dry weather, and wet-season rain reduces it ([details](../pests/insects.md#diamondback-moth), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 62).
+- **Cluster caterpillar** skeletonises leaves ([details](../pests/insects.md#helicoverpa-and-cluster-caterpillars), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 56).
+- **Black rot and leaf spots:** use clean seed, remove residue and avoid overhead watering ([details](../pests/diseases.md#leaf-spots-alternaria-cercospora-and-bacterial), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 132 to 140).
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
 ## See it and watch it
@@ -54,4 +56,4 @@ The links open search results for this crop. I have not vetted every result agai
 ## Sources
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

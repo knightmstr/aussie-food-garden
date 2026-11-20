@@ -407,6 +407,102 @@ Exclusion is the non-lethal option. Queensland Government netting spec ([Queensl
 
 **Evidence:** strong for exclusion netting with the spec above.
 
+## Darwin and Top End pests
+
+> **About this section.** It comes from the NT Government's [Field Guide to Pests, Beneficials, Diseases and Disorders of Vegetables in northern Australia](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf) (NT DPIF, 2014), which is written for commercial growers. Page numbers are the guide's printed pages, read through a text summary, so check a page before relying on it. The guide names no products and gives no home-garden rates. Only actions that suit a backyard are kept here. The guide has colour photos of every entry, but they are not reproduced because no licence is stated.
+
+### Bean fly
+
+**Hits:** snake beans, and other beans. The guide calls it the most serious snake bean pest in the NT dry season. **Recognise:** small yellow puncture marks on young leaves, then wilting seedlings. Maggots tunnel through the leaf stalks and stems, and older stems crack, thicken and scar (p. 66). **Do:** check seedlings twice a week and act in the first week after they come up. The guide's threshold is more than one larval tunnel per plant. Rotate with non-bean crops. Six parasitic wasp species have been bred from bean fly pupae in Darwin.
+
+### Bean podborer and pod-sucking bug
+
+**Hits:** snake beans. **Podborer (p. 54):** caterpillars bore into flowers and pods and eat the seeds. Entry holes are plugged with frass and webbing, so check flowers and leaves for webbing. **Pod-sucking bug (p. 50):** dark brown, 14 to 18 mm, with yellow side stripes. It leaves puncture marks and dried, distorted seeds. Its nymphs mimic green tree ants. Look weekly in the early morning from flowering. Spiders, ants and predatory bugs eat the eggs and nymphs.
+
+### Sweet potato weevil
+
+**Hits:** sweet potato. **Recognise:** a slender 5 to 7 mm beetle with a metallic blue head and wing covers. The larvae tunnel through stems and storage roots, and damaged roots taste bitter (p. 40). It is worse in the dry season, because hot dry weather favours the larvae and soil cracks give access. **Do:** mound soil around the plant bases, fill cracks, water to reduce cracking, rotate crops, remove infested material and plant clean vine cuttings. The guide notes that Bt (*Bacillus thuringiensis*) and the fungi *Beauveria* and *Metarhizium* attack the weevil. Ants, spiders, ground beetles and earwigs prey on it.
+
+### Sweet potato tortoise beetle
+
+**Hits:** sweet potato and kang kong. **Recognise:** a golden, dome-shaped beetle 10 to 13 mm long, with spiny brown larvae and eggs in papery golden-brown cases (p. 38). Young larvae scrape leaves to a see-through membrane, and older ones and adults make round holes. **Do:** the guide says control is usually unnecessary except on young plants. Wasp parasites attack the eggs and larvae.
+
+### Diamondback moth
+
+**Hits:** bok choy, cabbage and other brassicas. **Recognise:** small green larvae chew windows and holes, and heavy attacks skeletonise leaves (p. 62). It is favoured by warm dry weather, and wet-season rain and humidity raise its death rate. A generation takes 14 to 21 days. **Do:** check young leaves and growing tips, upper and lower surfaces. The guide reports that Bt and spinosad helped in interstate studies, and notes resistance to synthetic pyrethroids and organophosphates. Wasp parasites, lacewing larvae, predatory bugs and spiders feed on it.
+
+### Cucumber moth
+
+**Hits:** cucumber, bitter melon, zucchini, rockmelon and watermelon. **Recognise:** green larvae with white side stripes join leaf parts with silk and droppings, and they feed on growing tips and sometimes flowers (p. 60). Fruit touching the ground is damaged. **Do:** inspect twice a week. The guide gives Bt as the first option because it does not harm beneficials, but it works only on very young larvae, so cover the plant thoroughly. Predatory bugs, ants and lacewing larvae eat the eggs and larvae.
+
+### Eggfruit caterpillar
+
+**Hits:** eggplant (preferred), tomato and capsicum. **Recognise:** pink caterpillars tunnel into fruit and stems and fill the tunnels with droppings. Eggs turn from creamy white to red and sit around the calyx (p. 64). A life cycle takes about three weeks all year. **Do:** look for eggs, remove old crop residue after harvest and keep good hygiene.
+
+### Helicoverpa and cluster caterpillars
+
+**Hits:** tomato, sweet corn, cabbage, pumpkin, zucchini, eggplant, capsicum and many others. **Recognise:** chewed leaves, flowers and fruit. Cluster caterpillar eggs sit in masses under the leaves, and the young caterpillars skeletonise leaves (pp. 56 to 58). The risk is highest from flowering through fruit development. **Do:** start checking just before flowering, weekly and then twice weekly. Digging the top 10 cm of soil after a crop destroys the pupae. The guide says NPV and Bt may help for earworm, but NPV does not control cluster caterpillar and Bt works only on very young ones. Predatory bugs, ants, lacewing larvae, parasitic wasps and tachinid flies are natural enemies.
+
+### Broad, rust and russet mites
+
+- **Broad mite (p. 72):** curled, thickened, bronzed leaves and distorted growing tips. A generation takes only 4 to 5 days in the dry season. Check young top leaves and flowers weekly, and avoid infested seedlings.
+- **Rust mite (p. 76):** bronzed leaves with curled edges that turn coppery and drop. Check weekly from when plants are young, and clear old crop residue quickly.
+- **Tomato russet mite (p. 78):** bronzing that starts at the plant base and moves up, and blotchy fruit skin. Use clean seedlings and avoid moving between infested plantings.
+- **False spider mite (p. 74):** brown or red marks and blistering under the leaves. The red eggs are the easiest stage to see.
+- Native predatory mites, lacewing larvae and predatory thrips feed on all of these. The guide says to avoid pesticides that harm them.
+
+### Melon thrips
+
+**Hits:** cucumber and other cucurbits, beans, chilli, capsicum, eggplant, tomato and okra. **Recognise:** crinkled, silvery leaves, especially along the veins, stunted tips and scarred fruit (p. 84). Eggs hatch in 3 to 4 days in Top End conditions. **Do:** check the undersides of new and medium-aged leaves weekly after transplanting in the dry season. Predators include *Deraeocoris* (the guide's most important), minute pirate bugs, lacewing larvae and predatory mites.
+
+### Cowpea and melon aphids
+
+- **Cowpea aphid (p. 28):** shiny black aphids on snake bean tips and pods. A generation takes 5 to 7 days in warm weather, so check before flowering.
+- **Melon aphid (p. 30):** spreads the cucurbit mosaic viruses. Destroy infested crops and weeds after harvest, and avoid sprays that kill the beneficials that eat it.
+
+### Coastal brown ant and ginger ant
+
+- **Coastal brown ant (p. 32):** does not feed on plants but tends aphids, scale and mealybugs. It forms very large colonies in moist, shady parts of the Top End. The guide says baits made for this ant usually work well, but it names none.
+- **Ginger ant (p. 34):** chews newly sown seed, seedlings and snake bean pods, and it stings. It nests in open hot ground.
+
+### Giant northern termite
+
+**Giant northern termite (p. 82)** bores into sweet potato, cassava, eggplant and chilli from underground. Plants wilt, and sweet potato damage often shows only when the root is dug. To test a nearby tree, drill a 12 mm hole at waist height. If termites seal it with mud within 24 hours, they are active. Treating infested trees often protects nearby crops.
+
+### Season notes for the Top End
+
+- Silverleaf whitefly takes about 18 days to complete its life cycle, and populations can build quickly (p. 86). Spiralling whitefly is usually higher in the dry season. Its parasitic wasp *Encarsia* is now well established in most NT areas, but a new infestation can take weeks to months to come under control (p. 88).
+- Two-spotted mite is worth watching early in the dry season (p. 80). The guide lists potassium soap with spray oil as a spot treatment, with a warning that it can burn sensitive plants.
+- Queensland fruit fly stings young green tomatoes and ripening capsicum and chilli (p. 70). Cucumber fly only occasionally attacks home-garden cucurbits and ripe tomatoes (p. 68), so remove fallen fruit.
+- Migrating seed bugs gather on crops from early May and can stay for weeks (p. 46). They mark fruit but are not a feeding pest.
+
+**Evidence:** good for identification and Top End timing, because it is a government guide written for the region. It is aimed at commercial crops, and its pesticide advice is not repeated here.
+
+**Source:** [NT DPIF field guide, pests, pp. 28 to 88](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf).
+
+## Beneficial insects in the Top End
+
+The NT field guide lists these as the predators and parasites worth sparing (pp. 92 to 129). Avoid broad-spectrum sprays, which kill them.
+
+| Beneficial | Eats or does | Backyard action |
+|---|---|---|
+| Honey bees and native bush bees | Pollinate cucurbits | Avoid disturbing bush bee nests, and keep sprays off flowers when bees are foraging |
+| Ground beetles | Aphids, caterpillars, fly stages, slugs | Mulch and leave some weedy margins for shelter |
+| Ladybirds | Aphids, scale, mealybugs, mites, whitefly | Tolerate small aphid colonies, which feed them |
+| Assassin bugs | Caterpillars and bugs | Leave them alone, because they can bite if handled |
+| Minute pirate bugs and big-eyed bugs | Thrips, mites, aphids | Flowering plants help keep them around |
+| Spined predatory shield bug | Helicoverpa eggs and larvae | Let it be |
+| Hoverfly larvae | Aphids, mealybugs, whitefly | Flowers such as coriander attract the adults |
+| Tachinid flies | Parasitise caterpillars | Seen as adults on flowers |
+| Lacewings | Aphids, mites, scale, whitefly, moth eggs | Nearby trees and shrubs help them settle |
+| Predatory mites and six-spotted thrips | Spider mites and other mites | A hand lens helps you find them |
+| Parasitic wasps | Whitefly, scale, mealybugs, caterpillars, fruit fly larvae | Mixed plantings and non-crop flowers, with fewer sprays |
+| Spiders | Flying and crawling insects | Leave webs and leaf litter where you can |
+
+Two cautions from the guide: rove beetles of the genus *Paederus* carry a skin-irritant toxin, so do not crush them on your skin, and the mealybug ladybird works best when released close to its prey.
+
+**Source:** [NT DPIF field guide, beneficials, pp. 92 to 129](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf).
+
 ## Products explained
 
 These notes come from industry factsheets, council guides and retail pages, and not from efficacy trials. Registration status is unverified for every home-garden pack unless stated. Check the APVMA PubCRIS and the product label or permit ([VG15010](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-biopesticides-in-australia-fact-sheet.pdf) tells readers to do this).
@@ -438,6 +534,7 @@ These notes come from industry factsheets, council guides and retail pages, and 
 
 ## Gaps
 
+- The Darwin and Top End sections come from a commercial-grower guide. It names no products and gives no home-garden rates. Its pesticide advice is left out, and page numbers were read through a text summary.
 Requested pests with no usable entry in the sources reviewed:
 
 - Lightbrown apple moth. The Bt label lists it as a target and Trichogramma carverae parasitises its eggs, but nothing dedicated was found.
@@ -457,6 +554,7 @@ Other gaps:
 
 ## Sources
 
+- [NT DPIF Field Guide to Pests, Beneficials, Diseases and Disorders of Vegetables in northern Australia (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
 - [Hort Innovation VG16062, Boosting beneficials](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg16062-boosting-beneficials-in-your-vegetable-crop.pdf), industry research
 - [Hort Innovation VG15010, Biopesticides in Australia](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-biopesticides-in-australia-fact-sheet.pdf), industry research
 - [Hort Innovation NY15002, True bugs](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/ny15002-true-bugs-factsheet.pdf), industry research

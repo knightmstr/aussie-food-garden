@@ -36,8 +36,10 @@
 2. Seedlings come up in 5 to 7 days.
 3. First picking is about 7 to 8 weeks later.
 
-## Watch for
+## Pests and diseases
 
+- **White blister:** white blisters under the leaves and pale spots on top. Keep to hygiene and avoid contaminated equipment and planting material ([details](../pests/diseases.md#white-blister-of-kang-kong), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 182).
+- **Tortoise beetle** also feeds on kang kong, leaving round holes ([details](../pests/insects.md#sweet-potato-tortoise-beetle), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 38).
 - The sheet gives no pest advice for kang kong.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
@@ -54,4 +56,4 @@ The links open search results for this crop. I have not vetted every result agai
 ## Sources
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

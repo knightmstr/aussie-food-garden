@@ -404,6 +404,73 @@
 **Evidence:** moderate (government, broadacre).
 **Sources:** as linked above.
 
+## Darwin and Top End diseases
+
+> **About this section.** It comes from the NT Government's [Field Guide to Pests, Beneficials, Diseases and Disorders of Vegetables in northern Australia](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf) (NT DPIF, 2014), written for commercial growers. Page numbers are the guide's printed pages, read through a text summary, so check a page before relying on it. The guide gives chemical options for some diseases, which are not repeated here. Only actions that suit a backyard are kept. Its photos are not reproduced because no licence is stated.
+
+### Bean rust
+
+**Hits:** snake beans and cowpea. **Recognise:** light green spots that turn into orange to reddish powdery pustules on leaves and pods (p. 148). **Do:** choose black or white-seeded snake beans, because brown-seeded types are the most susceptible, and remove old crop residue.
+
+### Fusarium wilt of snake beans
+
+**Recognise:** sudden wilting and collapse within one to three days, often at flowering and pod set. The inside of the stem is reddish brown (p. 166). The guide calls it serious around Darwin, first reported in 1999 and now on most snake bean properties. **Do:** use clean seed and good hygiene. Commercial growers graft onto 'Iron' cowpea rootstock. The guide gives no backyard fix, so rotate beds and do not plant snake beans back into a patch where plants collapsed.
+
+### Fusarium wilt of basil
+
+**Recognise:** black water-soaked patches on seedlings, then stunting, wilting and leaf drop, with grey-brown tissue inside the stem (p. 164). The guide calls it a major Top End disease of basil, and the fungus persists in soil for years. **Do:** use resistant varieties and certified disease-free seed, disinfect trays and pots, and do not reuse infected soil or pots.
+
+### Tomato leaf curl virus
+
+**Recognise:** stunted plants with leaves that roll up and in, thick leathery leaves with purple-tinged veins and small dry fruit (pp. 188 to 193). The guide calls it one of the most serious tomato diseases in the Top End, especially on the coast. The sweet potato whitefly spreads it, and wild Malay eggplant can carry it without symptoms. **Do:** control whitefly and weeds. Crops sown in February had more disease than those sown in March, and late March sowing reduced it. Viruses cannot be cured, so pull infected plants out.
+
+### Cucurbit mosaic viruses
+
+**Hits:** cucumber, zucchini, squash, pumpkin, watermelon and rockmelon. **Recognise:** mottled light and dark green leaves, distorted narrow leaves and bumpy or misshapen fruit (pp. 188 to 193). Melon aphids spread them. **Do:** watch for aphids and symptoms, remove infected plants straight away and stagger plantings so the virus does not build up. The guide notes a single aphid can spread the virus, so spraying only helps a little.
+
+### Choanephora wet rot
+
+**Hits:** pumpkin, squash and zucchini. **Recognise:** soft wet rot that starts at flowers and blossom ends, with a furry growth with black spore heads. Fruit can rot in 24 to 48 hours in warm, humid, rainy weather (p. 154). **Do:** keep fruit off the soil with raised beds, mulch or a trellis, and use drip irrigation.
+
+### Leaf spots: Alternaria, Cercospora and bacterial
+
+- **Alternaria leaf blight of cucurbits (p. 136):** brown circular spots with target rings on the oldest leaves. Rotate every three years, remove or bury residue and use clean seed.
+- **Alternaria target spot of tomato (p. 142):** brown to black spots on lower leaves, usually after flowering. Remove lower infected leaves and keep foliage dry.
+- **Alternaria spot of brassicas (p. 140):** ringed spots that tear out and leave holes. Remove residue and rotate.
+- **Bacterial leaf spots and black rot of brassicas (p. 132):** yellow V-shaped patches on cabbage leaf edges. The guide calls black rot one of the most serious brassica diseases in warm, humid climates. Use clean seed, remove residue and avoid overhead watering.
+- **Cercospora leaf spot (p. 152):** affects many crops, including basil, snake bean and tomato. The guide says it is usually minor in well-managed crops.
+
+### White blister of kang kong
+
+**Recognise:** white blisters under the leaves and on stems, with pale green to yellow spots on the top surface (p. 182). Leaves distort and die in advanced cases. Spores spread by water and wind. **Do:** keep to field hygiene and avoid contaminated equipment and planting material.
+
+### Sweet potato feathery mottle virus and phytoplasma
+
+- **Feathery mottle virus (pp. 188 to 193):** mottled young leaves, yellow spots with purple edges, and thin, cracked roots. Aphids and infected planting material spread it. Use virus-free planting material and destroy infected plants.
+- **Phytoplasmas (p. 186):** yellowing, little leaves and witches' broom on sweet potato, chilli, tomato and beans. A leafhopper that breeds in weeds spreads them. The guide says they are not economically important in the NT. Remove weeds around crops.
+
+### Sclerotium base rot and bacterial wilt
+
+- **Sclerotium stem and base rot (p. 180):** rot at the stem base with white cottony threads and tiny round brown seeds (sclerotia). Plants yellow and die within days. Keep infected soil and plant material out, rotate with sweet potato, remove residue and weeds, and avoid fruit touching soil.
+- **Bacterial wilt in Darwin soils:** the guide says it is found in red lateritic soils around Darwin and light levee soils near Katherine (p. 134). Sudden wilting at fruit set with milky slime from a cut stem is the sign. Use clean potting mix and avoid planting in known affected soils. See also the [bacterial wilt entry](#bacterial-wilt) above.
+
+### Anthracnose and pink disease of chilli
+
+- **Anthracnose (p. 146):** sunken dark spots on ripening fruit, worse in wet, windy weather. Chilli is the most common host. Use disease-free seed, pick ripe fruit promptly and keep leaves dry.
+- **Pink disease (p. 172):** swollen or sunken patches on stems, cracked bark and plant death, favoured by fog, rain, overhead watering and humidity. Prune infected parts well beyond the damage and thin dense plantings.
+
+### Other Darwin notes on earlier entries
+
+- **Root-knot nematode (p. 184):** the guide recommends a large amount of organic matter or a green manure (no small-plot rate is given). A *Crotalaria spectabilis* trap crop was trialled once in Darwin and may help in home gardens. Do not confuse the galls with nitrogen nodules on bean roots.
+- **Blossom end rot (p. 196):** caused by uneven watering, hot dry wind, low soil calcium, too much nitrogen or salts, or waterlogging. Fix the watering first.
+- **Damping-off (p. 158):** use bagged potting mix, clean containers, thin seedlings and do not overwater.
+- **Powdery mildew and downy mildew (pp. 160 to 174):** the NT guide says downy mildew needs wet conditions, while powdery mildew can start in dry weather. Remove old crop residue and choose resistant varieties such as Kent (Jap) pumpkin.
+- **Cucurbit stunting (p. 198):** a hardpan problem in sandy Katherine soils, not a disease. Roots are small and J-shaped.
+
+**Evidence:** good for identification and Top End timing, since it is a government guide for the region. It is aimed at commercial crops, and some advice (grafting, seed treatment) is not practical at home.
+
+**Source:** [NT DPIF field guide, diseases and disorders, pp. 132 to 201](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf).
+
 ## Products and inputs explained
 
 ### Potassium bicarbonate
@@ -454,6 +521,7 @@
 
 ## Gaps
 
+- The Darwin and Top End section comes from a commercial-grower guide. It gives no home-garden rates, its chemical advice is left out, and page numbers were read through a text summary.
 Requested problems with no entry, and sourcing holes:
 
 - **Early blight (Alternaria) of tomato and potato:** no source read; treat organic options as ungraded. (A tomato-potato rotation note says they share early and late blight, from a seed retailer blog, weak.)
@@ -470,6 +538,7 @@ Requested problems with no entry, and sourcing holes:
 
 ## Sources
 
+- [NT DPIF Field Guide to Pests, Beneficials, Diseases and Disorders of Vegetables in northern Australia (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
 - [Hort Innovation VG05094, greenhouse foliar diseases](https://www.horticulture.com.au/globalassets/hort-innovation/historic-reports/sustainable-integrated-control-of-foliar-diseases-in-greenhouse-vegetables-vg05094.pdf), levy-funded research report
 - [Hort Innovation VG15010 clubroot fact sheet](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-clubroot-management-in-brassica-vegetables-fact-sheet.pdf), levy-funded fact sheet
 - [Hort Innovation VG15010 soilborne disease guide](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-soilborne-disease-in-vegetable-crops-guide.pdf), levy-funded guide (first 100,000 of 164,431 characters read)

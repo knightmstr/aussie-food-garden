@@ -37,9 +37,11 @@ The sheet gives no weeks to picking for basil.
 3. Space plants 30 cm apart, in rows 30 cm apart.
 4. Mulch straight after planting.
 
-## Watch for
+## Pests and diseases
 
-- The sheet gives no pest advice for basil. See the [insect pests page](../pests/insects.md) if leaves are chewed or curled.
+- **Fusarium wilt of basil** is a major Top End disease. Use resistant varieties and clean seed, and do not reuse infected soil or pots ([details](../pests/diseases.md#fusarium-wilt-of-basil), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 164).
+- **Spiralling whitefly:** check weekly. Numbers are usually higher in the dry season, and a parasitic wasp keeps them down in most NT areas ([details](../pests/insects.md#season-notes-for-the-top-end), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 88).
+- The sheet gives no pest advice for basil.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
 ## See it and watch it
@@ -55,4 +57,4 @@ The links open search results for this crop. I have not vetted every result agai
 ## Sources
 
 - [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-
+- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government

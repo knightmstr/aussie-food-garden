@@ -2,7 +2,7 @@
 
 A sourced, state-by-state guide to growing food in Australia that also looks after the local environment: what to plant and when, what grows well together, what to rotate or sow to keep soil fertile, and how to deal with pests and disease organically.
 
-Everything is plain markdown in [`docs/`](docs/), so it reads fine on GitHub. The same files also power a small offline web app (installable on iPhone and Android) built from [`site/`](site/).
+Everything is plain markdown in [`docs/`](docs/), so it reads fine on GitHub. The same files also power a small offline web app (installable on iPhone and Android) built from [`site/`](site/). The app has light and dark modes, a place picker for Darwin and Sydney with a per-month planting calendar, licensed photos for crops, pests and diseases (credits in [`docs/photo-credits.md`](docs/photo-credits.md)), and Darwin pest and disease notes from the NT Government field guide.
 
 ## Read it
 
