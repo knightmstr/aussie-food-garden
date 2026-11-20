@@ -6,7 +6,7 @@ on:
         description: candidates or final
         default: candidates
 permissions:
-  contents: read
+  contents: write
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -15,7 +15,12 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
       - run: node scripts/fetch-photos.mjs ${{ github.event.inputs.mode }}
-      - uses: actions/upload-artifact@v4
-        with:
-          name: photos-${{ github.event.inputs.mode }}
-          path: out
+      - name: Publish results to a scratch branch
+        run: |
+          mkdir /tmp/res && cp -r out/* /tmp/res/
+          git config user.name "photo-bot"; git config user.email "photo-bot@users.noreply.github.com"
+          git checkout --orphan photos-${{ github.event.inputs.mode }}
+          git rm -rf -q . 
+          cp -r /tmp/res/* .
+          git add -A && git commit -q -m "photos ${{ github.event.inputs.mode }}"
+          git push -f origin photos-${{ github.event.inputs.mode }}
