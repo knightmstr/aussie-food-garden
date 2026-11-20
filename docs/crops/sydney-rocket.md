@@ -4,7 +4,7 @@
 
 *Photo: Leo Michels, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eruca_sativa_1_IP0206101.jpg). Resized.*
 
-> **Sydney.** One of the fastest salad crops to grow. Months and sowing figures come from one council's seed library list[15](../references.md#r15) where listed, with timing and tips from the sources named below. None of them gives frost dates.
+> **Sydney.** One of the fastest salad crops to grow. Months and sowing figures come from one council's seed library list[176](../references.md#r176) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts
 
@@ -37,7 +37,7 @@ The pattern for every crop in this guide is in [what to plant after each crop](.
 
 ## Growing methods
 
-- **In a pot:** Salisbury puts leafy greens in a shallow pot, 15 to 20 cm deep[18](../references.md#r18). The City of Sydney gives 20 to 30 cm for vegetables and herbs[16](../references.md#r16). Both are shown.
+- **In a pot:** Salisbury puts leafy greens in a shallow pot, 15 to 20 cm deep[186](../references.md#r186). The City of Sydney gives 20 to 30 cm for vegetables and herbs[177](../references.md#r177). Both are shown.
 - More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
 
 ## How to grow it
@@ -48,13 +48,13 @@ The pattern for every crop in this guide is in [what to plant after each crop](.
 
 ## Care guide
 
-- **Starting:** Sow year-round in most climates, though cooler weather gives the best crops. Sow every 3 to 4 weeks. Leaves are ready after about 6 weeks[30](../references.md#r30).
-- **Temperature:** Cooler temperatures give the best crops, and sudden changes can cause bolting[30](../references.md#r30).
-- **Sun and shade:** Full sun to part shade. In very hot summers use part shade or protect from afternoon sun[30](../references.md#r30).
-- **Watering:** Keep the soil moist, especially in hot, dry weather. Drying out can cause bolting. Mulch with sugarcane or pea straw[30](../references.md#r30).
-- **Feeding:** Feed weekly with a liquid fertiliser for herbs and vegetables. No dilution rate is given[30](../references.md#r30).
-- **Care:** Pick the outer leaves first and pick regularly. Pinch off flower buds to prevent bolting. Use good potting mix in pots[30](../references.md#r30).
-- **Common problems and fixes:** Bolting: even moisture, mulch, regular picking, removing flower buds, and shade. Flea beetles make small holes but are generally minor[30](../references.md#r30).
+- **Starting:** Sow year-round in most climates, though cooler weather gives the best crops. Sow every 3 to 4 weeks. Leaves are ready after about 6 weeks[286](../references.md#r286).
+- **Temperature:** Cooler temperatures give the best crops, and sudden changes can cause bolting[286](../references.md#r286).
+- **Sun and shade:** Full sun to part shade. In very hot summers use part shade or protect from afternoon sun[286](../references.md#r286).
+- **Watering:** Keep the soil moist, especially in hot, dry weather. Drying out can cause bolting. Mulch with sugarcane or pea straw[286](../references.md#r286).
+- **Feeding:** Feed weekly with a liquid fertiliser for herbs and vegetables. No dilution rate is given[286](../references.md#r286).
+- **Care:** Pick the outer leaves first and pick regularly. Pinch off flower buds to prevent bolting. Use good potting mix in pots[286](../references.md#r286).
+- **Common problems and fixes:** Bolting: even moisture, mulch, regular picking, removing flower buds, and shade. Flea beetles make small holes but are generally minor[286](../references.md#r286).
 - **Not found:** Exact temperatures and pot size.
 
 ## Companion crops
@@ -80,6 +80,6 @@ The links open search results for this crop. I have not vetted every result agai
 
 Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
 
-[15](../references.md#r15) [16](../references.md#r16) [18](../references.md#r18) [30](../references.md#r30)
+[176](../references.md#r176) [177](../references.md#r177) [186](../references.md#r186) [286](../references.md#r286)
 
 All references are in the [References appendix](../references.md).

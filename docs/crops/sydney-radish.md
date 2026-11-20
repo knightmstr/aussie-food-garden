@@ -4,7 +4,7 @@
 
 *Photo: Schlaghecken Josef, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raphanus_sativus_Radieschen,_Bakterielle_Nassf%C3%A4ule,_J.Schlaghecken-1a.jpg). Resized.*
 
-> **Sydney.** Radish and turnip are described as the fastest vegetables to grow. Months and sowing figures come from one council's seed library list[15](../references.md#r15) where listed, with timing and tips from the sources named below. None of them gives frost dates.
+> **Sydney.** Radish and turnip are described as the fastest vegetables to grow. Months and sowing figures come from one council's seed library list[176](../references.md#r176) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts
 
@@ -46,19 +46,19 @@ The pattern for every crop in this guide is in [what to plant after each crop](.
 
 ## Care guide
 
-- **Starting:** Sow in loose, well-drained soil with blood and bone dug in. Cover lightly. Seedlings come up in about a week. Thin to 10 to 15 cm and sow every 3 to 4 weeks. Winter types take 8 to 10 weeks and are sown from late summer to early autumn[29](../references.md#r29).
-- **Temperature:** No figures. Pull winter types if frost is expected[29](../references.md#r29).
-- **Sun and shade:** Full sun[29](../references.md#r29).
-- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting[29](../references.md#r29).
-- **Feeding:** Not required. Blood and bone at planting, and optionally a liquid organic fertiliser weekly or fortnightly[29](../references.md#r29).
-- **Care:** Mulch with sugarcane or pea straw and do not strip too much foliage[29](../references.md#r29).
-- **Common problems and fixes:** Splitting and bolting: even moisture. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time[29](../references.md#r29).
+- **Starting:** Sow in loose, well-drained soil with blood and bone dug in. Cover lightly. Seedlings come up in about a week. Thin to 10 to 15 cm and sow every 3 to 4 weeks. Winter types take 8 to 10 weeks and are sown from late summer to early autumn[285](../references.md#r285).
+- **Temperature:** No figures. Pull winter types if frost is expected[285](../references.md#r285).
+- **Sun and shade:** Full sun[285](../references.md#r285).
+- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting[285](../references.md#r285).
+- **Feeding:** Not required. Blood and bone at planting, and optionally a liquid organic fertiliser weekly or fortnightly[285](../references.md#r285).
+- **Care:** Mulch with sugarcane or pea straw and do not strip too much foliage[285](../references.md#r285).
+- **Common problems and fixes:** Splitting and bolting: even moisture. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time[285](../references.md#r285).
 - **Not found:** Any figure for temperature or watering. Only one retailer page was read.
 
 ## Companion crops
 
 - **Good neighbours:** [Peas](sydney-peas.md), [Lettuce](sydney-lettuce.md), [Cucumber](sydney-cucumber.md), [Nasturtium](../companions.md#nasturtium).
-- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8). Each pairing is rated on the [companion crops page](../companions.md).
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[125](../references.md#r125). Each pairing is rated on the [companion crops page](../companions.md).
 - Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
 
 ## Watch for
@@ -80,6 +80,6 @@ The links open search results for this crop. I have not vetted every result agai
 
 Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
 
-[8](../references.md#r8) [15](../references.md#r15) [29](../references.md#r29) [39](../references.md#r39)
+[125](../references.md#r125) [176](../references.md#r176) [285](../references.md#r285) [376](../references.md#r376)
 
 All references are in the [References appendix](../references.md).

@@ -4,7 +4,7 @@
 
 *Photo: Schlaghecken Josef, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raphanus_sativus_Radieschen,_Bakterielle_Nassf%C3%A4ule,_J.Schlaghecken-1a.jpg). Resized.*
 
-> **Darwin and Katherine.** One of the quickest crops on the sheet. Figures come from the NT Government sowing sheet[5](../references.md#r5), which is government but old (2005/2008). Other sources are named below.
+> **Darwin and Katherine.** One of the quickest crops on the sheet. Figures come from the NT Government sowing sheet[113](../references.md#r113), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts
 
@@ -50,19 +50,19 @@ The pattern for every crop in this guide is in [what to plant after each crop](.
 
 ## Care guide
 
-- **Starting:** Sow in loose, well-drained soil with organic matter, with blood and bone dug in first. Cover the seed lightly. Seedlings come up in about a week. Thin to 10 to 15 cm, eat the thinnings, and sow every 3 to 4 weeks. Summer types take 4 to 6 weeks[29](../references.md#r29).
-- **Temperature:** No figures. The page lists tropical climates as suitable and says summer types grow year-round in most climates[29](../references.md#r29).
-- **Sun and shade:** Full sun[29](../references.md#r29).
-- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting, and bolted roots turn woody and bitter[29](../references.md#r29).
-- **Feeding:** Not required. Blood and bone at planting, and optionally an organic liquid fertiliser weekly or fortnightly[29](../references.md#r29).
-- **Care:** Mulch with sugarcane or pea straw. Do not strip too much foliage from one plant[29](../references.md#r29).
-- **Common problems and fixes:** Splitting and bolting: keep soil moist. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time[29](../references.md#r29).
+- **Starting:** Sow in loose, well-drained soil with organic matter, with blood and bone dug in first. Cover the seed lightly. Seedlings come up in about a week. Thin to 10 to 15 cm, eat the thinnings, and sow every 3 to 4 weeks. Summer types take 4 to 6 weeks[285](../references.md#r285).
+- **Temperature:** No figures. The page lists tropical climates as suitable and says summer types grow year-round in most climates[285](../references.md#r285).
+- **Sun and shade:** Full sun[285](../references.md#r285).
+- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting, and bolted roots turn woody and bitter[285](../references.md#r285).
+- **Feeding:** Not required. Blood and bone at planting, and optionally an organic liquid fertiliser weekly or fortnightly[285](../references.md#r285).
+- **Care:** Mulch with sugarcane or pea straw. Do not strip too much foliage from one plant[285](../references.md#r285).
+- **Common problems and fixes:** Splitting and bolting: keep soil moist. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time[285](../references.md#r285).
 - **Not found:** A Darwin or NT source, and any figure for watering or temperature. Only one retailer page was read.
 
 ## Companion crops
 
 - **Good neighbours:** [Peas](../companions.md#peas), [Lettuce](../companions.md#lettuce), [Cucumber](darwin-cucumber.md), [Nasturtium](../companions.md#nasturtium).
-- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8). Each pairing is rated on the [companion crops page](../companions.md).
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[125](../references.md#r125). Each pairing is rated on the [companion crops page](../companions.md).
 - Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
 
 ## Pests and diseases
@@ -85,6 +85,6 @@ The links open search results for this crop. I have not vetted every result agai
 
 Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
 
-[5](../references.md#r5) [6](../references.md#r6) [8](../references.md#r8) [29](../references.md#r29)
+[113](../references.md#r113) [120](../references.md#r120) [125](../references.md#r125) [285](../references.md#r285)
 
 All references are in the [References appendix](../references.md).

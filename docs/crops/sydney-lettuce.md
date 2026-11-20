@@ -4,7 +4,7 @@
 
 *Photo: GT1976, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-06-18_(109)_Lactuca_sativa_(garden_lettuce)_at_Bichlh%C3%A4usl_in_Frankenfels,_Austria.jpg). Resized.*
 
-> **Sydney.** Traditionally a cool-season crop, but it grows all year. Months and sowing figures come from one council's seed library list[15](../references.md#r15) where listed, with timing and tips from the sources named below. None of them gives frost dates.
+> **Sydney.** Traditionally a cool-season crop, but it grows all year. Months and sowing figures come from one council's seed library list[176](../references.md#r176) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts
 
@@ -20,10 +20,10 @@
 | | |
 |---|---|
 | Family | Daisy family |
-| Feeder level | Heavy (SGA[24](../references.md#r24)) or moderate (Salisbury Council[20](../references.md#r20)). The sources disagree. |
+| Feeder level | Heavy (SGA[267](../references.md#r267)) or moderate (Salisbury Council[188](../references.md#r188)). The sources disagree. |
 | What it takes | Moderate to heavy, depending on the source. |
 | What it gives back | No nitrogen added. Roots and leftover leaves return some organic matter, and compost puts nutrients back [general knowledge]. |
-| Plant before it | A legume (SGA[24](../references.md#r24)). |
+| Plant before it | A legume (SGA[267](../references.md#r267)). |
 | Plant after it | A legume (peas, beans) or a light feeder such as carrot or beetroot. |
 | Watch out for | A commercial guide says at least 4 years for anthracnose and 3 for bottom rot, so rotate where you can. |
 
@@ -37,7 +37,7 @@ The pattern for every crop in this guide is in [what to plant after each crop](.
 
 ## Growing methods
 
-- **In a pot:** Open lettuce suits a shallow pot, 15 to 20 cm deep[18](../references.md#r18). Lettuce can grow in pots[2](../references.md#r2).
+- **In a pot:** Open lettuce suits a shallow pot, 15 to 20 cm deep[186](../references.md#r186). Lettuce can grow in pots[99](../references.md#r99).
 - More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
 
 ## How to grow it
@@ -49,20 +49,20 @@ The pattern for every crop in this guide is in [what to plant after each crop](.
 
 ## Care guide
 
-- **Starting:** Sow direct or transplant. Space plants 20 to 30 cm apart, with miniature types 10 to 15 cm. Seeds come up in 2 to 14 days, and harvest takes 50 to 80 days. Transplant in the cool morning or on mild overcast days[32](../references.md#r32).
-- **Temperature:** Seed germinates at 4 to 26 °C and will not germinate above 30 °C. Cos types cope with extremes better. In temperate areas without severe frosts lettuce grows year-round[32](../references.md#r32).
-- **Sun and shade:** Full sun in winter and spring, and some shade in hot, dry summers[32](../references.md#r32).
-- **Watering:** Keep moisture steady, because drops in moisture check growth and increase bitterness. Drip is preferred over overhead watering, which encourages rots and downy mildew. Mulch to hold moisture[32](../references.md#r32).
-- **Feeding:** Use nitrogen-rich manure and add potash, keeping fertiliser near the surface because the roots are shallow. In containers, feed regularly with liquid fertiliser[32](../references.md#r32).
-- **Care:** Weed carefully, since roots are shallow. In pots choose loose-leaf types, use a premium potting mix and water morning and night[32](../references.md#r32).
-- **Common problems and fixes:** Bolting and bitterness: choose varieties for the season, water evenly, shade, and harvest before the centre turns conical. Snails and slugs: baits or beer traps. Damping-off: well-drained beds and no overwatering. Aphids: organic insecticides, and destroy plants with necrotic yellows[32](../references.md#r32).
+- **Starting:** Sow direct or transplant. Space plants 20 to 30 cm apart, with miniature types 10 to 15 cm. Seeds come up in 2 to 14 days, and harvest takes 50 to 80 days. Transplant in the cool morning or on mild overcast days[302](../references.md#r302).
+- **Temperature:** Seed germinates at 4 to 26 °C and will not germinate above 30 °C. Cos types cope with extremes better. In temperate areas without severe frosts lettuce grows year-round[302](../references.md#r302).
+- **Sun and shade:** Full sun in winter and spring, and some shade in hot, dry summers[302](../references.md#r302).
+- **Watering:** Keep moisture steady, because drops in moisture check growth and increase bitterness. Drip is preferred over overhead watering, which encourages rots and downy mildew. Mulch to hold moisture[302](../references.md#r302).
+- **Feeding:** Use nitrogen-rich manure and add potash, keeping fertiliser near the surface because the roots are shallow. In containers, feed regularly with liquid fertiliser[302](../references.md#r302).
+- **Care:** Weed carefully, since roots are shallow. In pots choose loose-leaf types, use a premium potting mix and water morning and night[302](../references.md#r302).
+- **Common problems and fixes:** Bolting and bitterness: choose varieties for the season, water evenly, shade, and harvest before the centre turns conical. Snails and slugs: baits or beer traps. Damping-off: well-drained beds and no overwatering. Aphids: organic insecticides, and destroy plants with necrotic yellows[302](../references.md#r302).
 - **Not found:** Watering volumes and fertiliser rates.
 
 ## Companion crops
 
 - **Good neighbours:** [Carrot](../companions.md#carrot), [Cucumber](sydney-cucumber.md), [Radish](sydney-radish.md), [Corn](../companions.md#corn), [Beans](sydney-bush-beans.md), [Celery](../companions.md#celery), [Beetroot](../companions.md#beetroot), [Chives](../companions.md#chives), [Strawberries](sydney-strawberries.md), [Flowers for beneficial insects](../companions.md#flowers-for-beneficial-insects).
 - **Keep apart:** [Cabbage family](../companions.md#cabbage-family), [Parsley](../companions.md#parsley).
-- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8), the Hornsby fact sheet[17](../references.md#r17) and Diggers[32](../references.md#r32). Each pairing is rated on the [companion crops page](../companions.md).
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[125](../references.md#r125), the Hornsby fact sheet[182](../references.md#r182) and Diggers[302](../references.md#r302). Each pairing is rated on the [companion crops page](../companions.md).
 - Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
 
 ## Watch for
@@ -84,6 +84,6 @@ The links open search results for this crop. I have not vetted every result agai
 
 Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
 
-[2](../references.md#r2) [8](../references.md#r8) [15](../references.md#r15) [17](../references.md#r17) [18](../references.md#r18) [20](../references.md#r20) [24](../references.md#r24) [32](../references.md#r32) [39](../references.md#r39)
+[99](../references.md#r99) [125](../references.md#r125) [176](../references.md#r176) [182](../references.md#r182) [186](../references.md#r186) [188](../references.md#r188) [267](../references.md#r267) [302](../references.md#r302) [376](../references.md#r376)
 
 All references are in the [References appendix](../references.md).
