@@ -47,6 +47,7 @@
 - **Watering:** Water regularly in dry weather, daily in hot dry conditions, and less when mild. Keep soil free-draining and avoid overhead watering ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
 - **Feeding:** Enrich the soil with compost, rotted manure and blood and bone before planting. If you did, no extra feeding is needed. Seaweed solution at flowering is optional ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
 - **Care:** Bush beans reach about 40 cm and need no support. Mulch well, because the roots are shallow, and avoid disturbing the soil ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
+- **Rotation:** Bean family, soil builder, so put a hungry crop after it. A commercial guide gives breaks of 3 to 10 years for some bean soil diseases, which is rarely possible at home. Rotate, use clean seed and drained beds. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Snails and slugs damage seedlings: use pellets or traps. Powdery mildew: avoid overhead watering and leave room for airflow ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
 - **Not found:** Temperature figures and pot size.
 

@@ -44,6 +44,7 @@
 - **Watering:** Keep the soil moist, especially in hot, dry weather. Drying out can cause bolting. Mulch with sugarcane or pea straw ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
 - **Feeding:** Feed weekly with a liquid fertiliser for herbs and vegetables. No dilution rate is given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
 - **Care:** Pick the outer leaves first and pick regularly. Pinch off flower buds to prevent bolting. Use good potting mix in pots ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
+- **Rotation:** No source read names rocket for rotation. As a cabbage-family plant, the clubroot caution probably applies [inference]. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Bolting: even moisture, mulch, regular picking, removing flower buds, and shade. Flea beetles make small holes but are generally minor ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
 - **Not found:** Exact temperatures and pot size.
 

@@ -47,6 +47,7 @@
 - **Watering:** Water regularly in warm, dry weather. Keep the soil moist but not waterlogged, and water at the base ([Love The Garden](https://www.lovethegarden.com/au-en/growing-guide/how-grow-lemongrass)).
 - **Feeding:** Mix a controlled-release all-purpose fertiliser into the top 10 to 20 cm at planting, and again in early spring after a hard cut-back. No repeat schedule is given ([Love The Garden](https://www.lovethegarden.com/au-en/growing-guide/how-grow-lemongrass)).
 - **Care:** Clumps reach 70 to 90 cm wide and about 90 to 100 cm tall, so use pots at least 30 to 40 cm wide and deep. Cut stalks 30 to 40 cm tall with a base at least 2 cm thick, just above the soil, and do not pull the whole clump. Use an open organic mulch ([Love The Garden](https://www.lovethegarden.com/au-en/growing-guide/how-grow-lemongrass)).
+- **Rotation:** No rotation advice found. It is a perennial clump, so it stays in place [inference]. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Rust: improve airflow and remove affected leaves. Root rot: free-draining soil and less water ([Love The Garden](https://www.lovethegarden.com/au-en/growing-guide/how-grow-lemongrass)).
 - **Not found:** A government or NT source. This section rests on one retailer guide written for Australia.
 

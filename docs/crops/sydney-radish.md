@@ -45,6 +45,7 @@
 - **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
 - **Feeding:** Not required. Blood and bone at planting, and optionally a liquid organic fertiliser weekly or fortnightly ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
 - **Care:** Mulch with sugarcane or pea straw and do not strip too much foliage ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
+- **Rotation:** Cabbage family. Clubroot spores last up to 20 years, so keep cabbage-family crops out of infected beds. A home rotation cannot clear it. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Splitting and bolting: even moisture. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
 - **Not found:** Any figure for temperature or watering. Only one retailer page was read.
 

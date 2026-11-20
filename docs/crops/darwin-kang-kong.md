@@ -48,6 +48,7 @@
 - **Watering:** Keep the soil moist, but dry-land plants are not grown in flooded soil ([NT VF5](https://daf.nt.gov.au/__data/assets/pdf_file/0020/227603/vf5.pdf)). Planting at the start of the wet season cuts the need for extra watering ([Rob Pyne](https://robpyne.com.au/kangkong)).
 - **Feeding:** The NT sheet says organic fertiliser and urea are applied after planting, with no amounts. The Cairns grower uses liquid fertiliser, chook manure or cow manure, also with no rates.
 - **Care:** On dry land, plants are pulled 20 to 30 days after planting. For repeat cuts, cut about 10 cm above the ground before flowering and new shoots come every 2 to 3 weeks. Growing it in pots keeps it from spreading. It is a noxious weed in some areas, so check local rules ([Rob Pyne](https://robpyne.com.au/kangkong)).
+- **Rotation:** No rotation advice found in the sources read. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Grasshoppers and caterpillars in the dry season. The Cairns grower suggests regular white oil, with no recipe given. White blister is on the [disease page](../pests/diseases.md#white-blister-of-kang-kong).
 - **Not found:** Sun advice from an NT source, feeding rates, and non-chemical pest fixes.
 

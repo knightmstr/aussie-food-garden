@@ -52,6 +52,7 @@ The sheet gives no weeks to picking for basil.
 - **Watering:** No set amount. Use the finger test: if soil sticks to your finger, skip watering. Water in the morning so leaves are not wet as the temperature drops, and do not use greywater ([SGA](https://sgaonline.org.au/basil)).
 - **Feeding:** Liquid seaweed, worm wee or liquid manure, fairly often through the growing season and after harvests. The source gives no interval ([SGA](https://sgaonline.org.au/basil)).
 - **Care:** Pick often to stop it getting leggy and going to seed. Remove the flowers to keep the leaves lush for longer ([SGA](https://sgaonline.org.au/basil)).
+- **Rotation:** No rotation advice found in the sources read. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Snails and caterpillars are the pests SGA names. Regular picking, flower removal and feeding are its only fixes. Fusarium wilt is covered on the [disease page](../pests/diseases.md#fusarium-wilt-of-basil).
 - **Not found:** A seedling method, feeding interval and rates.
 

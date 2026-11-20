@@ -43,6 +43,7 @@
 - **Watering:** Every 2 to 3 days, or more often in hot weather. It tolerates dry spells but does better with regular water. Wilting plants usually revive with a thorough watering ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
 - **Feeding:** Liquid feed regularly in the growing season. No product, rate or interval is given. Enrich the soil with compost before planting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
 - **Care:** Mulch with sugarcane or pea straw. Start picking outer leaves after 8 to 10 weeks, twisting each stalk near the base ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
+- **Rotation:** Beet family, a light or moderate feeder depending on the source. Follow a heavy feeder with it. No break length was found. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Cercospora leaf spot: grey spots with brown edges, worse in hot humid weather. Snails and slugs: barriers, traps or pellets ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
 - **Not found:** Spacing, feeding rate and pot size.
 

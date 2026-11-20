@@ -53,6 +53,29 @@ SGA's 4-bed, 4-season cycle is **Legume, then Heavy feeder, then Light feeder, t
 - **Top End version:** the NT vegetable manual's sequence is a leafy crop, then beans, then cucurbits, with a green manure in the rotation every wet season. It says legume green manures are susceptible to root-knot nematodes and should not precede susceptible vegetables ([NT vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf)). A working scaffold built from that manual and Agnote 636: wet-season grass green manure, then dry-season vegetables, then back to green manure; legume covers only where nematodes are not an issue [inference]. See [Northern Territory](states/nt.md).
 - **A general suggestion** (from one source) to run the cycle by season in the wet-dry tropics, with a wet-season legume such as cowpea or sunn hemp, conflicts with the NT advice above [inference in the research notes]. For the Top End, follow the NT advice.
 
+## Rotation for the crops in this guide
+
+Crop families and feeding levels come from [SGA](https://www.sgaonline.org.au/crop-rotation/) and a [Salisbury Council rotation sheet (Adelaide, 2020)](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d5_crop_rotation.pdf). Break lengths for particular diseases come from the Hort Innovation [soilborne disease guide VG15010](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-soilborne-disease-in-vegetable-crops-guide.pdf), which is written for commercial growers, so treat its figures as a ceiling you can rarely reach in a small bed. Evidence: moderate for the families and feeding levels (consensus, not trials).
+
+| Crop | Family | Feeding level | What to follow it with | Breaks and cautions |
+|---|---|---|---|---|
+| Tomato (Darwin, Sydney) | Tomato family | Heavy | A legume or light feeder | Salisbury says a three-year break. Tomato and potato share blight, and root-knot nematodes (RKN) build under tomato ([Happy Valley Seeds](https://www.happyvalleyseeds.com.au/blogs/crop-rotation/crop-rotation-home-garden)). VG15010 lists tomato as a host of verticillium wilt, with no break given |
+| Chilli (Darwin) | Tomato family | Heavy | A legume or light feeder | Salisbury says a three-year break. Bacterial wilt survives more than 10 years without a host, and RKN is a risk ([VG15010](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-soilborne-disease-in-vegetable-crops-guide.pdf), p. 46, 62) |
+| Cucumber (Darwin, Sydney) | Cucumber family | Heavy | A legume, or a green manure | The NT manual's order is a leafy crop, then beans, then cucumber-family crops, with a green manure between ([NT manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), p. 4). RKN builds under cucumber-family crops |
+| Snake beans (Darwin) | Bean family | Soil builder | A hungry crop, because the nitrogen helps about one crop | The NT manual puts beans after a leafy crop and before cucumber-family crops. Snake beans host RKN, so do not follow a nematode-prone crop with them without checking. Grafting and clean seed are the NT answers to fusarium wilt |
+| Bush beans, peas (Sydney) | Bean family | Soil builder (Salisbury: light) | A hungry crop | VG15010 gives breaks of 3 to 10 years for particular bean and pea soil diseases (for example 5 to 6 years for fusarium root rot and pea wilt), which commercial growers use. Home gardens rarely manage that, so rotate and use clean seed and drained beds |
+| Lettuce (Sydney) | Daisy family | Heavy ([SGA](https://www.sgaonline.org.au/crop-rotation/)) or moderate ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d5_crop_rotation.pdf)). The sources disagree | A legume, or a light feeder | VG15010: at least 4 years for anthracnose and 3 years for bottom rot in lettuce (commercial) |
+| Radish (Darwin, Sydney), bok choy (Darwin) | Cabbage family | Heavy (bok choy). Not stated for radish | A legume, or a green manure that is not a brassica | Clubroot spores last up to 20 years. Salisbury says other families for one to two seasons, and the industry fact sheet says more than 7 years, so a home rotation cannot clear it. Keep cabbage-family crops and mustard covers out of infected beds. VG15010 lists radish as a host of clubroot and black leg |
+| Rocket (Sydney) | Cabbage family [inference] | Not stated | No source read | No source read names rocket. As a cabbage-family plant, the clubroot caution probably applies [inference] |
+| Silverbeet (Sydney) | Beet family | Light ([SGA](https://www.sgaonline.org.au/crop-rotation/)) or moderate ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d5_crop_rotation.pdf)) | Follow a heavy feeder with it | Not covered beyond the family and feeding level |
+| Strawberries (Sydney) | Perennial, no family given | Not stated | Move to a new bed every three years | SGA says not where tomato-family crops grew in the last three years ([SGA](https://www.sgaonline.org.au/strawberries/)) |
+| Sweet potato (Darwin) | Morning glory family | Not stated | No source read | Do not follow another RKN host crop with it [inference]. WA's commercial guide says return to the same land only every 2 to 4 years to limit scurf ([DPIRD WA](https://www.agric.wa.gov.au/sweet-potato/growing-sweet-potatoes-western-australia?nopaging=1)) |
+| Basil, kang kong, lemon grass | | | | No rotation advice found in the sources read. Lemon grass is a perennial clump, so it stays in place [inference] |
+
+- **The simple version:** heavy feeder, then light feeder or legume, then green manure. See [A simple 4-bed rotation](#a-simple-4-bed-rotation) for the grid and the Top End version.
+- **In Darwin:** the NT manual says a green manure every wet season, and warns that legume green manures can host root-knot nematodes ([NT manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf)). See [Which soil-builder for which climate](#which-soil-builder-for-which-climate).
+- **In a small bed:** the three-to-four-year gaps are often impractical. Rotating between beds or pots, using clean seed, and not following a family with itself still helps ([Happy Valley Seeds](https://www.happyvalleyseeds.com.au/blogs/crop-rotation/crop-rotation-home-garden)).
+
 ## Legumes and green manures: what the numbers say
 
 All figures below are from broadacre farms, cane fallows or vineyards unless stated. No garden-scale conversion is in the sources.
@@ -136,13 +159,15 @@ A narrative review finds efficacy mixed and mechanisms poorly understood, with m
 
 - **Garden-scale rates.** Seeding rates, gypsum and lime rates, claying and N-fixation figures are broadacre, cane or vineyard values. Conversions to garden beds are not sourced.
 - **Tropical and arid covers.** No Top End biomass or N data for cowpea, lablab or mung bean; no sowing months for cane fallows; Darwin sowing months are not sourced. Arid-zone legume and grain performance is not sourced beyond Alice Springs.
-- **Rotation sources.** No NSW DPI, Agriculture Victoria or Queensland DAF rotation page was read. No source for white rot (Allium) or Fusarium wilt persistence.
+- **Rotation sources.** No NSW DPI, Agriculture Victoria or Queensland DAF rotation page was read. No source for white rot (Allium). The VG15010 break lengths are commercial figures and the excerpt read stopped before the cucumber-family chapter. Rocket, basil, kang kong, lemon grass and sweet potato have no rotation source beyond what is noted above.
 - **Companions.** No Australian trials outside brassicas; no tropical companion trials; three sisters, alliums with carrot fly, brassica with strawberry and similar pairs are unsourced.
 - **Soil.** Compost and mulch evidence for home gardens, biochar, mycorrhizae, worm farms, salinity thresholds and soil-test interpretation are not sourced. No weed-risk data for specific covers (lablab, sunn hemp seed set); see [Biosecurity and weeds](biosecurity-and-weeds.md).
 - **Regions.** Tasmania and Victoria have almost no sourced soil-building detail. Check Agriculture Victoria, NRE Tasmania and your state agriculture department.
 
 ## Sources
 
+- [Salisbury Council, Pack D Notes 5, Crop rotation (2020)](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d5_crop_rotation.pdf), council
+- [Hort Innovation VG15010, Soilborne disease in vegetable crops guide](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg15010-soilborne-disease-in-vegetable-crops-guide.pdf), industry body (levy-funded)
 - [SGA, Crop rotation](https://www.sgaonline.org.au/crop-rotation/), community (Sustainable Gardening Australia)
 - [SGA, Green manure](https://sgaonline.org.au/green-manure), community
 - [SGA, No-Dig](https://www.sgaonline.org.au/wp-content/uploads/2024/04/no-dig.pdf), community

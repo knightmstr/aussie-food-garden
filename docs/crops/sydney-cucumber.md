@@ -49,6 +49,7 @@
 - **Watering:** Drip irrigation under a 5 to 7 cm mulch. Do not let the plants dry out or fruit turns bitter. Hand water early in the morning at the roots ([SGA](https://sgaonline.org.au/cucumbers)).
 - **Feeding:** Plenty of compost, then watered-down worm wee or seaweed liquid at planting and when the first small fruits appear. Strong fertilisers give leaves rather than fruit ([SGA](https://sgaonline.org.au/cucumbers)).
 - **Care:** Support the vines, mulch with straw, pinch the tip after 5 to 7 leaves, and cut fruit leaving some stem ([SGA](https://sgaonline.org.au/cucumbers)).
+- **Rotation:** Cucumber family, heavy feeder. Do not follow it with another cucumber-family crop. Root-knot nematodes build under them. A legume or green manure is a good next step. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Fungal disease: clean straw mulch, drip watering and airflow. Poor fruit set: hand-pollinate with a brush. Bitter fruit: water evenly ([SGA](https://sgaonline.org.au/cucumbers)). Spider mites: eco-oil or wettable sulphur per the label ([Seed Collection](https://www.theseedcollection.com.au/growguide/cucumber-seeds)).
 - **Not found:** Feeding intervals.
 

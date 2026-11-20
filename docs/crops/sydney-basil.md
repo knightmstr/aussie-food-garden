@@ -47,6 +47,7 @@
 - **Watering:** Use the finger test, water in the morning, and do not use greywater ([SGA](https://sgaonline.org.au/basil)).
 - **Feeding:** Liquid seaweed, worm wee or liquid manure, fairly often through the season and after harvests. No interval is given ([SGA](https://sgaonline.org.au/basil)).
 - **Care:** Pick often and remove flowers ([SGA](https://sgaonline.org.au/basil)).
+- **Rotation:** No rotation advice found in the sources read. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** Snails and caterpillars. See the [insect page](../pests/insects.md).
 - **Not found:** A seedling method and feeding interval.
 

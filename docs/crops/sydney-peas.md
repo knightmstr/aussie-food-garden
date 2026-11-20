@@ -45,6 +45,7 @@
 - **Watering:** Water the seeds well after sowing, then hold off until they come up, because wet soil can rot them. Start again at 5 to 10 cm and keep moisture even. Mulch to hold it ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
 - **Feeding:** Peas fix their own nitrogen and need little. Before planting add manure or compost and a fistful of potash per square metre. Add a sprinkle of all-purpose organic fertiliser when pods start forming ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
 - **Care:** Most peas climb, so put supports up before sowing. Pinch the tips at 20 to 30 cm to encourage branching. Dwarf types grow 50 to 75 cm and are mostly self-supporting ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
+- **Rotation:** Bean family, soil builder, so put a hungry crop after it. A commercial guide gives breaks of 5 to 6 years for fusarium root rot and pea wilt, which is rarely possible at home. Rotate and use clean seed. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
 - **Common problems and fixes:** The page names only frost and seed rot from wet soil. No pest or disease fixes were found in the sources read.
 - **Not found:** Pest and disease advice, and pot guidance.
 
