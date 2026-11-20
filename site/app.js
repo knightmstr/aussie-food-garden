@@ -101,7 +101,10 @@
 
   function scrollToAnchor(id) {
     var el = id && document.getElementById(id);
-    if (el) el.scrollIntoView({ block: 'start' }); else window.scrollTo(0, 0);
+    if (el) {
+      for (var q = el; q; q = q.parentElement) if (q.tagName === 'DETAILS') q.open = true;
+      el.scrollIntoView({ block: 'start' });
+    } else window.scrollTo(0, 0);
   }
 
   /* Crop pages: same markdown, laid out as fact tiles, numbered steps and folded detail. */
@@ -159,6 +162,41 @@
     root.innerHTML = ''; root.appendChild(out);
   }
 
+  /* Long guide pages: each "##" section becomes a folded row, so the page opens as a short list. */
+  function foldPage(root) {
+    var kids = [].slice.call(root.children);
+    if (kids.filter(function (k) { return k.tagName === 'H2'; }).length < 4) return;
+    var out = document.createElement('div'), body = null, secs = [];
+    out.className = 'page';
+    var bar = document.createElement('div'); bar.className = 'chips';
+    var btn = document.createElement('button'); btn.type = 'button'; btn.className = 'chip'; btn.textContent = 'Expand all';
+    bar.appendChild(btn);
+    kids.forEach(function (k) {
+      if (k.tagName === 'H2') {
+        if (!secs.length) out.appendChild(bar);
+        var d = document.createElement('details'); d.className = 'fold sec'; if (k.id) d.id = k.id;
+        var sm = document.createElement('summary'); sm.innerHTML = '<span>' + k.innerHTML + '</span><span class="end"><span class="chev" aria-hidden="true">›</span></span>';
+        d.appendChild(sm); body = document.createElement('div'); body.className = 'body'; d.appendChild(body);
+        secs.push(d); out.appendChild(d);
+      } else if (body) body.appendChild(k);
+      else if (k.tagName === 'BLOCKQUOTE' && k.querySelector('strong')) {
+        var st = k.querySelector('strong'), title = st.textContent.replace(/[.:]\s*$/, '');
+        st.parentNode.removeChild(st);
+        var nd = document.createElement('details'); nd.className = 'fold note';
+        var ns = document.createElement('summary'); ns.innerHTML = '<span></span><span class="end"><span class="chev" aria-hidden="true">›</span></span>'; ns.firstChild.textContent = title;
+        nd.appendChild(ns); var nb = document.createElement('div'); nb.className = 'body'; nb.appendChild(k); nd.appendChild(nb); out.appendChild(nd);
+      } else out.appendChild(k);
+    });
+    if (secs[0]) secs[0].open = true;
+    btn.addEventListener('click', function () {
+      var open = secs.some(function (d) { return !d.open; });
+      secs.forEach(function (d) { d.open = open; });
+      btn.textContent = open ? 'Collapse all' : 'Expand all';
+    });
+    root.innerHTML = ''; root.appendChild(out);
+  }
+  window.addEventListener('beforeprint', function () { document.querySelectorAll('details').forEach(function (d) { d.open = true; }); });
+
   function showPage(path, anchor) {
     statusEl.textContent = 'Loading…';
     return getText(base + path + '.md').then(function (md) {
@@ -172,6 +210,7 @@
         var an = crop[1] === 'darwin' ? 'Darwin' : 'Sydney';
         contentEl.insertAdjacentHTML('afterbegin', '<p class="crumb"><a href="#/area/' + crop[1] + '">‹ Back to your ' + an + ' garden</a></p>');
       }
+      else if (path !== 'index' && path !== 'about') foldPage(contentEl);
       markNav(path); markTabs(path); statusEl.textContent = '';
       scrollToAnchor(anchor);
       $('#main').focus({ preventScroll: true });

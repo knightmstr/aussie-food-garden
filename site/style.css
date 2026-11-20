@@ -256,6 +256,19 @@ a.row:active, label.row:active { background: var(--fill); }
 .crop > .fold:first-of-type { margin-top: 20px; }
 .fold > summary { padding: 0; }
 
+/* ---- Folded guide pages ---- */
+.page { max-width: 760px; }
+.page > .chips { margin: 8px 0 16px; }
+.fold.sec > summary { min-height: 68px; font-family: var(--head); font-size: 1.15rem; line-height: 1.25; }
+.fold.sec > summary > span:first-child { min-width: 0; }
+.fold.sec .body { padding: 4px 0 24px; }
+.fold.sec .body > h3:first-child { margin-top: .4em; }
+.fold.sec[open] > summary { color: var(--hero); }
+.fold.sec { scroll-margin-top: 72px; }
+.page > .fold.note { margin: 12px 0 4px; }
+.page > .fold.note > summary { min-height: 56px; font-size: 1rem; }
+.page > .fold.note + .chips { margin-top: 12px; }
+
 /* ---- Home: one answer, big number, tiles, collapsed detail ---- */
 .hero { display: flex; align-items: flex-end; gap: 16px; margin: 0 0 4px; }
 .hero .big { font-family: var(--head); font-weight: 600; font-size: 7.2rem; line-height: .86; letter-spacing: -.05em; color: var(--hero); }
