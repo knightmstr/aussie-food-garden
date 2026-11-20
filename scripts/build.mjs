@@ -126,6 +126,12 @@ for (const p of pages) {
   }
 }
 
+for (const f of readdirSync(join(site, 'areas')).filter((n) => n.endsWith('.json') && n !== 'zones.json')) {
+  const a = JSON.parse(readFileSync(join(site, 'areas', f), 'utf8'));
+  if (a.sowSourceAnchor && !idsByPage.get(a.sowSourcePage)?.has(a.sowSourceAnchor)) warn(`site/areas/${f}: sowSourceAnchor "#${a.sowSourceAnchor}" not found in ${a.sowSourcePage}`);
+  const names = new Set(Object.values(a.sow ?? {}).flat());
+  for (const c of a.starter ?? []) for (const n of c.sowNames ?? []) if (!names.has(n)) warn(`site/areas/${f}: "${c.slug}" sowNames "${n}" is not in the sowing lists`);
+}
 try {
   const zones = JSON.parse(readFileSync(join(site, 'areas', 'zones.json'), 'utf8'));
   for (const g of zones) for (const z of g.items) {

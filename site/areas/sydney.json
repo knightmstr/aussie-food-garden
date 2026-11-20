@@ -463,6 +463,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Rocket"
    ]
   },
   {
@@ -483,6 +486,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Lettuce"
    ]
   },
   {
@@ -503,6 +509,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Radish"
    ]
   },
   {
@@ -517,6 +526,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Cucumber"
    ]
   },
   {
@@ -530,6 +542,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Tomato"
    ]
   },
   {
@@ -544,6 +559,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Bush bean"
    ]
   },
   {
@@ -556,6 +574,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Basil"
    ]
   },
   {
@@ -573,6 +594,9 @@
     10,
     11,
     12
+   ],
+   "sowNames": [
+    "Silverbeet"
    ]
   },
   {
@@ -587,7 +611,8 @@
     7,
     8,
     9
-   ]
+   ],
+   "sowNames": []
   },
   {
    "slug": "crops/sydney-strawberries",
@@ -607,7 +632,8 @@
     10,
     11,
     12
-   ]
+   ],
+   "sowNames": []
   }
  ],
  "prep": {
@@ -703,5 +729,6 @@
    "title": "Biosecurity and weeds",
    "path": "biosecurity-and-weeds"
   }
- ]
+ ],
+ "sowSourceAnchor": "sydney"
 }

@@ -86,7 +86,7 @@
 
   /* ---------- nav ---------- */
   function buildNav() {
-    var html = '<h3>Your garden</h3><a href="#/" data-path="home">Your area home</a><a href="#/choose" data-path="choose">Change area</a>';
+    var html = '<h3>Your garden</h3><a href="#/" data-path="home">Your area home</a><a href="#/choose" data-path="choose">Change area</a><a id="navCrops" href="#/choose">All crops</a><a id="navCal" href="#/choose">Planting calendar</a>';
     nav.groups.forEach(function (g) {
       if (g.hidden) return;
       if (g.title) html += '<h3>' + esc(g.title) + '</h3>';
@@ -329,6 +329,83 @@
     return '<a class="row" href="#/' + c.slug + '"><span class="main"><strong>' + esc(c.name) + '</strong><span class="sub">' + esc(c.how) + (withWhen ? ' · ' + esc(monthRange(c.months)) : '') + '</span></span><span class="end">' + (withWhen ? (now ? '<span class="pill">Now</span>' : '') : '<span class="pill">' + esc(c.meta) + '</span>') + '<span class="chev" aria-hidden="true">›</span></span></a>';
   }
 
+  /* Every crop in the area's sowing list, with its months. Crops with a guide page link to it; the rest link to the sowing table. */
+  function allCrops(a) {
+    var byName = {}, rows = [], claimed = {};
+    Object.keys(a.sow).forEach(function (mo) { a.sow[mo].forEach(function (n) { (byName[n] = byName[n] || []).push(parseInt(mo, 10)); }); });
+    a.starter.forEach(function (c) { (c.sowNames || []).forEach(function (n) { claimed[n] = c; }); });
+    Object.keys(byName).forEach(function (n) {
+      var c = claimed[n];
+      rows.push({ name: n, months: byName[n], href: c ? '#/' + c.slug : '#/' + a.sowSourcePage + (a.sowSourceAnchor ? '?a=' + a.sowSourceAnchor : ''), guide: !!c });
+    });
+    a.starter.forEach(function (c) { if (!(c.sowNames || []).length) rows.push({ name: c.name, months: c.months, href: '#/' + c.slug, guide: true }); });
+    rows.sort(function (x, y) { return x.name.localeCompare(y.name); });
+    return rows;
+  }
+  function cropListRow(r, m) {
+    var now = r.months.indexOf(m) >= 0;
+    return '<a class="row" href="' + r.href + '"><span class="main"><strong>' + esc(r.name) + '</strong><span class="sub">' + esc(monthRange(r.months)) + (r.guide ? ' · has a guide' : '') + '</span></span><span class="end">' + (now ? '<span class="pill">Now</span>' : '') + '<span class="chev" aria-hidden="true">›</span></span></a>';
+  }
+  function areaHead(a, m, title, lede) {
+    return '<p class="kicker">' + esc(a.short.toUpperCase()) + '</p><h1>' + title + '</h1><p class="lede">' + lede + '</p>';
+  }
+
+  function showCrops(a, m, id) {
+    var rows = allCrops(a), nowN = rows.filter(function (r) { return r.months.indexOf(m) >= 0; }).length;
+    document.title = 'All crops · ' + a.short + ' · Aussie Food Garden';
+    var html = '<div class="area">' + areaHead(a, m, 'All crops', rows.length + ' crops from the ' + esc(a.sowSource) + '. “Now” means it is sown in ' + MONTHS[m - 1] + '. Crops marked “has a guide” open a full page; the rest open the sowing table.');
+    html += '<div class="pickfind"><input id="cropQ" type="search" placeholder="Search crops" aria-label="Search crops" autocomplete="off"></div>';
+    html += '<div class="seg" role="group" aria-label="Show"><button type="button" data-f="all" aria-pressed="true">All ' + rows.length + '</button><button type="button" data-f="now" aria-pressed="false">Sow now ' + nowN + '</button></div>';
+    html += '<div id="cropList" class="listwrap"></div><p class="fine"><a href="#/area/' + id + '?v=calendar">See the planting calendar</a> · <a href="#/area/' + id + '">Back to your ' + esc(a.short) + ' garden</a></p></div>';
+    contentEl.innerHTML = html;
+    var mode = 'all', q = '', list = $('#cropList');
+    function draw() {
+      var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+      var f = rows.filter(function (r) { return (mode === 'all' || r.months.indexOf(m) >= 0) && terms.every(function (t) { return r.name.toLowerCase().indexOf(t) >= 0; }); });
+      list.innerHTML = f.length ? '<div class="group">' + f.map(function (r) { return cropListRow(r, m); }).join('') + '</div>' : '<div class="group"><p class="empty">No crops match.</p></div>';
+    }
+    draw();
+    $('#cropQ').addEventListener('input', function (e) { q = e.target.value; draw(); });
+    contentEl.querySelectorAll('.seg button').forEach(function (b) {
+      b.addEventListener('click', function () { mode = b.dataset.f; contentEl.querySelectorAll('.seg button').forEach(function (x) { x.setAttribute('aria-pressed', String(x === b)); }); draw(); });
+    });
+    markNav(''); markTabs('crops'); statusEl.textContent = ''; window.scrollTo(0, 0);
+  }
+
+  function showCalendar(a, m, id, params) {
+    var rows = allCrops(a), year = params.g === 'year', cur = new Date().getMonth() + 1;
+    document.title = 'Planting calendar · ' + a.short + ' · Aussie Food Garden';
+    var base = '#/area/' + id + '?v=calendar';
+    var html = '<div class="area">' + areaHead(a, m, 'Planting calendar', 'When each crop can be sown in ' + esc(a.short) + ', from the ' + esc(a.sowSource) + '. Check the caveats on the <a href="#/' + a.sowSourcePage + (a.sowSourceAnchor ? '?a=' + a.sowSourceAnchor : '') + '">sowing table page</a>.');
+    html += '<div class="seg" role="group" aria-label="Calendar view"><a class="segl" href="' + base + '&m=' + m + '" aria-current="' + (!year) + '">By month</a><a class="segl" href="' + base + '&g=year" aria-current="' + year + '">Whole year</a></div>';
+    if (!year) {
+      html += '<div class="mpills" role="navigation" aria-label="Month">';
+      for (var i = 1; i <= 12; i++) html += '<a class="mpill" href="' + base + '&m=' + i + '"' + (i === m ? ' aria-current="true"' : '') + '>' + MONTHS[i - 1].slice(0, 3) + (i === cur ? '<span class="sr"> (this month)</span>' : '') + '</a>';
+      html += '</div>';
+      var season = a.seasons.filter(function (s) { return s.months.indexOf(m) >= 0; })[0];
+      var inM = rows.filter(function (r) { return r.months.indexOf(m) >= 0; });
+      html += '<h2>' + MONTHS[m - 1] + ': ' + inM.length + (inM.length === 1 ? ' crop' : ' crops') + '</h2>';
+      if (season && season.blurb) html += '<p class="lede">' + esc(season.blurb) + '</p>';
+      html += inM.length ? '<div class="group">' + inM.map(function (r) { return cropListRow(r, m); }).join('') + '</div>' : '<div class="group"><p class="empty">No crops are listed for ' + MONTHS[m - 1] + '.</p></div>';
+    } else {
+      var L = 'JFMAMJJASOND';
+      html += '<div class="table-wrap"><table class="cal"><caption class="sr">Months each crop can be sown in ' + esc(a.short) + '</caption><thead><tr><th scope="col">Crop</th>';
+      for (var k = 1; k <= 12; k++) html += '<th scope="col" class="mh' + (k === cur ? ' cur' : '') + '"><span aria-hidden="true">' + L[k - 1] + '</span><span class="sr">' + MONTHS[k - 1] + '</span></th>';
+      html += '</tr></thead><tbody>';
+      rows.forEach(function (r) {
+        html += '<tr><th scope="row"><a href="' + r.href + '">' + esc(r.name) + '</a></th>';
+        for (var k2 = 1; k2 <= 12; k2++) html += '<td class="' + (r.months.indexOf(k2) >= 0 ? 'on' : '') + (k2 === cur ? ' cur' : '') + '">' + (r.months.indexOf(k2) >= 0 ? '<span class="sr">Sow</span>' : '') + '</td>';
+        html += '</tr>';
+      });
+      html += '</tbody></table></div><p class="fine">A filled square means the source lists that month for sowing or planting. Today’s month is outlined.</p>';
+    }
+    html += '<p class="fine"><a href="#/area/' + id + '?v=crops">All crops as a list</a> · <a href="#/area/' + id + '">Back to your ' + esc(a.short) + ' garden</a></p></div>';
+    contentEl.innerHTML = html;
+    markNav(''); markTabs('calendar'); statusEl.textContent = ''; window.scrollTo(0, 0);
+    var sel = contentEl.querySelector('.mpill[aria-current="true"]'), strip = contentEl.querySelector('.mpills');
+    if (sel && strip) strip.scrollLeft = Math.max(0, sel.offsetLeft - (strip.clientWidth - sel.offsetWidth) / 2);
+  }
+
   function showArea(id, params) {
     statusEl.textContent = 'Loading…';
     return loadArea(id).then(function (a) {
@@ -339,16 +416,8 @@
       var checks = savedChecks();
       var html = '<div class="area">';
 
-      if (params.v === 'crops') {
-        document.title = a.short + ' crops · Aussie Food Garden';
-        html += '<p class="kicker">' + esc(a.short.toUpperCase()) + '</p><h1>Good first crops</h1><p class="lede">Ten starter crops for ' + esc(a.short) + '. Tap one for what you need and how to grow it. “Now” means it is sown in ' + MONTHS[m - 1] + '.</p><div class="group">';
-        a.starter.forEach(function (c) { html += cropRow(c, m, true); });
-        html += '</div><p class="fine"><a href="#/area/' + id + '">‹ Back to your ' + esc(a.short) + ' garden</a></p></div>';
-        contentEl.innerHTML = html;
-        markNav(''); markTabs('crops'); statusEl.textContent = '';
-        window.scrollTo(0, 0);
-        return;
-      }
+      if (params.v === 'crops') { showCrops(a, m, id); return; }
+      if (params.v === 'calendar') { showCalendar(a, m, id, params); return; }
 
       document.title = 'Your ' + a.short + ' garden · Aussie Food Garden';
       var names = a.sow[mi] || [];
@@ -371,9 +440,10 @@
         html += '</div>';
       } else html += '<div class="group"><p class="empty">None of the starter crops are sown in ' + MONTHS[m - 1] + '.</p></div>';
 
+      if (later.length) html += '<p class="later"><strong>Coming up:</strong> ' + later.map(function (c) { return '<a href="#/' + c.slug + '">' + esc(c.name) + '</a> (' + esc(monthRange(c.months)) + ')'; }).join(', ') + '.</p>';
       html += '<div class="folds">';
-      html += '<details class="fold"><summary>All crops for ' + MONTHS[m - 1] + '<span class="end">' + names.length + ' ' + chev + '</span></summary><div class="body"><p>' + (names.length ? names.map(esc).join(', ') + '.' : 'None listed.') + '</p>' +
-        (later.length ? '<p class="later"><strong>Coming up:</strong> ' + later.map(function (c) { return '<a href="#/' + c.slug + '">' + esc(c.name) + '</a> (' + esc(monthRange(c.months)) + ')'; }).join(', ') + '.</p>' : '') + '</div></details>';
+      html += '<div class="fold"><a class="fold-link" href="#/area/' + id + '?v=crops">All ' + allCrops(a).length + ' crops' + chev + '</a></div>';
+      html += '<div class="fold"><a class="fold-link" href="#/area/' + id + '?v=calendar">Planting calendar' + chev + '</a></div>';
       html += '<details class="fold"><summary>Get ready<span class="end">' + prepItems.length + ' jobs ' + chev + '</span></summary><div class="body">' + checklist(prepItems, a.id + '-prep', checks) + '</div></details>';
       html += '<details class="fold"' + (params._open === 'shop' ? ' open' : '') + '><summary>What to get<span class="end">' + shopItems.length + ' items ' + chev + '</span></summary><div class="body">' +
         '<div class="seg" role="group" aria-label="Your growing space"><button type="button" data-space="pots" aria-pressed="' + (space === 'pots') + '">Pots or balcony</button><button type="button" data-space="yard" aria-pressed="' + (space === 'yard') + '">Backyard</button></div>' +
@@ -430,11 +500,12 @@
 
   function markTabs(which) {
     var tabs = $('#tabs'); if (!tabs) return;
-    var key = which === 'home' || which === 'choose' ? 'home' : which === 'crops' ? 'crops' : /^pests\//.test(which) ? 'problems' : which === 'index' || /^(states|start|principles|fruit|native|biosecurity|about)/.test(which) ? 'guide' : '';
+    var key = which === 'home' || which === 'choose' ? 'home' : which === 'crops' ? 'crops' : which === 'calendar' ? 'calendar' : /^pests\//.test(which) ? 'problems' : which === 'index' || /^(states|start|principles|fruit|native|biosecurity|about)/.test(which) ? 'guide' : '';
     tabs.querySelectorAll('a').forEach(function (a) {
       if (a.dataset.tab === key) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
     });
   }
+  function calHref() { var id = store('afg-area'); return id ? '#/area/' + id + '?v=calendar' : '#/choose'; }
   function cropsHref() { var id = store('afg-area'); return id ? '#/area/' + id + '?v=crops' : '#/choose'; }
 
   function highlight(text, terms) {
@@ -475,7 +546,8 @@
   function route() {
     var r = parseHash();
     setNavOpen(false);
-    $('#tabCrops').setAttribute('href', cropsHref());
+    $('#tabCrops').setAttribute('href', cropsHref()); $('#tabCal').setAttribute('href', calHref());
+    var nc = $('#navCrops'), nl = $('#navCal'); if (nc) nc.setAttribute('href', cropsHref()); if (nl) nl.setAttribute('href', calHref());
     if (r.path === 'search') { showSearch(decodeURIComponent(r.params.q || '')); return; }
     if (r.path === 'home') { showHome(); return; }
     if (r.path === 'choose') { showPicker(); return; }
