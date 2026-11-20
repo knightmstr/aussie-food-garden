@@ -1,6 +1,6 @@
 # Northern Territory
 
-> **How reliable is this page?** The NT is well covered by government crop sheets (Agnotes) and NT Government home-garden pages, but many are old (1997 to 2014) and give months for only a handful of crops. The official Darwin/Katherine sowing grid (Information Sheet IS4) could not be read, so the Top End month table below is built only from crops where an NT source states months. The blog-based monthly grid is in a separate table labelled **unverified proxy**, with its conflicts noted. Barkly and Tennant Creek have no sourced garden calendar. Companion planting claims on the NT Government page carry no cited evidence and are treated as folklore.
+> **How reliable is this page?** The NT is well covered by government crop sheets (Agnotes) and NT Government home-garden pages, but many are old (1997 to 2014) and give months for only a handful of crops. The official Darwin/Katherine sowing grid (Information Sheet IS4) has now been read and is transcribed below; other NT sources are listed after it. The blog-based monthly grid is in a separate table labelled **unverified proxy**, with its conflicts noted. Barkly and Tennant Creek (IS5) and Alice Springs (IS6) grids have not been read yet. Companion planting claims on the NT Government page carry no cited evidence and are treated as folklore.
 
 ## Regions and seasons
 
@@ -18,7 +18,65 @@
 
 ### Top End (Darwin and Katherine): months that NT sources give
 
-The NT's own Darwin/Katherine grid ([IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), published 2008) shows the months J to D and a sowing method for each crop, but the column positions were lost when read, so months cannot be taken from it. For the printed grid, the sources reviewed say to contact horticulture@nt.gov.au. The only month statement that survived from IS4 is that December to February can be too wet for direct seeding.
+The NT Government's own Darwin and Katherine sowing grid ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), Information Sheet IS4; the text says published July 2005 and the file is marked 2008) was read from a copy of the PDF. The table below transcribes its shaded months and columns for all 48 crops. A blank month means the sheet shades no sowing window for that crop, not that it cannot be grown. Shading was read by software and each row was checked against the page image. Reliability: government source, but it is 15 or more years old and has no source for how the windows were set. Check it against the table further down and local nursery advice.
+
+| Crop | Sowing months (IS4) | Method | Depth (mm) | Seedlings emerge (days) | Row spacing (cm) | Plant spacing (cm) | Weeks to picking |
+|---|---|---|---|---|---|---|---|
+| Asian melon | Apr to Jul | Direct sow | 10 | 7 to 10 | 300 | 60 | 12 to 20 |
+| Basil | All year | Seed (raise seedlings) | 5 | 4 | 30 | 30 | — |
+| Beans | Apr to Jul | Direct sow | 10 | 5 | 75 | 20 | 6 to 8 |
+| Beetroot | Mar to Jun | Direct sow | 10 to 15 | 8 to 14 | 20 to 30 | 8 to 10 | 10 to 12 |
+| Bitter melon | May to Aug | Direct sow | 15 | 5 | 300 | 200 | 11 |
+| Bok choy/Pak choi | Apr to Aug | Seed (raise seedlings) | 5 | 5 to 7 | 30 | 20 | 4 to 6 |
+| Broccoli | Apr to Jul | Either | 5 to 8 | 6 to 10 | 45 to 60 | 45 to 60 | 7 to 10 |
+| Broccoli Chinese/Kai Lan | Apr to Aug | Seed (raise seedlings) | 5 | 5 to 7 | 30 | 20 | 4 to 6 |
+| Brussel Sprouts | Apr to Aug | Either | 5 to 8 | 6 to 10 | 60 to 75 | 60 to 75 | 16 to 20 |
+| Cabbage | Apr to Aug | Either | 5 to 8 | 6 to 10 | 40 to 70 | 40 to 70 | 8 to 16 |
+| Capsicum | Apr to Jul | Either | 5 to 8 | 14 to 28 | 80 | 40 to 50 | 12 to 14 |
+| Carrot (baby) | Apr to Jun | Direct sow | 3 to 5 | 10 to 21 | 25 to 30 | 3 to 5 | 16 to 20 |
+| Cauliflower | Apr to Jul | Either | 5 to 8 | 6 to 10 | 50 to 75 | 50 to 75 | 7 to 12 |
+| Cherry tomatoes | Apr to Jul | Seed (raise seedlings) | 10 | 7 to 10 | 300 | 30 | 7 to 8 |
+| Chilli | Apr to Jul | Seed (raise seedlings) | 10 | 7 to 10 | 300 | 30 | 10 |
+| Chinese cabbage/Won bok | Apr to Aug | Direct sow | 5 to 8 | 6 to 10 | 30 to 40 | 30 to 40 | 8 to 10 |
+| Chinese mustard/Kai choy | Apr to Aug | Direct sow | 5 to 8 | 6 to 8 | 20 to 30 | 20 to 30 | 4 to 6 |
+| Choy sum/Caisin | Apr to Aug | Direct sow | 5 to 8 | 6 to 10 | 30 to 40 | 30 to 40 | 8 to 10 |
+| Coriander | Apr to Jul | Seed (raise seedlings) | 5 | 4 | 30 | 30 | — |
+| Cucumber | Apr to Aug | Direct sow | 10 to 15 | 6 to 10 | 100 to 150 | 40 to 60 | 5 to 6 |
+| Eggplant | Apr to Jul | Either | 5 to 8 | 10 to 14 | 75 to 90 | 45 to 60 | 10 to 12 |
+| Garlic | Apr to Jul | Direct sow | 5 | 7 to 10 | 50 | 5 | 52 |
+| Ginger | Apr to Aug | Rhizome or division | 20 | 21 | 50 | 50 | 26 |
+| Kang kong | Apr to Aug | Direct sow | 10 | 5 to 7 | 50 | 10 | 7 to 8 |
+| Lemon grass | All year | Rhizome or division | 20 | 10 | 100 | 20 to 30 | 12 |
+| Lettuce fancy | Apr to Jun | Either | 3 to 5 | 6 to 10 | 20 to 30 | 20 to 30 | 7 to 12 |
+| Luffa | Apr to Jul | Direct sow | 10 | 7 to 10 | 300 | 60 | 12 to 20 |
+| Mint | Apr to Jul | Seed (raise seedlings) | 5 | 10 to 15 | 50 | 20 | 6 |
+| Okra | Apr to Sep | Either | 5 to 8 | 10 to 14 | 100 | 50 to 60 | 10 to 12 |
+| Parsley | Apr to Jul | Seed (raise seedlings) | 5 | 4 | 30 | 30 | — |
+| Pumpkin | Apr to Jul | Direct sow | 20 to 25 | 6 to 10 | 200 to 300 | 100 | 16 to 24 |
+| Radish | Apr to Jul | Direct sow | 10 to 15 | 5 to 8 | 10 to 15 | 3 to 5 | 6 to 8 |
+| Rockmelon | Apr to Jul | Direct sow | 20 to 25 | 6 to 10 | 200 to 300 | 60 | 10 to 12 |
+| Rosella | Oct to Dec | Seed (raise seedlings) | 10 to 15 | 10 to 14 | 150 | 150 | 16 to 20 |
+| Shallots | Mar to Jul | Rhizome or division | 50 to 60 | — | 15 to 20 | 15 to 20 | 12 to 14 |
+| Silverbeet | Apr to Jul | Either | 10 to 15 | 10 to 14 | 30 to 40 | 30 to 40 | 8 to 12 |
+| Snake beans | All year | Direct sow | 15 to 20 | 7 to 10 | 75 | 10 to 15 | 8 to 10 |
+| Spinach | Apr to Jul | Direct sow | 10 to 15 | 14 to 21 | 30 to 40 | 30 to 40 | 8 to 10 |
+| Spring onions | May to Aug | Direct sow | 10 to 15 | 10 to 14 | 5 to 10 | 2 to 3 | 8 to 12 |
+| Squash button | Apr to Aug | Direct sow | 20 to 25 | 6 to 10 | 60 | 100 | 6 to 8 |
+| Sweet corn | Apr to Jun | Direct sow | 20 to 30 | 6 to 10 | 50 to 60 | 20 to 30 | 8 to 10 |
+| Sweet potato | All year | Rhizome or division | 40 to 60 | — | 100 | 30 | 18 to 20 |
+| Taro | Apr to Jun | Rhizome or division | 40 to 60 | — | 100 | 50 to 60 | 26 |
+| Tatsoi | Apr to Aug | Seed (raise seedlings) | 5 | 5 to 7 | 30 | 20 | 4 to 6 |
+| Tomato | May to Jul | Either | 5 to 10 | 7 to 10 | 100 | 40 | 8 to 10 |
+| Watermelon | Apr to Jul | Direct sow | 20 to 25 | 6 to 10 | 300 | 100 | 12 to 14 |
+| Yam bean | Apr to Jun | Direct sow | 10 | 10 to 15 | 100 | 20 | 20 |
+| Zucchini | Apr to Aug | Direct sow | 15 to 20 | 6 to 10 | 100 | 60 | 6 to 8 |
+
+- Most crops are shaded April to July or August, the start of the dry season. Only basil, lemon grass, snake beans and sweet potato are shaded all year, and rosella is shaded October to December. [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)
+- Sheet notes for beginners: raised beds 10 to 15 cm high, full sun, no waterlogging in the wet, mulch straight after planting, lime virgin soils at least six weeks before planting, and raise seedlings in containers when direct seed would wash away from December to February. [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)
+- Where IS4 and other NT sources differ: tomato is May to July here and "late April to July" in the tomato sheet below; cabbage is April to August here and end of March to July in Agnote B3; cucumber and watermelon are April to August and April to July here but "throughout the year" in their Agnotes. Onion is not on IS4, so its window stays with Agnote 191. Where sources differ, both are shown and neither is picked.
+- Crops that grow well but are not on IS4 (for example cassava, pigeon pea, cowpea, lablab) still have no sourced sowing months in this guide.
+
+### Top End: other NT sources that give months
 
 | Crop | Months | Source and how reliable |
 |---|---|---|
@@ -34,10 +92,8 @@ The NT's own Darwin/Katherine grid ([IS4](https://daf.nt.gov.au/__data/assets/pd
 | Snake bean | Can be grown in the wet if well drained; no months given | [nt.gov.au Snake beans](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans), government |
 | Wet-season green manure | Sow when early monsoon rain is imminent, usually mid to late December; incorporate in March; rip 3 to 4 weeks later | [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), government |
 
-- Months are not sourced for capsicum, chilli, eggplant, lettuce, beans, okra, sweet corn, Asian greens, herbs, cassava, taro, ginger, pigeon pea, cowpea, lablab or rosella. Do not infer them from the table above.
+- Months for cassava, pigeon pea, cowpea and lablab are not sourced in this guide. Do not infer them from the tables above.
 - The tomato, onion, carrot and cabbage windows all sit in the cooler dry months. Cucurbits, sweet potato and snake bean are sourced as year-round or wet-season crops if drained. December to February is seedling-in-containers territory (IS4). [inference, combining the NT sources above]
-- Weeks to harvest from IS4 (not months): herbs about 6; bok choy, Chinese broccoli and tatsoi 4 to 6; cherry tomato 7 to 8; tomato 8 to 10; chilli about 10; capsicum 12 to 14; eggplant and okra 10 to 12; beans 6 to 8; snake beans 8 to 10; cucumber 5 to 6; zucchini 6 to 8; pumpkin 16 to 24; kang kong 7 to 8; sweet corn 8 to 10; rosella 16 to 20; sweet potato 18 to 20; taro and ginger about 26; lemon grass about 12. [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf) (government). IS4 method codes: seedlings (basil, bok choy, chilli, coriander, mint, parsley, rosella and others), direct sow (beans, beetroot, carrot, cucumber, pumpkin, radish, sweet corn, zucchini and others), either (broccoli, cabbage, capsicum, eggplant, lettuce, okra, tomato and others), rhizome or division (ginger, lemon grass, shallots, sweet potato, taro).
-- Practical IS4 advice: full sun, no waterlogging, wind shelter, raised beds 10 to 15 cm, mulch straight after planting, and fallow under thick organic mulch over the wet season. [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)
 - For late dry-season planting the NT manual prefers white plastic mulch: black plastic bed temperature reached 33 C in May/June and 44 C in September/October, against 30 C and 38 C for white. [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf)
 
 ### Top End: unverified proxy grid (Deep Green Permaculture blog)
@@ -264,8 +320,8 @@ The NT declared weeds list is [here](https://nt.gov.au/__data/assets/pdf_file/00
 
 ## Gaps and what to check locally
 
-- **IS4 month grid (Darwin/Katherine):** unreadable by every route tried. Open the PDF yourself, or ask horticulture@nt.gov.au. IS5 (Tennant Creek) and IS6 (Alice Springs) grids are also unread.
-- **No NT months** for capsicum, chilli, eggplant, lettuce, beans, okra, sweet corn, Asian greens, herbs, cassava, taro, ginger, pigeon pea, cowpea, lablab, rosella, or green manure sowing beyond the December monsoon advice.
+- **IS4 month grid (Darwin/Katherine):** now transcribed. It is old (2005/2008), so confirm against a local nursery or the NT Government. IS5 (Tennant Creek) and IS6 (Alice Springs) grids are still unread.
+- **No NT months** for cassava, pigeon pea, cowpea, lablab, or green manure sowing beyond the December monsoon advice.
 - **Katherine versus Darwin** windows: no Katherine-specific source. The Deep Green January and March posts were not read.
 - **No Darwin community garden or council planting calendar** was found (Darwin City Council pamphlets are fruit-tree care only).
 - **Barkly and Tennant Creek:** no home-garden source. **Alice Springs frost dates:** none found.
