@@ -101,6 +101,92 @@
           "title": "Sources, limits and updates"
         }
       ]
+    },
+    {
+      "title": "Crop pages",
+      "hidden": true,
+      "pages": [
+        {
+          "path": "crops/darwin-snake-beans",
+          "title": "Snake beans (Darwin)"
+        },
+        {
+          "path": "crops/darwin-sweet-potato",
+          "title": "Sweet potato (Darwin)"
+        },
+        {
+          "path": "crops/darwin-basil",
+          "title": "Basil (Darwin)"
+        },
+        {
+          "path": "crops/darwin-lemon-grass",
+          "title": "Lemon grass (Darwin)"
+        },
+        {
+          "path": "crops/darwin-bok-choy",
+          "title": "Bok choy and Asian greens (Darwin)"
+        },
+        {
+          "path": "crops/darwin-kang-kong",
+          "title": "Kang kong (Darwin)"
+        },
+        {
+          "path": "crops/darwin-cucumber",
+          "title": "Cucumber (Darwin)"
+        },
+        {
+          "path": "crops/darwin-radish",
+          "title": "Radish (Darwin)"
+        },
+        {
+          "path": "crops/darwin-cherry-tomato",
+          "title": "Cherry tomato (Darwin)"
+        },
+        {
+          "path": "crops/darwin-chilli",
+          "title": "Chilli (Darwin)"
+        },
+        {
+          "path": "crops/sydney-rocket",
+          "title": "Rocket (Sydney)"
+        },
+        {
+          "path": "crops/sydney-lettuce",
+          "title": "Lettuce (Sydney)"
+        },
+        {
+          "path": "crops/sydney-radish",
+          "title": "Radish (Sydney)"
+        },
+        {
+          "path": "crops/sydney-cucumber",
+          "title": "Cucumber (Sydney)"
+        },
+        {
+          "path": "crops/sydney-cherry-tomato",
+          "title": "Cherry tomato (Sydney)"
+        },
+        {
+          "path": "crops/sydney-bush-beans",
+          "title": "Bush beans (Sydney)"
+        },
+        {
+          "path": "crops/sydney-basil",
+          "title": "Basil (Sydney)"
+        },
+        {
+          "path": "crops/sydney-silverbeet",
+          "title": "Silverbeet (Sydney)"
+        },
+        {
+          "path": "crops/sydney-peas",
+          "title": "Peas and snow peas (Sydney)"
+        },
+        {
+          "path": "crops/sydney-strawberries",
+          "title": "Strawberries (Sydney)"
+        }
+      ]
     }
   ]
 }

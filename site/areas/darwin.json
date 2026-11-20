@@ -1,0 +1,603 @@
+{
+ "id": "darwin",
+ "name": "Darwin and the Top End",
+ "short": "Darwin",
+ "seasons": [
+  {
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "label": "Wet season",
+   "blurb": "Few crops are sown now. Use the wet to get beds ready for the main sowing season, which opens in April.",
+   "prep": "prep"
+  },
+  {
+   "months": [
+    4
+   ],
+   "label": "Late wet season",
+   "blurb": "The main sowing window opens. Most crops on the NT sheet are sown from now.",
+   "prep": "plant"
+  },
+  {
+   "months": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "label": "Dry season",
+   "blurb": "The widest range of crops is shaded on the NT sheet.",
+   "prep": "plant"
+  },
+  {
+   "months": [
+    9,
+    10
+   ],
+   "label": "Late dry season",
+   "blurb": "Few crops are shaded again. Plan the wet-season fallow and start seedlings in containers before the December rains.",
+   "prep": "late"
+  }
+ ],
+ "sowSource": "NT Government sowing sheet IS4 (2005/2008)",
+ "sowSourcePage": "states/nt",
+ "sow": {
+  "1": [
+   "Basil",
+   "Lemon grass",
+   "Snake beans",
+   "Sweet potato"
+  ],
+  "2": [
+   "Basil",
+   "Lemon grass",
+   "Snake beans",
+   "Sweet potato"
+  ],
+  "3": [
+   "Basil",
+   "Beetroot",
+   "Lemon grass",
+   "Shallots",
+   "Snake beans",
+   "Sweet potato"
+  ],
+  "4": [
+   "Asian melon",
+   "Basil",
+   "Beans",
+   "Beetroot",
+   "Bok choy/Pak choi",
+   "Broccoli",
+   "Broccoli Chinese/Kai Lan",
+   "Brussels sprouts",
+   "Cabbage",
+   "Capsicum",
+   "Baby carrot",
+   "Cauliflower",
+   "Cherry tomatoes",
+   "Chilli",
+   "Chinese cabbage/Won bok",
+   "Chinese mustard/Kai choy",
+   "Choy sum/Caisin",
+   "Coriander",
+   "Cucumber",
+   "Eggplant",
+   "Garlic",
+   "Ginger",
+   "Kang kong",
+   "Lemon grass",
+   "Lettuce fancy",
+   "Luffa",
+   "Mint",
+   "Okra",
+   "Parsley",
+   "Pumpkin",
+   "Radish",
+   "Rockmelon",
+   "Shallots",
+   "Silverbeet",
+   "Snake beans",
+   "Spinach",
+   "Squash button",
+   "Sweet corn",
+   "Sweet potato",
+   "Taro",
+   "Tatsoi",
+   "Watermelon",
+   "Yam bean",
+   "Zucchini"
+  ],
+  "5": [
+   "Asian melon",
+   "Basil",
+   "Beans",
+   "Beetroot",
+   "Bitter melon",
+   "Bok choy/Pak choi",
+   "Broccoli",
+   "Broccoli Chinese/Kai Lan",
+   "Brussels sprouts",
+   "Cabbage",
+   "Capsicum",
+   "Baby carrot",
+   "Cauliflower",
+   "Cherry tomatoes",
+   "Chilli",
+   "Chinese cabbage/Won bok",
+   "Chinese mustard/Kai choy",
+   "Choy sum/Caisin",
+   "Coriander",
+   "Cucumber",
+   "Eggplant",
+   "Garlic",
+   "Ginger",
+   "Kang kong",
+   "Lemon grass",
+   "Lettuce fancy",
+   "Luffa",
+   "Mint",
+   "Okra",
+   "Parsley",
+   "Pumpkin",
+   "Radish",
+   "Rockmelon",
+   "Shallots",
+   "Silverbeet",
+   "Snake beans",
+   "Spinach",
+   "Spring onions",
+   "Squash button",
+   "Sweet corn",
+   "Sweet potato",
+   "Taro",
+   "Tatsoi",
+   "Tomato",
+   "Watermelon",
+   "Yam bean",
+   "Zucchini"
+  ],
+  "6": [
+   "Asian melon",
+   "Basil",
+   "Beans",
+   "Beetroot",
+   "Bitter melon",
+   "Bok choy/Pak choi",
+   "Broccoli",
+   "Broccoli Chinese/Kai Lan",
+   "Brussels sprouts",
+   "Cabbage",
+   "Capsicum",
+   "Baby carrot",
+   "Cauliflower",
+   "Cherry tomatoes",
+   "Chilli",
+   "Chinese cabbage/Won bok",
+   "Chinese mustard/Kai choy",
+   "Choy sum/Caisin",
+   "Coriander",
+   "Cucumber",
+   "Eggplant",
+   "Garlic",
+   "Ginger",
+   "Kang kong",
+   "Lemon grass",
+   "Lettuce fancy",
+   "Luffa",
+   "Mint",
+   "Okra",
+   "Parsley",
+   "Pumpkin",
+   "Radish",
+   "Rockmelon",
+   "Shallots",
+   "Silverbeet",
+   "Snake beans",
+   "Spinach",
+   "Spring onions",
+   "Squash button",
+   "Sweet corn",
+   "Sweet potato",
+   "Taro",
+   "Tatsoi",
+   "Tomato",
+   "Watermelon",
+   "Yam bean",
+   "Zucchini"
+  ],
+  "7": [
+   "Asian melon",
+   "Basil",
+   "Beans",
+   "Bitter melon",
+   "Bok choy/Pak choi",
+   "Broccoli",
+   "Broccoli Chinese/Kai Lan",
+   "Brussels sprouts",
+   "Cabbage",
+   "Capsicum",
+   "Cauliflower",
+   "Cherry tomatoes",
+   "Chilli",
+   "Chinese cabbage/Won bok",
+   "Chinese mustard/Kai choy",
+   "Choy sum/Caisin",
+   "Coriander",
+   "Cucumber",
+   "Eggplant",
+   "Garlic",
+   "Ginger",
+   "Kang kong",
+   "Lemon grass",
+   "Luffa",
+   "Mint",
+   "Okra",
+   "Parsley",
+   "Pumpkin",
+   "Radish",
+   "Rockmelon",
+   "Shallots",
+   "Silverbeet",
+   "Snake beans",
+   "Spinach",
+   "Spring onions",
+   "Squash button",
+   "Sweet potato",
+   "Tatsoi",
+   "Tomato",
+   "Watermelon",
+   "Zucchini"
+  ],
+  "8": [
+   "Basil",
+   "Bitter melon",
+   "Bok choy/Pak choi",
+   "Broccoli Chinese/Kai Lan",
+   "Brussels sprouts",
+   "Cabbage",
+   "Chinese cabbage/Won bok",
+   "Chinese mustard/Kai choy",
+   "Choy sum/Caisin",
+   "Cucumber",
+   "Ginger",
+   "Kang kong",
+   "Lemon grass",
+   "Okra",
+   "Snake beans",
+   "Spring onions",
+   "Squash button",
+   "Sweet potato",
+   "Tatsoi",
+   "Zucchini"
+  ],
+  "9": [
+   "Basil",
+   "Lemon grass",
+   "Okra",
+   "Snake beans",
+   "Sweet potato"
+  ],
+  "10": [
+   "Basil",
+   "Lemon grass",
+   "Rosella",
+   "Snake beans",
+   "Sweet potato"
+  ],
+  "11": [
+   "Basil",
+   "Lemon grass",
+   "Rosella",
+   "Snake beans",
+   "Sweet potato"
+  ],
+  "12": [
+   "Basil",
+   "Lemon grass",
+   "Rosella",
+   "Snake beans",
+   "Sweet potato"
+  ]
+ },
+ "starter": [
+  {
+   "slug": "crops/darwin-snake-beans",
+   "name": "Snake beans",
+   "how": "Direct sow, grow up a trellis",
+   "meta": "8 to 10 weeks",
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "slug": "crops/darwin-sweet-potato",
+   "name": "Sweet potato",
+   "how": "Plant in a raised bed",
+   "meta": "18 to 20 weeks",
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "slug": "crops/darwin-basil",
+   "name": "Basil",
+   "how": "Sow seed, 30 cm apart",
+   "meta": "Up in 4 days",
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "slug": "crops/darwin-lemon-grass",
+   "name": "Lemon grass",
+   "how": "Plant divisions",
+   "meta": "12 weeks",
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "slug": "crops/darwin-bok-choy",
+   "name": "Bok choy and Asian greens",
+   "how": "Quick leafy crop",
+   "meta": "4 to 6 weeks",
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "slug": "crops/darwin-kang-kong",
+   "name": "Kang kong",
+   "how": "Direct sow, 10 cm apart",
+   "meta": "7 to 8 weeks",
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "slug": "crops/darwin-cucumber",
+   "name": "Cucumber",
+   "how": "Needs room to sprawl",
+   "meta": "5 to 6 weeks",
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "slug": "crops/darwin-radish",
+   "name": "Radish",
+   "how": "Direct sow, picked in 6 to 8 weeks",
+   "meta": "6 to 8 weeks",
+   "months": [
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "slug": "crops/darwin-cherry-tomato",
+   "name": "Cherry tomato",
+   "how": "Raise seedlings first",
+   "meta": "7 to 8 weeks",
+   "months": [
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "slug": "crops/darwin-chilli",
+   "name": "Chilli",
+   "how": "Seedlings, protect from wind",
+   "meta": "10 weeks",
+   "months": [
+    4,
+    5,
+    6,
+    7
+   ]
+  }
+ ],
+ "prep": {
+  "prep": [
+   {
+    "text": "Choose a spot with full sun, wind shelter and no waterlogging",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Build or fill beds at least 10 to 15 cm high so water drains",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Add organic matter, then mulch. Top it up often because it breaks down fast in the tropics",
+    "src": "NT Government, tips for new gardens"
+   },
+   {
+    "text": "New ground: lime at least six weeks before planting, fertiliser two to three weeks before",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "From December to February, raise small seed in containers because heavy rain washes seed away",
+    "src": "NT Government IS4"
+   }
+  ],
+  "plant": [
+   {
+    "text": "Plant out in the late afternoon or on a cool, cloudy day",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Mulch straight after planting to cool the soil, hold moisture and stop weeds",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Water seedlings in with a weak fertiliser solution",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Check weekly for weeds, pests and disease. Early treatment improves yield",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Dig in crop residue as soon as harvest ends, and remove diseased plants",
+    "src": "NT Government IS4"
+   }
+  ],
+  "late": [
+   {
+    "text": "Plan a wet-season fallow: a thick layer of organic mulch, turned in for the next season",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Dig in crop residue and remove diseased plants",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Fertilise and mulch before heavy rain to protect soil from erosion",
+    "src": "Charles Darwin University, Dec 2014"
+   }
+  ]
+ },
+ "shopping": {
+  "pots": [
+   {
+    "text": "Potting mix with the Australian Standard mark",
+    "src": "Salisbury Council (SA)"
+   },
+   {
+    "text": "Pots 20 to 30 cm deep for most vegetables, with 5 to 10 drainage holes",
+    "src": "Salisbury Council (SA)"
+   },
+   {
+    "text": "A trellis or stakes for snake beans",
+    "src": "NT Government, snake beans"
+   },
+   {
+    "text": "Mulch, kept off small seedlings",
+    "src": "NT Government, tips for new gardens"
+   },
+   {
+    "text": "Seed or divisions for the crops listed",
+    "src": "NT Government IS4"
+   }
+  ],
+  "yard": [
+   {
+    "text": "Compost or other organic matter for the beds",
+    "src": "NT Government, tips for new gardens"
+   },
+   {
+    "text": "Lime if the soil is new ground",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "Edging or sleepers to raise beds 10 to 15 cm",
+    "src": "NT Government IS4"
+   },
+   {
+    "text": "A trellis for snake beans, and mulch",
+    "src": "NT Government, snake beans"
+   },
+   {
+    "text": "Seed or divisions for the crops listed",
+    "src": "NT Government IS4"
+   }
+  ]
+ },
+ "links": [
+  {
+   "tag": "FOR RENTERS AND SMALL SPACES",
+   "title": "Small spaces, pots and renting",
+   "path": "start/small-spaces"
+  },
+  {
+   "tag": "MONTH BY MONTH",
+   "title": "Darwin beginner guide",
+   "path": "start/darwin"
+  },
+  {
+   "tag": "IF SOMETHING GOES WRONG",
+   "title": "Insect pests and organic fixes",
+   "path": "pests/insects"
+  },
+  {
+   "tag": "LEAVES, MILDEW, SOIL",
+   "title": "Diseases, weeds and soil problems",
+   "path": "pests/diseases"
+  },
+  {
+   "tag": "DEEPER",
+   "title": "Full Northern Territory guide",
+   "path": "states/nt"
+  },
+  {
+   "tag": "BEFORE YOU MOVE PLANTS",
+   "title": "Biosecurity and weeds",
+   "path": "biosecurity-and-weeds"
+  }
+ ]
+}

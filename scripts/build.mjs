@@ -41,13 +41,24 @@ const plainInline = (s) => s
 /* ---------- nav ---------- */
 const nav = JSON.parse(readFileSync(join(docs, 'nav.json'), 'utf8'));
 const navPages = new Map();
-for (const g of nav.groups) for (const p of g.pages) navPages.set(p.path, { ...p, group: g.title || 'Guide' });
+for (const g of nav.groups) for (const p of g.pages) navPages.set(p.path, { ...p, group: g.title || 'Guide', hidden: !!g.hidden });
 
 const mdFiles = walk(docs).filter((f) => f.endsWith('.md'));
 const pagePaths = new Map(mdFiles.map((f) => [toPosix(relative(docs, f)).replace(/\.md$/, ''), f]));
 
 for (const p of navPages.keys()) if (!pagePaths.has(p)) warn(`nav.json lists "${p}" but docs/${p}.md does not exist`);
 for (const p of pagePaths.keys()) if (!navPages.has(p)) warn(`docs/${p}.md is not listed in docs/nav.json`);
+
+/* ---------- area data (site/areas/*.json) ---------- */
+for (const f of readdirSync(join(site, 'areas')).filter((n) => n.endsWith('.json'))) {
+  let a;
+  try { a = JSON.parse(readFileSync(join(site, 'areas', f), 'utf8')); } catch (e) { warn(`site/areas/${f} is not valid JSON`); continue; }
+  for (let m = 1; m <= 12; m++) if (!Array.isArray(a.sow?.[m])) warn(`site/areas/${f}: sow list missing for month ${m}`);
+  for (const c of a.starter ?? []) if (!pagePaths.has(c.slug)) warn(`site/areas/${f}: crop page "${c.slug}" does not exist`);
+  for (const l of a.links ?? []) if (!pagePaths.has(l.path)) warn(`site/areas/${f}: link "${l.path}" does not exist`);
+  if (!a.sowSource || !pagePaths.has(a.sowSourcePage)) warn(`site/areas/${f}: sowSource or sowSourcePage is missing or wrong`);
+  for (const s of a.seasons ?? []) if (!a.prep?.[s.prep]) warn(`site/areas/${f}: season "${s.label}" uses missing prep list "${s.prep}"`);
+}
 
 /* ---------- parse pages ---------- */
 const pages = [];
