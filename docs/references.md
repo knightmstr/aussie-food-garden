@@ -1,6 +1,6 @@
 # References
 
-Every source this guide lists, in one place. A number in square brackets on a crop page, like [12], opens its entry here. Pages for places, pests, diseases and principles keep their own source lists with notes, and every source on them is also listed here. Each entry shows the title, the kind of source, and where this guide uses it. The kind of each source is this guide's own label, not the publisher's. Government sources are not automatically current, so check the year on the page you open.
+Every source this guide lists, in one place. A number in square brackets on a crop or state page, like [12], opens its entry here. Pages for pests, diseases and principles keep their own source lists with notes, and every source on them is also listed here. Each entry shows the title, the kind of source, and where this guide uses it. The kind of each source is this guide's own label, not the publisher's. Government sources are not automatically current, so check the year on the page you open.
 
 Evidence labels and gaps are on the page that uses each source. This list only says where a source comes from.
 
@@ -401,9 +401,19 @@ Evidence labels and gaps are on the page that uses each source. This list only s
 372. [Organic Gardener, biofumigation](https://www.organicgardener.com.au/biofumigation/) · magazine<br>Used on: [Diseases, weeds and soil problems: organic management](pests/diseases.md)
 373. [Pilbara News](https://www.pilbaranews.com.au/news/pilbara/get-your-garden-growing-now-ng-ya-106888)<br>Used on: [Western Australia](states/wa.md)
 374. [PlantSale Perth](https://plantsale.pages.dev/calendar/perth/print/)<br>Used on: [Western Australia](states/wa.md)
-375. [Region Canberra forum thread](https://region.com.au/when-to-plant-winter-vegetables-in-canberra/123134/) · reader comments<br>Used on: [New South Wales and the ACT](states/nsw-act.md)
-376. [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)<br>Used on: [Sydney cucumber](crops/sydney-cucumber.md), [Sydney lettuce](crops/sydney-lettuce.md), [Sydney peas](crops/sydney-peas.md), [Sydney radish](crops/sydney-radish.md) and 2 more
-377. [Tasmanian Aboriginal Centre, Palawa Kipli release](https://tacinc.com.au/2026/07/media-release-tasmanian-aboriginal-food-business-palawa-kipli-launches-first-ever-retail-product/) · Indigenous organisation<br>Used on: [Native foods](native-foods.md), [Tasmania](states/tas.md)
-378. [Tasmanian organic gardening guide](https://brendangasparin.github.io/gardening-2011/plantguide.html) · personal site, 2011<br>Used on: [Tasmania](states/tas.md)
-379. [Tiwi Land Council, Tiwi food plants](https://www.tiwilandcouncil.com/post/tiwi-food-plants) · Indigenous organisation (as described on its page)<br>Used on: [Native foods](native-foods.md), [Northern Territory](states/nt.md)
-380. [WA Plant Diseases Regulations 1989](https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_4048.pdf/$FILE/Plant%20Diseases%20Regulations%201989%20-%20%5B04-f0-04%5D.pdf) · legislation (not read)<br>Used on: [Western Australia](states/wa.md)
+375. [post](https://deepgreenpermaculture.com/2023/02/02/february-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/)<br>Used on: [Northern Territory](states/nt.md)
+376. [post](https://deepgreenpermaculture.com/2023/04/15/april-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/)<br>Used on: [Northern Territory](states/nt.md)
+377. [post](https://deepgreenpermaculture.com/2023/05/07/may-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/)<br>Used on: [Northern Territory](states/nt.md)
+378. [post](https://deepgreenpermaculture.com/2023/06/05/june-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/)<br>Used on: [Northern Territory](states/nt.md)
+379. [post](https://deepgreenpermaculture.com/2023/07/21/july-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia)<br>Used on: [Northern Territory](states/nt.md)
+380. [post](https://deepgreenpermaculture.com/2023/08/13/august-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/)<br>Used on: [Northern Territory](states/nt.md)
+381. [post](https://deepgreenpermaculture.com/2023/09/04/september-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/?amp=1)<br>Used on: [Northern Territory](states/nt.md)
+382. [post](https://deepgreenpermaculture.com/2023/10/07/october-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/)<br>Used on: [Northern Territory](states/nt.md)
+383. [post](https://deepgreenpermaculture.com/2023/11/16/november-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/?amp=1)<br>Used on: [Northern Territory](states/nt.md)
+384. [post](https://deepgreenpermaculture.com/2023/12/01/december-vegetable-and-herb-gardening-calendar-for-tropical-climate-australia/?amp=1)<br>Used on: [Northern Territory](states/nt.md)
+385. [Region Canberra forum thread](https://region.com.au/when-to-plant-winter-vegetables-in-canberra/123134/) · reader comments<br>Used on: [New South Wales and the ACT](states/nsw-act.md)
+386. [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)<br>Used on: [Sydney cucumber](crops/sydney-cucumber.md), [Sydney lettuce](crops/sydney-lettuce.md), [Sydney peas](crops/sydney-peas.md), [Sydney radish](crops/sydney-radish.md) and 2 more
+387. [Tasmanian Aboriginal Centre, Palawa Kipli release](https://tacinc.com.au/2026/07/media-release-tasmanian-aboriginal-food-business-palawa-kipli-launches-first-ever-retail-product/) · Indigenous organisation<br>Used on: [Native foods](native-foods.md), [Tasmania](states/tas.md)
+388. [Tasmanian organic gardening guide](https://brendangasparin.github.io/gardening-2011/plantguide.html) · personal site, 2011<br>Used on: [Tasmania](states/tas.md)
+389. [Tiwi Land Council, Tiwi food plants](https://www.tiwilandcouncil.com/post/tiwi-food-plants) · Indigenous organisation (as described on its page)<br>Used on: [Native foods](native-foods.md), [Northern Territory](states/nt.md)
+390. [WA Plant Diseases Regulations 1989](https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_4048.pdf/$FILE/Plant%20Diseases%20Regulations%201989%20-%20%5B04-f0-04%5D.pdf) · legislation (not read)<br>Used on: [Western Australia](states/wa.md)
