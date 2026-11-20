@@ -104,6 +104,61 @@
     if (el) el.scrollIntoView({ block: 'start' }); else window.scrollTo(0, 0);
   }
 
+  /* Crop pages: same markdown, laid out as fact tiles, numbered steps and folded detail. */
+  function restyleCrop(root) {
+    var kids = [].slice.call(root.children), secs = [{ t: '', n: [] }];
+    kids.forEach(function (k) { if (k.tagName === 'H2') secs.push({ t: k.textContent, n: [] }); else secs[secs.length - 1].n.push(k); });
+    var chev = '<span class="chev" aria-hidden="true">›</span>';
+    function el(tag, cls, html) { var e = document.createElement(tag); if (cls) e.className = cls; if (html != null) e.innerHTML = html; return e; }
+    function fold(title, nodes, open) {
+      var d = el('details', 'fold'); if (open) d.open = true;
+      d.appendChild(el('summary', null, esc(title) + '<span class="end">' + chev + '</span>'));
+      var b = el('div', 'body'); nodes.forEach(function (n) { b.appendChild(n); }); d.appendChild(b); return d;
+    }
+    var out = el('div', 'crop'), note = null;
+    secs.forEach(function (s) {
+      var key = s.t.toLowerCase();
+      if (!s.t) {
+        s.n.forEach(function (n) { if (n.tagName === 'BLOCKQUOTE') note = n; else out.appendChild(n); });
+      } else if (key === 'key facts') {
+        var tbl = null; s.n.forEach(function (n) { if (n.querySelector && n.querySelector('table')) tbl = n.querySelector('table'); });
+        if (tbl) {
+          var g = el('div', 'facts');
+          [].slice.call(tbl.querySelectorAll('tbody tr')).forEach(function (tr) {
+            var c = tr.children; if (c.length < 2) return;
+            g.appendChild(el('div', 'fact', '<span class="fl">' + c[0].innerHTML + '</span><span class="fv">' + c[1].innerHTML + '</span>'));
+          });
+          out.appendChild(g);
+        }
+        s.n.forEach(function (n) { if (!(n.querySelector && n.querySelector('table')) && n.tagName !== 'TABLE') { n.classList.add('fine'); out.appendChild(n); } });
+        if (note) { out.appendChild(fold('About these figures', [note])); note = null; }
+      } else if (key === 'what you need') {
+        out.appendChild(el('h2', null, esc(s.t)));
+        s.n.forEach(function (n) {
+          if (n.tagName === 'UL') { var g2 = el('div', 'group'); [].slice.call(n.children).forEach(function (li) { g2.appendChild(el('div', 'row', '<span class="main">' + li.innerHTML + '</span>')); }); out.appendChild(g2); }
+          else out.appendChild(n);
+        });
+      } else if (key === 'how to grow it') {
+        out.appendChild(el('h2', null, esc(s.t)));
+        s.n.forEach(function (n) {
+          if (n.tagName === 'OL') { var st = el('div', 'steps'); [].slice.call(n.children).forEach(function (li, i) { st.appendChild(el('div', 'step', '<span class="num">' + (i + 1) + '</span><span class="st">' + li.innerHTML + '</span>')); }); out.appendChild(st); }
+          else out.appendChild(n);
+        });
+      } else if (key === 'more') {
+        out.appendChild(el('h2', null, 'Keep exploring'));
+        var chips = el('div', 'chips');
+        s.n.forEach(function (n) { [].slice.call(n.querySelectorAll('a')).forEach(function (a) { var c = el('a', 'chip', a.innerHTML); c.href = a.getAttribute('href'); chips.appendChild(c); }); });
+        out.appendChild(chips);
+      } else if (key === 'watch for' || key === 'sources') {
+        out.appendChild(fold(s.t, s.n));
+      } else {
+        out.appendChild(el('h2', null, esc(s.t))); s.n.forEach(function (n) { out.appendChild(n); });
+      }
+    });
+    if (note) out.appendChild(fold('About these figures', [note]));
+    root.innerHTML = ''; root.appendChild(out);
+  }
+
   function showPage(path, anchor) {
     statusEl.textContent = 'Loading…';
     return getText(base + path + '.md').then(function (md) {
@@ -113,6 +168,7 @@
       document.title = (h1 ? h1.textContent + ' · ' : '') + 'Aussie Food Garden';
       var crop = /^crops\/(darwin|sydney)-/.exec(path);
       if (crop) {
+        restyleCrop(contentEl);
         var an = crop[1] === 'darwin' ? 'Darwin' : 'Sydney';
         contentEl.insertAdjacentHTML('afterbegin', '<p class="crumb"><a href="#/area/' + crop[1] + '">‹ Back to your ' + an + ' garden</a></p>');
       }

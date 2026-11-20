@@ -202,7 +202,7 @@ a.row:active, label.row:active { background: var(--fill); }
 .check .ct { display: block; line-height: 1.4; }
 .check .cs { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; }
 .pickfind { margin: 4px 0 8px; }
-.pickfind input { width: 100%; height: 38px; padding: 0 14px; border-radius: 10px; border: 0; font: inherit; font-size: 16px; background: var(--fill); color: var(--fg); }
+.pickfind input { width: 100%; height: 44px; padding: 0 18px; border-radius: 999px; border: 0; font: inherit; font-size: 16px; background: var(--fill); color: var(--fg); }
 .pickfind input::placeholder { color: var(--muted); }
 .zone-state { margin: 26px 16px 6px; font-size: 13px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
 .empty { padding: 20px 16px; color: var(--muted); }
@@ -232,6 +232,29 @@ a.row:active, label.row:active { background: var(--fill); }
 @media (min-width: 861px) {
   .brand { display: inline; }
 }
+
+/* ---- Crop pages ---- */
+.crop { max-width: 640px; }
+.crop h1 { font-size: 2.4rem; margin: .1em 0 .5em; }
+.crop h2 { font-family: var(--head); font-size: 1.3rem; margin: 2em 0 .6em; }
+.facts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin: 0 0 12px; }
+.fact { display: flex; flex-direction: column; gap: 4px; padding: 14px 16px; border-radius: 18px; background: var(--tile); box-shadow: var(--shadow); }
+.fact .fl { font-size: 11.5px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.fact .fv { font-family: var(--head); font-size: 1.1rem; font-weight: 600; line-height: 1.25; }
+.crop .fine { margin: 6px 4px 0; }
+.crop .group .row { min-height: 52px; }
+.steps { display: flex; flex-direction: column; gap: 16px; }
+.step { display: flex; gap: 14px; align-items: flex-start; }
+.step .num { flex: none; width: 32px; height: 32px; border-radius: 50%; background: var(--accent); color: var(--accent-fg); font-family: var(--head); font-weight: 600; display: flex; align-items: center; justify-content: center; }
+.step .st { padding-top: 3px; line-height: 1.5; }
+.crop .fold { margin-top: 0; }
+.crop .fold + .fold { border-top: 0; }
+.crop .fold ul { padding-left: 20px; margin: 0; }
+.crop .fold li { margin: .5em 0; }
+.crop .chips { margin: 0 0 8px; }
+.crop .chip { color: var(--fg); }
+.crop > .fold:first-of-type { margin-top: 20px; }
+.fold > summary { padding: 0; }
 
 /* ---- Home: one answer, big number, tiles, collapsed detail ---- */
 .hero { display: flex; align-items: flex-end; gap: 16px; margin: 0 0 4px; }
