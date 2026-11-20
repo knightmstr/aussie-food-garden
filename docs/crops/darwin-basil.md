@@ -1,5 +1,9 @@
 # Basil
 
+![Basil plant](../photos/crop-basil.jpg)
+
+*Photo: PumpkinSky, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_CG_NBG_LR.jpg). Resized.*
+
 > **Darwin and Katherine.** Shaded all year on the NT sheet, so it is one of the few things you can start in the wet. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

@@ -74,7 +74,9 @@ Australian trials (Hort Innovation VG16062, vegetable crops 2018 to 2020): 1 m f
 
 **Recognise:** malformed new growth, ants on stems, sticky honeydew and sooty mould. Aphids favour yellow flowers, warm moist conditions and soft growth on roses, many vegetables and citrus ([Yarra Ranges Council](https://www.yarraranges.vic.gov.au/files/assets/public/webdocuments/environment/sustainable-home-garden/natural-pest-control-using-integrated-pest-management-principles-1.pdf)). Green peach aphid honeydew leads to sooty mould ([AUSVEG](https://ausveg.com.au/app/uploads/2013/09/MegaPestsManagingSuckingPests.pdf)). Aphids are the worst brassica pest named in the Alice Springs broccoli and cabbage guide ([NT Agnote B37](https://daf.nt.gov.au/__data/assets/pdf_file/0019/233029/768.pdf)). They can spread cucumber and lettuce mosaic viruses. No specific aphid threshold is given in the sources reviewed.
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=aphid&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![Aphids clustered on a stem](../photos/pest-aphid.jpg)
+
+*Photo: Sanjay ach, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sa_aphid_colony_highres.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=aphid&title=Special%3AMediaSearch&type=image).*
 
 **The escalation ladder** (council and SGA home-garden sources agree on this order; no efficacy trials were seen):
 
@@ -104,7 +106,9 @@ Australian trials (Hort Innovation VG16062, vegetable crops 2018 to 2020): 1 m f
 
 **Recognise:** yellow sticky traps and a hand-lens check of leaf undersides. Silverleaf whitefly saliva can cause extra plant damage. It peaks late spring to early summer, and occurs year-round in warmer climates ([SGA whitefly](https://www.sgaonline.org.au/whitefly/)). A young cucurbit crop with ten adults per trap per week signals a need to treat ([AUSVEG](https://ausveg.com.au/app/uploads/2013/09/MegaPestsManagingSuckingPests.pdf)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=whitefly&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![Whitefly on the underside of a leaf](../photos/pest-whitefly.jpg)
+
+*Photo: division, CSIRO, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_7704_Silverleaf_whitefly_Bemisia_tabaci_biotype_B.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=whitefly&title=Special%3AMediaSearch&type=image).*
 
 **Beneficials and biological control:** ladybirds, lacewings and hoverflies eat nymphs and adults. Parasitoids are Encarsia and Eretmocerus, and Deraeocoris signatus is a predatory bug. Encarsia formosa is sold commercially for greenhouses. SGA suggests marigold and alyssum nearby ([SGA](https://www.sgaonline.org.au/whitefly/), [AUSVEG](https://ausveg.com.au/app/uploads/2013/09/MegaPestsManagingSuckingPests.pdf)).
 
@@ -120,7 +124,9 @@ Australian trials (Hort Innovation VG16062, vegetable crops 2018 to 2020): 1 m f
 
 **Recognise:** monitor with yellow or blue sticky traps and a hand lens. Thrips spread tomato spotted wilt virus (TSWV), and rogueing infected plants helped ([AUSVEG](https://ausveg.com.au/app/uploads/2013/09/MegaPestsManagingSuckingPests.pdf)). No thrips threshold is given.
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=thrips+insect&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A thrips on a leaf](../photos/pest-thrips.jpg)
+
+*Photo: Jaiiiiiiii, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hercinothrips_femoralis.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=thrips+insect&title=Special%3AMediaSearch&type=image).*
 
 **Beneficials and biological control:** predators are Amblyseius cucumeris, Orius armatus (effective at about 8 per m2 in capsicum trials) and Hypoaspis aculeifer (pupae). Pollen-producing flowers sustain Orius when pest numbers are low. Brown lacewing and ladybirds also eat thrips ([AUSVEG](https://ausveg.com.au/app/uploads/2013/09/MegaPestsManagingSuckingPests.pdf), [VG16062](https://www.horticulture.com.au/globalassets/hort-innovation/resource-assets/vg16062-boosting-beneficials-in-your-vegetable-crop.pdf)).
 
@@ -134,7 +140,9 @@ Australian trials (Hort Innovation VG16062, vegetable crops 2018 to 2020): 1 m f
 
 **Recognise:** adults under 0.5 mm with two dark spots under a x10 lens. Yellow stippling near veins on leaf undersides, clear spherical eggs, overwintering females are orange. Hot, dry weather drives outbreaks. Hosts include strawberry, beans, tomato, stonefruit, apples, pears, papaya, roses and weeds ([Business Queensland](https://business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/insects/horticultural/two-spotted-mite)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Tetranychus+urticae&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A spider mite on a leaf](../photos/pest-two-spotted-mite.jpg)
+
+*Photo: Gilles San Martin from Namur, Belgium, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tetranychus_urticae_(4884160894).jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=Tetranychus+urticae&title=Special%3AMediaSearch&type=image).*
 
 **Prevent:** keep vegetation between rows, avoid bare dusty soil, use windbreaks, avoid unnecessary broad-spectrum sprays. Mite outbreaks often follow excess insecticide use, so avoid calendar spraying ([Business Queensland](https://business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/insects/horticultural/two-spotted-mite), [NSW DPI](https://dpi.nsw.gov.au/__data/assets/pdf_file/0005/1560596/Two-spotted-mite.pdf)).
 
@@ -148,7 +156,13 @@ Australian trials (Hort Innovation VG16062, vegetable crops 2018 to 2020): 1 m f
 
 ### Scale and mealybug
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=mealybug&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![Black scale insects on a leaf](../photos/pest-scale.jpg)
+
+*Photo: Secretlondon, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_scale_on_draceana.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=mealybug&title=Special%3AMediaSearch&type=image).*
+
+![A mealybug](../photos/pest-mealybug.jpg)
+
+*Photo: Tero Keski-Valkama, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mealybug_Benalm%C3%A1dena_2.jpg). Resized.*
 
 **Beneficials and biological control:** the mealybug destroyer Cryptolaemus montrouzieri is sold by Bugs For Bugs as adults (packs of 100) or larvae. It targets citrus, obscure and citrophilus mealybug, black, pulvinaria and cottony cushion scale. It works best at 25 to 28 C, and you should wait at least 4 weeks after organophosphates, carbamates or synthetic pyrethroids. Its larvae look like mealybugs ([Bugs For Bugs](https://bugsforbugs.com.au/product/cryptolaemus/)). Other beneficials: Chilocorus circumdatus (armoured scale), Aphytis wasps (red and armoured scale) ([Yarra Ranges Council](https://www.yarraranges.vic.gov.au/files/assets/public/webdocuments/environment/sustainable-home-garden/natural-pest-control-using-integrated-pest-management-principles-1.pdf)).
 
@@ -196,7 +210,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 **Recognise:** larvae grow to 50 mm, curl into a C when handled, feed at night and hide in soil by day. Seedlings are most at risk. Find them by scratching the soil ([Business Queensland](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/insects/field-crop/cutworm)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=cutworm&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A cutworm caterpillar](../photos/pest-cutworm.jpg)
+
+*Photo: USGS Bee Inventory and Monitoring Lab from Beltsville, Maryl, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agrotis_ipsilon_(black_cutworm),_side_2014-06-04-19.42.51_ZS_PMax_(15752867389).jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=cutworm&title=Special%3AMediaSearch&type=image).*
 
 **Prevent:** control weeds 3 to 4 weeks before sowing. Wasp parasitoids and fungal diseases suppress cutworm. Business Queensland suggests spot-treating in the evening (field-crop source).
 
@@ -208,7 +224,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 **Recognise:** yellow or orange beetles 6 to 7 mm. The pumpkin beetle (Aulacophora hilaris) has four black spots. Seedlings are most vulnerable and a few beetles can kill them ([NT DAF](https://daf.nt.gov.au/__data/assets/pdf_file/0006/233628/805.pdf)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=pumpkin+beetle+Aulacophora&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![Pumpkin beetles on a leaf](../photos/pest-pumpkin-beetle.jpg)
+
+*Photo: Kramthenik27, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mating_Pumpkin_beetle.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=pumpkin+beetle+Aulacophora&title=Special%3AMediaSearch&type=image).*
 
 **Prevent:** check twice weekly and remove crop residues after harvest. Netting seedlings is unsourced.
 
@@ -220,7 +238,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 **Recognise and prevent:** most are solitary, while locusts aggregate. Dense grassy pasture limits egg-laying, so control weeds and grass. Act at the first sign of nymph aggregation ([Business Queensland](https://business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/insects/field-crop/grasshoppers)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=grasshopper&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A grasshopper on a leaf](../photos/pest-grasshopper.jpg)
+
+*Photo: Charles J. Sharp, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Short-horned_grasshopper_(Rhytidochrota_risaraldae)_female.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=grasshopper&title=Special%3AMediaSearch&type=image).*
 
 **Beneficials:** Scelio wasps parasitise up to 30% of eggs. Birds and guinea fowl help.
 
@@ -232,7 +252,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 **Recognise:** leaf mines alone do not show a need to act. Check for live larvae or parasitism with a lens, and monitor adults with yellow sticky traps at canopy height ([AUSVEG leafminer plan](https://ausveg.com.au/app/uploads/2020/12/Management-Plan-Exotic-leafminers.pdf)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=leafminer+Liriomyza&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A leaf mine, a winding tunnel in a leaf](../photos/pest-leafminer.jpg)
+
+*Photo: Ryan Hodnett, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leaf_Damage_from_Aspen_Serpentine_Leafminer_Moth_(Phyllocnistis_populiella)_-_Guelph,_Ontario_2016-07-26_(02).jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=leafminer+Liriomyza&title=Special%3AMediaSearch&type=image).*
 
 **Beneficials and biological control:** parasitoid wasps are the most effective control (field mortality about 80%). Australia has 50+ native parasitoids (Hemiptarsenus varicornis, Diglyphus isaea, Opius and others). None is mass-reared in Australia for leafminer. Weed leafminers on sowthistle and plantain may host the wasps.
 
@@ -248,7 +270,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 **Recognise and where:** Qfly hosts include peach, orange, apple, pear, tomato and capsicum ([SGA Qfly](https://www.sgaonline.org.au/queensland-fruit-fly/)). Medfly infests 200+ plant species including fruiting vegetables, is established in parts of WA, and soft stone fruit are the most attractive hosts there ([Agriculture Victoria](https://agriculture.vic.gov.au/biosecurity/pest-insects-and-mites/priority-pest-insects-and-mites/mediterranean-fruit-fly), [DPIRD WA](https://www.agric.wa.gov.au/sites/gateway/files/Medfly%20Backyard%20management.pdf)). Winter shelter for Qfly includes large-leaved evergreens such as avocado, citrus and loquat ([NSW DPI](https://www.dpi.nsw.gov.au/dpi/biosecurity/invasive-plants-and-animals/insect-pests/queensland-fruit-fly)). Davidson's plum (D. jerseyana) is susceptible; control is by traps and bagging fallen fruit in the sun for 3 to 7 days ([SGA](https://sgaonline.org.au/davidsons-plum)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Queensland+fruit+fly+Bactrocera+tryoni&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A Queensland fruit fly](../photos/pest-fruit-fly.jpg)
+
+*Photo: IAEA Imagebank, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bactrocera_tryoni_(06410606)_(6776821054).jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=Queensland+fruit+fly+Bactrocera+tryoni&title=Special%3AMediaSearch&type=image).*
 
 **Prevent (strongest evidence):**
 - Mesh: fine UV-stable mesh over a frame after pollination, sealed at the trunk, with fruit kept off the mesh because Qfly can sting through. The sources reviewed give no mesh size ([Agriculture Victoria](https://agriculture.vic.gov.au/__data/assets/pdf_file/0005/532139/Managing-Queensland-fruit-fly-in-your-home-garden.pdf)). DPIRD WA suggests mosquito netting, shade cloth or nylon flyscreen over a frame, only while fruit ripens ([DPIRD WA](https://www.agric.wa.gov.au/medfly/control-options-backyards)). Also bag individual fruit or branches in gauze, muslin or mosquito netting.
@@ -267,7 +291,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 **Recognise and biology:** breeding starts above about 15 C average. Eggs hatch in about 10 days, with about 3 generations per season ([PIRSA](https://pir.sa.gov.au/crops-and-plants/weeds-and-plant-pests/plant-pests/common-seasonal-pests/codling_moth)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=codling+moth+Cydia+pomonella&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A codling moth](../photos/pest-codling-moth.jpg)
+
+*Photo: Bernard DUPONT from FRANCE, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Codling_Moth_(Cydia_pomonella)_(53152326975).jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=codling+moth+Cydia+pomonella&title=Special%3AMediaSearch&type=image).*
 
 **Physical controls:** corrugated cardboard bands on trunk and limbs, checked every 3 weeks then burned. Paling traps (two 30 cm palings with a 5 mm gap) emptied every 3 weeks. Bait bottle traps (molasses, fermented apple juice or diluted port with an oil layer), one per third tree, for monitoring. Sticky bands, clearing loose bark, and removing fallen fruit (burn it or feed to chickens). Bagging was not covered ([PIRSA](https://pir.sa.gov.au/crops-and-plants/weeds-and-plant-pests/plant-pests/common-seasonal-pests/codling_moth)).
 
@@ -281,7 +307,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 **Recognise:** a tiny silvery moth whose larvae make silvery winding mines in new leaves that then curl. Mature trees (over 4 years old) tolerate it, while young and potted trees are hit hardest. It peaks late summer to autumn, and 2 or more mines per leaf can slow young trees ([SGA](https://www.sgaonline.org.au/ggp-garden-pest-citrus-leaf-miner/), [NSW DPI](https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/137634/citrus-leaf-miner.pdf)).
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=citrus+leafminer+Phyllocnistis+citrella&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A citrus leafminer moth](../photos/pest-citrus-leafminer.jpg)
+
+*Photo: Jeffrey W. Lotz, [CC BY 3.0 us](https://creativecommons.org/licenses/by/3.0/us/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Phyllocnistis_citrella_adult1.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=citrus+leafminer+Phyllocnistis+citrella&title=Special%3AMediaSearch&type=image).*
 
 **Prevent:** fertilise in late winter, limit late-summer and autumn fertiliser and water to avoid flushes, prune water sprouts and infested late flush, and prune at the right time (mid to late spring in frost-prone areas).
 
@@ -311,7 +339,13 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 ### Snails and slugs
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=garden+snail+slug&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A garden snail](../photos/pest-snail.jpg)
+
+*Photo: Zachi Evenor, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Snail-wiki-120-Zachi-Evenor.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=garden+snail+slug&title=Special%3AMediaSearch&type=image).*
+
+![A slug](../photos/pest-slug.jpg)
+
+*Photo: Geo Lightspeed7, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slug_climbing_garden_bucket.jpg). Resized.*
 
 **Prevent:** clear weeds first. Mulch and minimum-till can favour these pests ([DPIRD WA](https://agric.wa.gov.au/pest-animals/snail-and-slug-control?nopaging=1)).
 
@@ -323,7 +357,9 @@ Covers cabbage white butterfly, diamondback moth, Helicoverpa and loopers.
 
 ### Termites
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=termite&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![Magnetic termite mounds in the Top End](../photos/pest-termite.jpg)
+
+*Photo: Dietmar Rabich, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Litchfield_National_Park_(AU),_Magnetic_Termite_Mounds_--_2019_--_3721.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=termite&title=Special%3AMediaSearch&type=image).*
 
 Top End focus. Of the nearly 140 northern termite species most are beneficial, but Giant Northern Termite (Mastotermes darwiniensis) can severely damage or kill trees, and is especially aggressive above the Tropic of Capricorn ([NT DPIR](https://dpir.nt.gov.au/primary-industry/primary-industry-publications/regional-newsletters/tp/top-paddock-december-2016/good-termites-and-bad-termites), [CSIRO](https://research.csiro.au/infratech/wp-content/uploads/sites/38/2024/12/3013_ManagingTermites_WCAG.pdf)).
 
@@ -337,7 +373,9 @@ Top End focus. Of the nearly 140 northern termite species most are beneficial, b
 
 ### Banana weevil borer
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=banana+weevil+borer+Cosmopolites+sordidus&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![A banana weevil](../photos/pest-banana-weevil.jpg)
+
+*Photo: Obsidian Soul, [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosmopolites_sordidus,_banana_weevil_(Mindanao,_Philippines)_04.jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=banana+weevil+borer+Cosmopolites+sordidus&title=Special%3AMediaSearch&type=image).*
 
 **Prevent:** use tissue-culture plants or inspect suckers and reject infested ones. Hot water at 54 C for 20 minutes likely kills eggs and grubs. Remove old corms and fallow 3 months before replanting, clear weeds and trash, and cut fallen stems short to dry. Pheromone (sordidin) traps exist, and 4 or more weevils per pseudostem disc signals treatment ([Pacific Pests factsheet 109](https://apps.lucidcentral.org/ppp_v9/pdf/web_full/banana_weevil_109.pdf)). The weevil is recorded in Australia, and banana weevil borer can also spread Panama TR4 ([Business Queensland, Panama TR4](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/crops/fruit-veg/bananas/panama-disease-tr4/identify)).
 
@@ -347,7 +385,9 @@ Top End focus. Of the nearly 140 northern termite species most are beneficial, b
 
 ### Earwigs and ants
 
-**See it:** [Photos: search Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=earwig&title=Special%3AMediaSearch&type=image). Search results, not vetted.
+![An earwig on a leaf](../photos/pest-earwig.jpg)
+
+*Photo: Rhododendrites, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_earwig_(81241).jpg). Resized. [More photos](https://commons.wikimedia.org/w/index.php?search=earwig&title=Special%3AMediaSearch&type=image).*
 
 **Earwigs:** they attack tips, flowers, fruit and seedling roots and thrive under organic mulch. Traps are soy sauce under a thin oil film in a buried container, a beer jar on its side, or crumpled newspaper in a pot destroyed daily ([Yarra Ranges Council](https://www.yarraranges.vic.gov.au/files/assets/public/webdocuments/environment/sustainable-home-garden/natural-pest-control-using-integrated-pest-management-principles-1.pdf)). Evidence: weak (anecdotal traps).
 

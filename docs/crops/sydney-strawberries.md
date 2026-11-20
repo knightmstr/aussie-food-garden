@@ -1,5 +1,9 @@
 # Strawberries
 
+![A ripe strawberry](../photos/crop-strawberry.jpg)
+
+*Photo: Ivar Leidus, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg). Resized.*
+
 > **Sydney.** Attractive plants that make good hanging baskets or balcony plants. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts

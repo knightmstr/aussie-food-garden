@@ -1,5 +1,9 @@
 # Chilli
 
+![Chilli plant with fruit](../photos/crop-chilli.jpg)
+
+*Photo: Challiyan, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chilli_plant_2.jpg). Resized.*
+
 > **Darwin and Katherine.** The sheet shades April to July, and the NT chilli page says chillies can be grown all year around Darwin. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

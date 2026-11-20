@@ -1,5 +1,9 @@
 # Kang kong
 
+![Kang kong (water spinach) leaves and flower](../photos/crop-kang-kong.jpg)
+
+*Photo: Eric Guinther, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:N_Ipoa_D1600.JPG). Resized.*
+
 > **Darwin and Katherine.** A leafy vegetable sown in the dry season on the NT sheet. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

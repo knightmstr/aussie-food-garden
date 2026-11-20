@@ -1,5 +1,9 @@
 # Lemon grass
 
+![Lemon grass clump](../photos/crop-lemon-grass.jpg)
+
+*Photo: Obsidian Soul, [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tanglad_(lemongrass,_Cymbopogon_citratus)_-_Philippines.jpg). Resized.*
+
 > **Darwin and Katherine.** Shaded all year on the NT sheet and grown from divisions, not seed. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

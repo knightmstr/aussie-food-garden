@@ -1,5 +1,9 @@
 # Snake beans
 
+![Yardlong (snake) bean plant with pods and leaves](../photos/crop-snake-bean.jpg)
+
+*Photo: Shijan Kaakkara, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yardlong_bean_-_%E0%B4%AA%E0%B4%AF%E0%B5%BC_03.jpg). Resized.*
+
 > **Darwin and Katherine.** Can be sown all year on the NT sheet, and can grow in the wet if the bed drains well. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

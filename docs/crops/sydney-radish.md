@@ -1,5 +1,9 @@
 # Radish
 
+![Radishes growing in soil](../photos/crop-radish.jpg)
+
+*Photo: Schlaghecken Josef, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raphanus_sativus_Radieschen,_Bakterielle_Nassf%C3%A4ule,_J.Schlaghecken-1a.jpg). Resized.*
+
 > **Sydney.** Radish and turnip are described as the fastest vegetables to grow. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts

@@ -233,6 +233,13 @@ a.row:active, label.row:active { background: var(--fill); }
   .brand { display: inline; }
 }
 
+/* ---- Photos ---- */
+.photo { margin: 14px 0 18px; }
+.photo img { display: block; width: 100%; max-height: 320px; object-fit: cover; border-radius: 20px; background: var(--card); }
+.photo figcaption { margin: 6px 6px 0; font-size: 12px; line-height: 1.4; color: var(--muted); }
+.photo figcaption a { color: var(--muted); }
+.fold .photo { max-width: 460px; }
+
 /* ---- Crop pages ---- */
 .crop { max-width: 640px; }
 .crop h1 { font-size: 2.4rem; margin: .1em 0 .5em; }

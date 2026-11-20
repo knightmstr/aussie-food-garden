@@ -111,6 +111,11 @@ for (const p of pages) {
     if (/^(https?:|mailto:|tel:)/i.test(href)) continue;
     const [target, anchor] = href.split('#');
     let targetPath = p.path;
+    if (/\.(jpe?g|png|webp|svg)$/i.test(target || '')) {
+      const img = posix.normalize(posix.join(posix.dirname(p.path), target));
+      if (!existsSync(join(docs, img))) warn(`${p.path}: image "${href}" not found in docs/`);
+      continue;
+    }
     if (target) {
       const abs = posix.normalize(posix.join(posix.dirname(p.path), target));
       if (!abs.endsWith('.md')) { warn(`${p.path}: link "${href}" is not an .md page`); continue; }
@@ -141,6 +146,11 @@ rmSync(dist, { recursive: true, force: true });
 mkdirSync(dist, { recursive: true });
 for (const f of walk(site)) {
   const out = join(dist, relative(site, f));
+  mkdirSync(dirname(out), { recursive: true });
+  copyFileSync(f, out);
+}
+if (existsSync(join(docs, 'photos'))) for (const f of walk(join(docs, 'photos'))) {
+  const out = join(dist, 'photos', relative(join(docs, 'photos'), f));
   mkdirSync(dirname(out), { recursive: true });
   copyFileSync(f, out);
 }

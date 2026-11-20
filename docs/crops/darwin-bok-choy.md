@@ -1,5 +1,9 @@
 # Bok choy and Asian greens
 
+![Harvested bunches of bok choy](../photos/crop-bok-choy.jpg)
+
+*Photo: Daderot, [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bok_choy_-_Harbourside_Market,_Wellington,_New_Zealand_-_DSC09779.jpg). Resized.*
+
 > **Darwin and Katherine.** A fast Asian green. The sheet gives the same timing for bok choy, tatsoi and Chinese broccoli. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

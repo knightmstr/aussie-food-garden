@@ -1,5 +1,9 @@
 # Basil
 
+![Basil plant](../photos/crop-basil.jpg)
+
+*Photo: PumpkinSky, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_CG_NBG_LR.jpg). Resized.*
+
 > **Sydney.** A sun-loving herb that suits pots. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts

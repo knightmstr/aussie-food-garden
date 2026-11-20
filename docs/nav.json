@@ -103,6 +103,10 @@
         {
           "path": "about",
           "title": "Sources, limits and updates"
+        },
+        {
+          "title": "Photo credits",
+          "path": "photo-credits"
         }
       ]
     },

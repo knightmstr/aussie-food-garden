@@ -1,5 +1,9 @@
 # Rocket
 
+![Rocket in flower](../photos/crop-rocket.jpg)
+
+*Photo: Leo Michels, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eruca_sativa_1_IP0206101.jpg). Resized.*
+
 > **Sydney.** One of the fastest salad crops to grow. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts

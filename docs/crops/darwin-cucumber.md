@@ -1,5 +1,9 @@
 # Cucumber
 
+![Cucumber plant with flowers](../photos/crop-cucumber.jpg)
+
+*Photo: H. Zell, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cucumis_sativus_0001.JPG). Resized.*
+
 > **Darwin and Katherine.** A quick crop, picked in about 5 to 6 weeks. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

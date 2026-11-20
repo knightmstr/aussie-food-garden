@@ -1,5 +1,9 @@
 # Cucumber
 
+![Cucumber plant with flowers](../photos/crop-cucumber.jpg)
+
+*Photo: H. Zell, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cucumis_sativus_0001.JPG). Resized.*
+
 > **Sydney.** Easy, but it needs something to climb. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts

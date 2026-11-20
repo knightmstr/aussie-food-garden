@@ -1,5 +1,9 @@
 # Sweet potato
 
+![Harvested sweet potato tubers](../photos/crop-sweet-potato.jpg)
+
+*Photo: Llez, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_006.JPG). Resized.*
+
 > **Darwin and Katherine.** Grows well all year in the NT. It is a long crop, so plant it where it can stay for about five months. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

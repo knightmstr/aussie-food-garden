@@ -1,5 +1,9 @@
 # Cherry tomato
 
+![Cherry tomatoes ripening on the vine](../photos/crop-cherry-tomato.jpg)
+
+*Photo: Steffen Bauer (saatpilot.de), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solanum_lycopersicum_%27Small_Red_Cherry%27_(tomato),_fruit,_close-up_(SaatPilot).jpg). Resized.*
+
 > **Darwin and Katherine.** A dry-season crop. The NT Government says to raise seedlings in a protected nursery, not to direct-seed. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts

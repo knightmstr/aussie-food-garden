@@ -25,3 +25,9 @@ The first screen, the area home pages (Darwin, Sydney) and the crop pages are dr
 - `docs/crops/<area>-<crop>.md` are the crop pages. They are listed under a hidden group in `docs/nav.json`, so they appear in search and on the area pages but not in the menu.
 - `node scripts/build.mjs --strict` checks that every crop page and link in the area JSON exists.
 - The app remembers the chosen area, the pots/backyard switch and ticked checklist items only in the browser's local storage on that device.
+
+## Photos
+
+Photos live in `docs/photos/` and are referenced from the markdown as `![alt](../photos/<id>.jpg)` followed by an italic line starting `*Photo:` (the app turns the pair into a captioned figure). All photos come from Wikimedia Commons under public domain, CC0, CC BY or CC BY-SA, and are listed in `docs/photo-credits.md`.
+
+To add or change photos, run the manual "Fetch photos" workflow (Actions tab): `candidates` writes search results from `scripts/photo-items.json` to a `photos-candidates` branch for you to look at; put the Commons file titles you chose in `scripts/photo-picks.json` and run `final`, which re-checks each licence and writes the images and credits to a `photos-final` branch. Check by eye that each photo shows the right crop or pest before using it.

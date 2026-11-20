@@ -1,5 +1,9 @@
 # Cherry tomato
 
+![Cherry tomatoes ripening on the vine](../photos/crop-cherry-tomato.jpg)
+
+*Photo: Steffen Bauer (saatpilot.de), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solanum_lycopersicum_%27Small_Red_Cherry%27_(tomato),_fruit,_close-up_(SaatPilot).jpg). Resized.*
+
 > **Sydney.** A popular first fruiting crop. The Ryde guide lists Black Cherry, Red Cherry, Tommy Toe and Scoresby Dwarf types. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts

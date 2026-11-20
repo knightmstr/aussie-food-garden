@@ -58,6 +58,25 @@
       }
     });
   }
+  /* Images in the markdown are written relative to the .md file; point them at the copy shipped with the app. */
+  function fixImages(root, pagePath) {
+    root.querySelectorAll('img').forEach(function (img) {
+      var src = img.getAttribute('src');
+      if (!src || /^(https?:|data:)/i.test(src)) return;
+      img.setAttribute('src', decodeURIComponent(new URL(src, 'http://x/' + pagePath + '.md').pathname.replace(/^\//, '')));
+      img.setAttribute('loading', 'lazy'); img.setAttribute('decoding', 'async');
+    });
+    /* A lone image followed by an italic "Photo:" line becomes a figure with a caption. */
+    [].slice.call(root.querySelectorAll('p')).forEach(function (p) {
+      var img = p.children.length === 1 && p.firstElementChild.tagName === 'IMG' && !p.textContent.trim() ? p.firstElementChild : null;
+      var next = p.nextElementSibling;
+      if (!img || !next || next.tagName !== 'P' || !/^Photo:/.test(next.textContent)) return;
+      var fig = document.createElement('figure'); fig.className = 'photo';
+      var cap = document.createElement('figcaption'); cap.innerHTML = next.innerHTML;
+      p.parentNode.insertBefore(fig, p); fig.appendChild(img); fig.appendChild(cap);
+      p.parentNode.removeChild(p); next.parentNode.removeChild(next);
+    });
+  }
   function wrapTables(root) {
     root.querySelectorAll('table').forEach(function (t) {
       var w = document.createElement('div'); w.className = 'table-wrap';
@@ -204,7 +223,7 @@
     statusEl.textContent = 'Loading…';
     return getText(base + path + '.md').then(function (md) {
       contentEl.innerHTML = marked.parse(md);
-      sanitise(contentEl); fixLinks(contentEl, path); wrapTables(contentEl);
+      sanitise(contentEl); fixLinks(contentEl, path); fixImages(contentEl, path); wrapTables(contentEl);
       var h1 = contentEl.querySelector('h1');
       document.title = (h1 ? h1.textContent + ' · ' : '') + 'Aussie Food Garden';
       var crop = /^crops\/(darwin|sydney)-/.exec(path);
