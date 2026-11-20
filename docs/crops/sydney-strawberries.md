@@ -47,6 +47,7 @@
 - **Feeding:** Weak manure tea at about week three and full-strength seaweed tea at flowering. Everbearing types can have an occasional blood and bone. In pots use half-strength feeds more often ([SGA](https://www.sgaonline.org.au/strawberries/)).
 - **Care:** Mulch between plants with straw or pine needles, and avoid overhead watering. Move plants to fresh soil every three years, and not where tomatoes, eggplant, capsicum or chilli grew in the past three years ([SGA](https://www.sgaonline.org.au/strawberries/)).
 - **Rotation:** A multi-year crop. SGA says move it to a new bed every three years, and not where tomato-family crops grew in the last three years. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
+- **Plant next, so the soil recovers:** A new bed. SGA says move every three years, and not where tomato-family crops grew in the last three years. Nothing sourced for the old bed. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 - **Common problems and fixes:** Virus (yellow stripes on leaves): pull out and bag the plants. Mould and fungus: straw mulch and no overhead watering. Slugs: see SGA ([SGA](https://www.sgaonline.org.au/strawberries/)).
 - **Not found:** Pot size, temperature figures and feeding quantities.
 

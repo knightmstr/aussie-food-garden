@@ -46,6 +46,7 @@
 - **Feeding:** Not required. Blood and bone at planting, and optionally a liquid organic fertiliser weekly or fortnightly ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
 - **Care:** Mulch with sugarcane or pea straw and do not strip too much foliage ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
 - **Rotation:** Cabbage family. Clubroot spores last up to 20 years, so keep cabbage-family crops out of infected beds. A home rotation cannot clear it. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
+- **Plant next, so the soil recovers:** A legume, or a green manure that is not a mustard (clubroot risk). See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 - **Common problems and fixes:** Splitting and bolting: even moisture. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
 - **Not found:** Any figure for temperature or watering. Only one retailer page was read.
 

@@ -50,6 +50,7 @@
 - **Feeding:** Use nitrogen-rich manure and add potash, keeping fertiliser near the surface because the roots are shallow. In containers, feed regularly with liquid fertiliser ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
 - **Care:** Weed carefully, since roots are shallow. In pots choose loose-leaf types, use a premium potting mix and water morning and night ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
 - **Rotation:** Daisy family. Sources disagree on whether it is a heavy or moderate feeder. A commercial guide says at least 4 years for anthracnose and 3 for bottom rot, so rotate where you can. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
+- **Plant next, so the soil recovers:** A legume (peas, beans) or a light feeder such as carrot or beetroot. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 - **Common problems and fixes:** Bolting and bitterness: choose varieties for the season, water evenly, shade, and harvest before the centre turns conical. Snails and slugs: baits or beer traps. Damping-off: well-drained beds and no overwatering. Aphids: organic insecticides, and destroy plants with necrotic yellows ([Diggers](https://www.diggers.com.au/blogs/learn/how-to-grow-lettuce)).
 - **Not found:** Watering volumes and fertiliser rates.
 

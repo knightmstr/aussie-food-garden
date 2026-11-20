@@ -46,6 +46,7 @@
 - **Feeding:** Peas fix their own nitrogen and need little. Before planting add manure or compost and a fistful of potash per square metre. Add a sprinkle of all-purpose organic fertiliser when pods start forming ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
 - **Care:** Most peas climb, so put supports up before sowing. Pinch the tips at 20 to 30 cm to encourage branching. Dwarf types grow 50 to 75 cm and are mostly self-supporting ([SBS](https://www.sbs.com.au/food/article/how-to-grow-peas/08z56mj9v)).
 - **Rotation:** Bean family, soil builder, so put a hungry crop after it. A commercial guide gives breaks of 5 to 6 years for fusarium root rot and pea wilt, which is rarely possible at home. Rotate and use clean seed. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
+- **Plant next, so the soil recovers:** A hungry crop such as tomato, cucumber or lettuce. The nitrogen helps about one crop. Pull the plants and leave the roots in [inference]. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 - **Common problems and fixes:** The page names only frost and seed rot from wet soil. No pest or disease fixes were found in the sources read.
 - **Not found:** Pest and disease advice, and pot guidance.
 

@@ -49,6 +49,7 @@
 - **Feeding:** The NT sheet says organic fertiliser and urea are applied after planting, with no amounts. The Cairns grower uses liquid fertiliser, chook manure or cow manure, also with no rates.
 - **Care:** On dry land, plants are pulled 20 to 30 days after planting. For repeat cuts, cut about 10 cm above the ground before flowering and new shoots come every 2 to 3 weeks. Growing it in pots keeps it from spreading. It is a noxious weed in some areas, so check local rules ([Rob Pyne](https://robpyne.com.au/kangkong)).
 - **Rotation:** No rotation advice found in the sources read. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
+- **Plant next, so the soil recovers:** Snake beans, if you treat kang kong as the NT manual's leafy crop [inference]. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 - **Common problems and fixes:** Grasshoppers and caterpillars in the dry season. The Cairns grower suggests regular white oil, with no recipe given. White blister is on the [disease page](../pests/diseases.md#white-blister-of-kang-kong).
 - **Not found:** Sun advice from an NT source, feeding rates, and non-chemical pest fixes.
 

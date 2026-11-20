@@ -48,6 +48,7 @@
 - **Feeding:** Enrich the soil with compost, rotted manure and blood and bone before planting. If you did, no extra feeding is needed. Seaweed solution at flowering is optional ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
 - **Care:** Bush beans reach about 40 cm and need no support. Mulch well, because the roots are shallow, and avoid disturbing the soil ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
 - **Rotation:** Bean family, soil builder, so put a hungry crop after it. A commercial guide gives breaks of 3 to 10 years for some bean soil diseases, which is rarely possible at home. Rotate, use clean seed and drained beds. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
+- **Plant next, so the soil recovers:** A hungry crop such as tomato, cucumber or lettuce. The nitrogen helps about one crop. Pull the plants and leave the roots in [inference]. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 - **Common problems and fixes:** Snails and slugs damage seedlings: use pellets or traps. Powdery mildew: avoid overhead watering and leave room for airflow ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-beans)).
 - **Not found:** Temperature figures and pot size.
 

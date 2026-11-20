@@ -45,6 +45,7 @@
 - **Feeding:** Feed weekly with a liquid fertiliser for herbs and vegetables. No dilution rate is given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
 - **Care:** Pick the outer leaves first and pick regularly. Pinch off flower buds to prevent bolting. Use good potting mix in pots ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
 - **Rotation:** No source read names rocket for rotation. As a cabbage-family plant, the clubroot caution probably applies [inference]. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
+- **Plant next, so the soil recovers:** A legume, or a green manure that is not a mustard [inference, as rocket is cabbage family]. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 - **Common problems and fixes:** Bolting: even moisture, mulch, regular picking, removing flower buds, and shade. Flea beetles make small holes but are generally minor ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
 - **Not found:** Exact temperatures and pot size.
 
