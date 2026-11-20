@@ -1,0 +1,33 @@
+name: Fetch photos (manual)
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: candidates or final
+        default: candidates
+permissions:
+  contents: read
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node scripts/fetch-photos.mjs ${{ github.event.inputs.mode }}
+      - name: Contact sheets
+        if: github.event.inputs.mode == 'candidates'
+        run: |
+          cd out/cand
+          mkdir -p ../sheets
+          i=0; batch=0; list=""
+          for d in $(ls -d */ | tr -d /); do
+            for f in $d/*.jpg; do [ -f "$f" ] && list="$list $f"; done
+            i=$((i+1))
+            if [ $i -eq 4 ]; then batch=$((batch+1)); montage -label '%d/%f' $list -tile 4x -geometry 300x225+4+4 -pointsize 14 ../sheets/sheet$batch.jpg; list=""; i=0; fi
+          done
+          if [ -n "$list" ]; then batch=$((batch+1)); montage -label '%d/%f' $list -tile 4x -geometry 300x225+4+4 -pointsize 14 ../sheets/sheet$batch.jpg; fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: photos-${{ github.event.inputs.mode }}
+          path: out
