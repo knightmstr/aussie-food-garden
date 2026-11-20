@@ -50,7 +50,7 @@ for (const p of navPages.keys()) if (!pagePaths.has(p)) warn(`nav.json lists "${
 for (const p of pagePaths.keys()) if (!navPages.has(p)) warn(`docs/${p}.md is not listed in docs/nav.json`);
 
 /* ---------- area data (site/areas/*.json) ---------- */
-for (const f of readdirSync(join(site, 'areas')).filter((n) => n.endsWith('.json'))) {
+for (const f of readdirSync(join(site, 'areas')).filter((n) => n.endsWith('.json') && n !== 'zones.json')) {
   let a;
   try { a = JSON.parse(readFileSync(join(site, 'areas', f), 'utf8')); } catch (e) { warn(`site/areas/${f} is not valid JSON`); continue; }
   for (let m = 1; m <= 12; m++) if (!Array.isArray(a.sow?.[m])) warn(`site/areas/${f}: sow list missing for month ${m}`);
@@ -60,6 +60,7 @@ for (const f of readdirSync(join(site, 'areas')).filter((n) => n.endsWith('.json
   for (const s of a.seasons ?? []) if (!a.prep?.[s.prep]) warn(`site/areas/${f}: season "${s.label}" uses missing prep list "${s.prep}"`);
 }
 
+/* zones.json is checked after the pages are parsed (needs heading ids). */
 /* ---------- parse pages ---------- */
 const pages = [];
 const tables = [];
@@ -119,6 +120,14 @@ for (const p of pages) {
     if (anchor && !idsByPage.get(targetPath)?.has(anchor)) warn(`${p.path}: anchor "#${anchor}" not found in ${targetPath}`);
   }
 }
+
+try {
+  const zones = JSON.parse(readFileSync(join(site, 'areas', 'zones.json'), 'utf8'));
+  for (const g of zones) for (const z of g.items) {
+    if (!pagePaths.has(z.route) && !/^area\/(darwin|sydney)$/.test(z.route)) warn(`zones.json: "${z.name}" points to missing page "${z.route}"`);
+    if (z.a && !idsByPage.get(z.route)?.has(z.a)) warn(`zones.json: "${z.name}" anchor "#${z.a}" not found in ${z.route}`);
+  }
+} catch (e) { warn('site/areas/zones.json is missing or not valid JSON'); }
 
 if (problems.length) {
   console.error(problems.map((x) => '  - ' + x).join('\n'));

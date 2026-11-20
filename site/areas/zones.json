@@ -1,0 +1,181 @@
+[
+ {
+  "state": "Northern Territory",
+  "items": [
+   {
+    "name": "Darwin and the Top End",
+    "sub": "Wet and dry seasons",
+    "route": "area/darwin",
+    "home": true
+   },
+   {
+    "name": "Katherine",
+    "sub": "Uses the same sowing sheet as Darwin",
+    "route": "area/darwin",
+    "home": true
+   },
+   {
+    "name": "Alice Springs and Central Australia",
+    "sub": "Hot, dry inland",
+    "route": "states/nt",
+    "a": "central-australia-alice-springs-nt-sourced-months"
+   },
+   {
+    "name": "Tennant Creek and Barkly",
+    "sub": "Little sourced advice",
+    "route": "states/nt",
+    "a": "barkly-and-tennant-creek"
+   }
+  ]
+ },
+ {
+  "state": "New South Wales and ACT",
+  "items": [
+   {
+    "name": "Sydney",
+    "sub": "Mild temperate, four seasons",
+    "route": "area/sydney",
+    "home": true
+   },
+   {
+    "name": "Canberra and ACT",
+    "sub": "Cool, frosty winters",
+    "route": "states/nsw-act",
+    "a": "canberra-and-the-act"
+   },
+   {
+    "name": "Northern Rivers and Mid North Coast",
+    "sub": "Subtropical (proxy calendar)",
+    "route": "states/nsw-act",
+    "a": "northern-rivers-and-mid-north-coast-proxy-south-east-queensland"
+   },
+   {
+    "name": "Tablelands, western NSW and Riverina",
+    "sub": "No calendar found",
+    "route": "states/nsw-act",
+    "a": "mid-north-coast-tablelands-western-slopes-and-riverina"
+   }
+  ]
+ },
+ {
+  "state": "Victoria",
+  "items": [
+   {
+    "name": "Melbourne and surrounds",
+    "sub": "",
+    "route": "states/vic",
+    "a": "melbourne-and-surrounds"
+   },
+   {
+    "name": "Central Victoria",
+    "sub": "Kyneton, Ballarat, Macedon",
+    "route": "states/vic",
+    "a": "central-victoria-kyneton-ballarat-macedon"
+   },
+   {
+    "name": "Gippsland",
+    "sub": "",
+    "route": "states/vic",
+    "a": "gippsland"
+   }
+  ]
+ },
+ {
+  "state": "Queensland",
+  "items": [
+   {
+    "name": "South-East Queensland",
+    "sub": "Subtropical",
+    "route": "states/qld",
+    "a": "south-east-queensland"
+   },
+   {
+    "name": "Far North Queensland and Cape York",
+    "sub": "Tropical",
+    "route": "states/qld",
+    "a": "far-north-queensland-and-cape-york"
+   },
+   {
+    "name": "North and Central coast",
+    "sub": "Townsville, Mackay, Rockhampton",
+    "route": "states/qld",
+    "a": "north-and-central-coast-townsville-mackay-rockhampton"
+   },
+   {
+    "name": "Granite Belt and Toowoomba",
+    "sub": "",
+    "route": "states/qld",
+    "a": "granite-belt-and-toowoomba"
+   },
+   {
+    "name": "Western and inland Queensland",
+    "sub": "",
+    "route": "states/qld",
+    "a": "western-and-inland-queensland"
+   }
+  ]
+ },
+ {
+  "state": "Western Australia",
+  "items": [
+   {
+    "name": "Perth and South West",
+    "sub": "",
+    "route": "states/wa",
+    "a": "perth-and-south-west"
+   },
+   {
+    "name": "Kimberley",
+    "sub": "Broome, Kununurra",
+    "route": "states/wa",
+    "a": "kimberley"
+   },
+   {
+    "name": "Pilbara and Gascoyne",
+    "sub": "",
+    "route": "states/wa",
+    "a": "pilbara-and-gascoyne"
+   },
+   {
+    "name": "Wheatbelt and Goldfields",
+    "sub": "",
+    "route": "states/wa",
+    "a": "wheatbelt-and-goldfields"
+   }
+  ]
+ },
+ {
+  "state": "South Australia",
+  "items": [
+   {
+    "name": "Adelaide Plains",
+    "sub": "",
+    "route": "states/sa",
+    "a": "adelaide-plains"
+   },
+   {
+    "name": "Adelaide Hills, Barossa and other regions",
+    "sub": "",
+    "route": "states/sa",
+    "a": "adelaide-hills-barossa-and-other-regions"
+   }
+  ]
+ },
+ {
+  "state": "Tasmania",
+  "items": [
+   {
+    "name": "Hobart and southern Tasmania",
+    "sub": "",
+    "route": "states/tas",
+    "a": "hobart-and-southern-tasmania"
+   },
+   {
+    "name": "North, north-west and uplands",
+    "sub": "",
+    "route": "states/tas",
+    "a": "north-north-west-and-uplands"
+   }
+  ]
+ }
+]

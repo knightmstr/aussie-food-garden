@@ -7,7 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Aussie Food Garden</title>
 <meta name="description" content="Sourced, state-by-state guide to growing food in Australia: crops, companions, rotations, soil-building and organic pest control.">
-<meta name="theme-color" content="#2f6b3a">
+<meta name="theme-color" content="#f2f2f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
@@ -15,6 +17,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Food Garden">
 <link rel="stylesheet" href="style.css">
+<script src="theme.js"></script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -24,8 +27,11 @@
   </button>
   <a class="brand" href="#/">Aussie Food Garden</a>
   <form id="searchForm" role="search" class="search">
-    <input id="q" type="search" placeholder="Search" aria-label="Search" autocomplete="off" enterkeyhint="search">
+    <input id="q" type="search" placeholder="Search the guide" aria-label="Search the guide" autocomplete="off" enterkeyhint="search">
   </form>
+  <button id="themeBtn" class="icon-btn" type="button" aria-label="Appearance: automatic">
+    <svg id="themeIcon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"></svg>
+  </button>
 </header>
 
 <noscript><p style="padding:16px">This guide needs JavaScript. You can also read it as plain markdown on GitHub, in the <code>docs</code> folder.</p></noscript>

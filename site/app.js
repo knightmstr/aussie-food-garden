@@ -75,7 +75,10 @@
         html += '<a href="#/' + p.path + '" data-path="' + p.path + '">' + esc(p.title) + '</a>';
       });
     });
+    html += '<h3>Appearance</h3><div class="appearance" role="group" aria-label="Appearance"><button type="button" data-mode="auto">Auto</button><button type="button" data-mode="light">Light</button><button type="button" data-mode="dark">Dark</button></div>';
     navEl.innerHTML = html;
+    navEl.querySelectorAll('.appearance button').forEach(function (b) { b.addEventListener('click', function () { setTheme(b.dataset.mode); }); });
+    syncTheme();
   }
   function markNav(path) {
     navEl.querySelectorAll('a').forEach(function (a) {
@@ -145,39 +148,74 @@
   }
   function savedChecks() { try { return JSON.parse(store('afg-checks') || '{}'); } catch (e) { return {}; } }
 
+  function pickerRows(zones, q) {
+    var terms = q.toLowerCase().split(/\s+/).filter(Boolean), html = '', total = 0;
+    zones.forEach(function (g) {
+      var items = g.items.filter(function (z) {
+        var hay = (z.name + ' ' + z.sub + ' ' + g.state).toLowerCase();
+        return terms.every(function (t) { return hay.indexOf(t) >= 0; });
+      });
+      if (!items.length) return;
+      total += items.length;
+      html += '<div class="zone-state">' + esc(g.state) + '</div><div class="group">';
+      items.forEach(function (z) {
+        var href = '#/' + z.route + (z.a ? '?a=' + z.a : '');
+        html += '<a class="row" href="' + href + '" data-route="' + esc(z.route + (z.a ? '?a=' + z.a : '')) + '"><span class="main"><strong>' + esc(z.name) + '</strong>' + (z.sub ? '<span class="sub">' + esc(z.sub) + '</span>' : '') + '</span><span class="end">' + (z.home ? '<span class="pill">Monthly home</span>' : '') + '<span class="chev" aria-hidden="true">›</span></span></a>';
+      });
+      html += '</div>';
+    });
+    if (!total) html = '<div class="group"><p class="empty">No place matches “' + esc(q) + '”. Try a state name, or open the <a href="#/index">full guide</a>.</p></div>';
+    return html;
+  }
+
   function showPicker() {
     document.title = 'Where are you growing? · Aussie Food Garden';
     markNav('choose'); markTabs('choose');
-    var html = '<div class="picker"><h1>Where are you growing?</h1><p class="lede">Pick your area. We will show what to plant this month, what to get, and what to read next.</p><div class="pick-list">';
-    AREAS.forEach(function (a) {
-      html += '<a class="pick" href="#/area/' + a.id + '" data-area="' + a.id + '"><span><strong>' + esc(a.name) + '</strong><span>' + esc(a.note) + '</span></span><span class="chev" aria-hidden="true">›</span></a>';
+    statusEl.textContent = 'Loading…';
+    getJSON('areas/zones.json').then(function (zones) {
+      contentEl.innerHTML = '<div class="picker"><h1>Where are you growing?</h1><p class="lede">Choose your place from the list. Places with a monthly home show what to plant this month. The rest open the guide for that region.</p>' +
+        '<div class="pickfind"><input id="zoneQ" type="search" placeholder="Search places" aria-label="Search places" autocomplete="off"></div>' +
+        '<div id="zoneList">' + pickerRows(zones, '') + '</div>' +
+        '<p class="fine">We remember your choice on this phone, so next time the app opens straight to it. Change it any time from the menu. Works offline once opened.</p>' +
+        '<p class="fine">Every month and tip links to its source. Anything not sourced is labelled.</p></div>';
+      statusEl.textContent = '';
+      window.scrollTo(0, 0);
+      var list = $('#zoneList');
+      $('#zoneQ').addEventListener('input', function (e) { list.innerHTML = pickerRows(zones, e.target.value); });
+      list.addEventListener('click', function (e) {
+        var a = e.target.closest ? e.target.closest('a[data-route]') : null;
+        if (a) store('afg-home', a.getAttribute('data-route'));
+      });
+    }).catch(function () {
+      contentEl.innerHTML = '<h1>Where are you growing?</h1><p>The place list is not saved on your device yet. Connect once and open it, or use the <a href="#/index">full guide</a>.</p>';
+      statusEl.textContent = '';
     });
-    html += '<a class="pick alt" href="#/index"><span><strong>Somewhere else in Australia</strong><span>Full state and territory guides</span></span><span class="chev" aria-hidden="true">›</span></a></div>';
-    html += '<p class="fine">We remember your area on this phone, so next time the app opens straight to it. Change it any time from the menu or the link at the top of your area page. Works offline once opened.</p><p class="fine">Every month and tip links to its source. Anything not sourced is labelled.</p></div>';
-    contentEl.innerHTML = html;
-    statusEl.textContent = '';
-    window.scrollTo(0, 0);
   }
 
   function showHome() {
-    var id = store('afg-area');
-    if (id && AREAS.some(function (a) { return a.id === id; })) { location.replace('#/area/' + id); return; }
+    var saved = store('afg-home');
+    if (saved && /^[a-z0-9\/-]+(\?a=[a-z0-9-]+)?$/.test(saved)) { location.replace('#/' + saved); return; }
     showPicker();
   }
 
   function checklist(items, key, checks) {
-    var html = '<ul class="checks">';
-    items.forEach(function (it, i) {
+    var html = '<div class="group">';
+    items.forEach(function (it) {
       var k = key + '|' + it.text;
-      html += '<li><label><input type="checkbox" data-k="' + esc(k) + '"' + (checks[k] ? ' checked' : '') + '><span><span class="ct">' + esc(it.text) + '</span><span class="cs">' + esc(it.src) + '</span></span></label></li>';
+      html += '<label class="row check"><input type="checkbox" data-k="' + esc(k) + '"' + (checks[k] ? ' checked' : '') + '><span class="main"><span class="ct">' + esc(it.text) + '</span><span class="cs">' + esc(it.src) + '</span></span></label>';
     });
-    return html + '</ul>';
+    return html + '</div>';
+  }
+
+  function cropRow(c, m, withWhen) {
+    var now = c.months.indexOf(m) >= 0;
+    return '<a class="row" href="#/' + c.slug + '"><span class="main"><strong>' + esc(c.name) + '</strong><span class="sub">' + esc(c.how) + (withWhen ? ' · ' + esc(monthRange(c.months)) : '') + '</span></span><span class="end">' + (withWhen ? (now ? '<span class="pill">Now</span>' : '') : '<span class="pill">' + esc(c.meta) + '</span>') + '<span class="chev" aria-hidden="true">›</span></span></a>';
   }
 
   function showArea(id, params) {
     statusEl.textContent = 'Loading…';
     return loadArea(id).then(function (a) {
-      store('afg-area', id);
+      store('afg-area', id); store('afg-home', 'area/' + id);
       var m = currentMonth(params), mi = String(m);
       var season = a.seasons.filter(function (s) { return s.months.indexOf(m) >= 0; })[0] || a.seasons[0];
       var space = store('afg-space') === 'yard' ? 'yard' : 'pots';
@@ -186,11 +224,8 @@
 
       if (params.v === 'crops') {
         document.title = a.short + ' crops · Aussie Food Garden';
-        html += '<p class="kicker">' + esc(a.short.toUpperCase()) + '</p><h1>Good first crops</h1><p class="lede">Ten starter crops for ' + esc(a.short) + '. Tap one for what you need and how to grow it. “Now” means it is sown in ' + MONTHS[m - 1] + '.</p><div class="crop-cards">';
-        a.starter.forEach(function (c) {
-          var now = c.months.indexOf(m) >= 0;
-          html += '<a class="crop-card" href="#/' + c.slug + '"><span><strong>' + esc(c.name) + '</strong><span>' + esc(c.how) + '</span><span class="when">' + esc(monthRange(c.months)) + '</span></span>' + (now ? '<span class="pill">Now</span>' : '') + '</a>';
-        });
+        html += '<p class="kicker">' + esc(a.short.toUpperCase()) + '</p><h1>Good first crops</h1><p class="lede">Ten starter crops for ' + esc(a.short) + '. Tap one for what you need and how to grow it. “Now” means it is sown in ' + MONTHS[m - 1] + '.</p><div class="group">';
+        a.starter.forEach(function (c) { html += cropRow(c, m, true); });
         html += '</div><p class="fine"><a href="#/area/' + id + '">‹ Back to your ' + esc(a.short) + ' garden</a></p></div>';
         contentEl.innerHTML = html;
         markNav(''); markTabs('crops'); statusEl.textContent = '';
@@ -208,35 +243,25 @@
       html += '</select></label><a href="#/choose" class="change">Change area</a></div>';
       html += '<div class="seg" role="group" aria-label="Your growing space"><button type="button" data-space="pots" aria-pressed="' + (space === 'pots') + '">Pots or balcony</button><button type="button" data-space="yard" aria-pressed="' + (space === 'yard') + '">Backyard</button></div>';
 
-      // plant now
-      html += '<section><h2>Plant now</h2>';
+      html += '<h2>Plant now</h2>';
       var now = a.starter.filter(function (c) { return c.months.indexOf(m) >= 0; });
       var later = a.starter.filter(function (c) { return c.months.indexOf(m) < 0; });
       if (now.length) {
-        html += '<div class="crop-cards">';
-        now.forEach(function (c) {
-          html += '<a class="crop-card" href="#/' + c.slug + '"><span><strong>' + esc(c.name) + '</strong><span>' + esc(c.how) + '</span></span><span class="meta">' + esc(c.meta) + '</span></a>';
-        });
+        html += '<div class="group">';
+        now.forEach(function (c) { html += cropRow(c, m, false); });
         html += '</div>';
-      } else html += '<p>None of the starter crops are sown in ' + MONTHS[m - 1] + '.</p>';
-      if (names.length) {
-        html += '<details class="all"><summary>All ' + names.length + ' crops listed for ' + MONTHS[m - 1] + '</summary><p>' + names.map(esc).join(', ') + '.</p></details>';
-      }
-      if (later.length) {
-        html += '<p class="later"><strong>Coming up:</strong> ' + later.map(function (c) { return '<a href="#/' + c.slug + '">' + esc(c.name) + '</a> (' + esc(monthRange(c.months)) + ')'; }).join(', ') + '.</p>';
-      }
-      html += '<p class="fine">Source: ' + esc(a.sowSource) + '. <a href="#/' + a.sowSourcePage + '">Full sowing table and caveats</a>.</p></section>';
+      } else html += '<div class="group"><p class="empty">None of the starter crops are sown in ' + MONTHS[m - 1] + '.</p></div>';
+      if (names.length) html += '<details class="all"><summary>All ' + names.length + ' crops listed for ' + MONTHS[m - 1] + '</summary><p>' + names.map(esc).join(', ') + '.</p></details>';
+      if (later.length) html += '<p class="later"><strong>Coming up:</strong> ' + later.map(function (c) { return '<a href="#/' + c.slug + '">' + esc(c.name) + '</a> (' + esc(monthRange(c.months)) + ')'; }).join(', ') + '.</p>';
+      html += '<p class="fine">Source: ' + esc(a.sowSource) + '. <a href="#/' + a.sowSourcePage + '">Full sowing table and caveats</a>.</p>';
 
-      // get ready
-      html += '<section><h2>Get ready</h2>' + checklist(a.prep[season.prep] || [], a.id + '-prep', checks) + '</section>';
-      // what to get
-      html += '<section><h2>What to get</h2>' + checklist(a.shopping[space] || [], a.id + '-' + space, checks) + '</section>';
-      // where next
-      html += '<section><h2>Where next</h2><div class="link-cards">';
+      html += '<h2>Get ready</h2>' + checklist(a.prep[season.prep] || [], a.id + '-prep', checks);
+      html += '<h2>What to get</h2>' + checklist(a.shopping[space] || [], a.id + '-' + space, checks);
+      html += '<h2>Where next</h2><div class="group">';
       a.links.forEach(function (l) {
-        html += '<a class="link-card" href="#/' + l.path + '"><span><span class="tag">' + esc(l.tag) + '</span><strong>' + esc(l.title) + '</strong></span><span class="chev" aria-hidden="true">›</span></a>';
+        html += '<a class="row" href="#/' + l.path + '"><span class="main"><span class="tag">' + esc(l.tag) + '</span><strong>' + esc(l.title) + '</strong></span><span class="end"><span class="chev" aria-hidden="true">›</span></span></a>';
       });
-      html += '</div></section></div>';
+      html += '</div></div>';
       contentEl.innerHTML = html;
       markNav(''); markTabs('home'); statusEl.textContent = '';
       window.scrollTo(0, 0);
@@ -245,7 +270,7 @@
       contentEl.querySelectorAll('.seg button').forEach(function (b) {
         b.addEventListener('click', function () { store('afg-space', b.dataset.space); showArea(id, params); });
       });
-      contentEl.querySelectorAll('.checks input').forEach(function (cb) {
+      contentEl.querySelectorAll('.check input').forEach(function (cb) {
         cb.addEventListener('change', function () {
           var c = savedChecks(); if (cb.checked) c[cb.dataset.k] = 1; else delete c[cb.dataset.k];
           store('afg-checks', JSON.stringify(c));
@@ -256,6 +281,26 @@
       statusEl.textContent = '';
     });
   }
+
+  /* ---------- appearance: auto, light or dark ---------- */
+  var ICONS = {
+    auto: '<path d="M12 3a9 9 0 100 18V3z" fill="currentColor"/><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/>',
+    light: '<circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>',
+    dark: '<path d="M20 14.5A8.5 8.5 0 019.5 4 8.5 8.5 0 1020 14.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>'
+  };
+  var LABELS = { auto: 'automatic', light: 'light', dark: 'dark' };
+  function themeMode() { var t = store('afg-theme'); return t === 'light' || t === 'dark' ? t : 'auto'; }
+  function setTheme(mode) {
+    if (mode === 'auto') { document.documentElement.removeAttribute('data-theme'); try { localStorage.removeItem('afg-theme'); } catch (e) { /* ignore */ } }
+    else { document.documentElement.setAttribute('data-theme', mode); store('afg-theme', mode); }
+    syncTheme();
+  }
+  function syncTheme() {
+    var mode = themeMode(), btn = $('#themeBtn');
+    if (btn) { btn.setAttribute('aria-label', 'Appearance: ' + LABELS[mode] + '. Tap to change.'); $('#themeIcon').innerHTML = ICONS[mode]; }
+    document.querySelectorAll('.appearance button').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.mode === mode)); });
+  }
+  function cycleTheme() { var o = ['auto', 'light', 'dark']; setTheme(o[(o.indexOf(themeMode()) + 1) % 3]); }
 
   function markTabs(which) {
     var tabs = $('#tabs'); if (!tabs) return;
@@ -323,6 +368,7 @@
         var q = $('#q').value.trim();
         location.hash = '#/search?q=' + encodeURIComponent(q);
       });
+      $('#themeBtn').addEventListener('click', cycleTheme); syncTheme();
       $('#menuBtn').addEventListener('click', function () { setNavOpen(!document.body.classList.contains('nav-open')); });
       $('#scrim').addEventListener('click', function () { setNavOpen(false); });
       window.addEventListener('hashchange', route);
