@@ -4,7 +4,7 @@
 
 *Photo: Schlaghecken Josef, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raphanus_sativus_Radieschen,_Bakterielle_Nassf%C3%A4ule,_J.Schlaghecken-1a.jpg). Resized.*
 
-> **Sydney.** Radish and turnip are described as the fastest vegetables to grow. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
+> **Sydney.** Radish and turnip are described as the fastest vegetables to grow. Months and sowing figures come from one council's seed library list[15](../references.md#r15) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts
 
@@ -14,6 +14,20 @@
 | Depth | 10 mm |
 | Spacing | 5 cm |
 | Germination | 3 to 14 days |
+
+## Soil and rotation
+
+| | |
+|---|---|
+| Family | Cabbage family (brassica) |
+| Feeder level | Not stated in the sources read. |
+| What it takes | Not stated in the sources read. |
+| What it gives back | No nitrogen added. Roots and leftover leaves return some organic matter, and compost puts nutrients back [general knowledge]. |
+| Plant before it | No source read. |
+| Plant after it | A legume, or a green manure that is not a mustard (clubroot risk). |
+| Watch out for | Clubroot spores last up to 20 years, so keep cabbage-family crops out of infected beds. A home rotation cannot clear it. |
+
+The pattern for every crop in this guide is in [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 
 ## What you need
 
@@ -30,25 +44,22 @@
 1. Sow seed 10 mm deep, 5 cm apart.
 2. Seedlings come up in 3 to 14 days.
 
+## Care guide
+
+- **Starting:** Sow in loose, well-drained soil with blood and bone dug in. Cover lightly. Seedlings come up in about a week. Thin to 10 to 15 cm and sow every 3 to 4 weeks. Winter types take 8 to 10 weeks and are sown from late summer to early autumn[29](../references.md#r29).
+- **Temperature:** No figures. Pull winter types if frost is expected[29](../references.md#r29).
+- **Sun and shade:** Full sun[29](../references.md#r29).
+- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting[29](../references.md#r29).
+- **Feeding:** Not required. Blood and bone at planting, and optionally a liquid organic fertiliser weekly or fortnightly[29](../references.md#r29).
+- **Care:** Mulch with sugarcane or pea straw and do not strip too much foliage[29](../references.md#r29).
+- **Common problems and fixes:** Splitting and bolting: even moisture. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time[29](../references.md#r29).
+- **Not found:** Any figure for temperature or watering. Only one retailer page was read.
+
 ## Companion crops
 
 - **Good neighbours:** [Peas](sydney-peas.md), [Lettuce](sydney-lettuce.md), [Cucumber](sydney-cucumber.md), [Nasturtium](../companions.md#nasturtium).
-- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf).
-- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8). Each pairing is rated on the [companion crops page](../companions.md).
 - Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
-
-## Care guide
-
-- **Starting:** Sow in loose, well-drained soil with blood and bone dug in. Cover lightly. Seedlings come up in about a week. Thin to 10 to 15 cm and sow every 3 to 4 weeks. Winter types take 8 to 10 weeks and are sown from late summer to early autumn ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Temperature:** No figures. Pull winter types if frost is expected ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Sun and shade:** Full sun ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Feeding:** Not required. Blood and bone at planting, and optionally a liquid organic fertiliser weekly or fortnightly ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Care:** Mulch with sugarcane or pea straw and do not strip too much foliage ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Rotation:** Cabbage family. Clubroot spores last up to 20 years, so keep cabbage-family crops out of infected beds. A home rotation cannot clear it. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
-- **Plant next, so the soil recovers:** A legume, or a green manure that is not a mustard (clubroot risk). See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
-- **Common problems and fixes:** Splitting and bolting: even moisture. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Not found:** Any figure for temperature or watering. Only one retailer page was read.
 
 ## Watch for
 
@@ -67,6 +78,8 @@ The links open search results for this crop. I have not vetted every result agai
 
 ## Sources
 
-- [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
-- [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
-- [Bunnings, radishes](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes), retailer
+Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
+
+[8](../references.md#r8) [15](../references.md#r15) [29](../references.md#r29) [39](../references.md#r39)
+
+All references are in the [References appendix](../references.md).

@@ -4,7 +4,7 @@
 
 *Photo: Dietmar Rabich, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Botanischer_Garten,_Mangold_--_2019_--_7382.jpg). Resized.*
 
-> **Sydney.** A hardy leafy green you can keep picking. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
+> **Sydney.** A hardy leafy green you can keep picking. Months and sowing figures come from one council's seed library list[15](../references.md#r15) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts
 
@@ -15,6 +15,20 @@
 | Spacing | 25 cm (five coloured mix), 50 cm (Fordhook) |
 | Germination | 5 to 10 days |
 
+## Soil and rotation
+
+| | |
+|---|---|
+| Family | Beet family |
+| Feeder level | Light (SGA[24](../references.md#r24)) or moderate (Salisbury Council[20](../references.md#r20)) |
+| What it takes | Light to moderate, depending on the source. |
+| What it gives back | No nitrogen added. Roots and leftover leaves return some organic matter, and compost puts nutrients back [general knowledge]. |
+| Plant before it | A heavy feeder. SGA's cycle puts a light feeder after a heavy one (SGA[24](../references.md#r24)). |
+| Plant after it | A green manure. SGA's cycle puts a green manure after a light feeder. |
+| Watch out for | No break length was found. |
+
+The pattern for every crop in this guide is in [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
+
 ## What you need
 
 - Seed
@@ -22,7 +36,7 @@
 
 ## Growing methods
 
-- **In a pot:** Silverbeet suits a medium pot, 20 to 30 cm deep ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)).
+- **In a pot:** Silverbeet suits a medium pot, 20 to 30 cm deep[18](../references.md#r18).
 - More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
 
 ## How to grow it
@@ -31,22 +45,20 @@
 2. Seedlings come up in 5 to 10 days.
 3. Pick outer leaves as it grows.
 
+## Care guide
+
+- **Starting:** Sow seed or transplant seedlings, then thin to the spacing and eat the thinnings. In cool and warm temperate climates plant from spring to autumn[31](../references.md#r31).
+- **Temperature:** No figures are given[31](../references.md#r31).
+- **Sun and shade:** Full sun to part shade[31](../references.md#r31).
+- **Watering:** Every 2 to 3 days, or more often in hot weather. It tolerates dry spells but does better with regular water. Wilting plants usually revive with a thorough watering[31](../references.md#r31).
+- **Feeding:** Liquid feed regularly in the growing season. No product, rate or interval is given. Enrich the soil with compost before planting[31](../references.md#r31).
+- **Care:** Mulch with sugarcane or pea straw. Start picking outer leaves after 8 to 10 weeks, twisting each stalk near the base[31](../references.md#r31).
+- **Common problems and fixes:** Cercospora leaf spot: grey spots with brown edges, worse in hot humid weather. Snails and slugs: barriers, traps or pellets[31](../references.md#r31).
+- **Not found:** Spacing, feeding rate and pot size.
+
 ## Companion crops
 
 - No source read names companion plants for silverbeet. See the [companion crops page](../companions.md) for what is known, and for flowering strips that suit any crop ([Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips)).
-
-## Care guide
-
-- **Starting:** Sow seed or transplant seedlings, then thin to the spacing and eat the thinnings. In cool and warm temperate climates plant from spring to autumn ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
-- **Temperature:** No figures are given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
-- **Sun and shade:** Full sun to part shade ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
-- **Watering:** Every 2 to 3 days, or more often in hot weather. It tolerates dry spells but does better with regular water. Wilting plants usually revive with a thorough watering ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
-- **Feeding:** Liquid feed regularly in the growing season. No product, rate or interval is given. Enrich the soil with compost before planting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
-- **Care:** Mulch with sugarcane or pea straw. Start picking outer leaves after 8 to 10 weeks, twisting each stalk near the base ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
-- **Rotation:** Beet family, a light or moderate feeder depending on the source. Follow a heavy feeder with it. No break length was found. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
-- **Plant next, so the soil recovers:** A green manure. SGA's cycle puts a green manure after a light feeder. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
-- **Common problems and fixes:** Cercospora leaf spot: grey spots with brown edges, worse in hot humid weather. Snails and slugs: barriers, traps or pellets ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet)).
-- **Not found:** Spacing, feeding rate and pot size.
 
 ## Watch for
 
@@ -65,6 +77,8 @@ The links open search results for this crop. I have not vetted every result agai
 
 ## Sources
 
-- [Royal Botanic Gardens Sydney, best vegetables for beginners](https://botanicgardens.org.au/discover-and-learn/gardening-home/gardening-tips/best-vegetables-grow-beginners)
-- [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
-- [Bunnings, silverbeet](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-silverbeet), retailer
+Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
+
+[15](../references.md#r15) [18](../references.md#r18) [20](../references.md#r20) [24](../references.md#r24) [31](../references.md#r31) [39](../references.md#r39)
+
+All references are in the [References appendix](../references.md).

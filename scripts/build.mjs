@@ -102,6 +102,8 @@ for (const [path, file] of pagePaths) {
 
 /* ---------- link check (relative .md links and anchors) ---------- */
 const idsByPage = new Map(pages.map((p) => [p.path, new Set(p.headings.map((h) => h.id))]));
+// References appendix: each numbered entry is an anchor (r1, r2, ...), set by the app at render time.
+for (const p of pages) if (p.path === 'references') for (const m of p.src.matchAll(/^(\d+)\.\s/gm)) idsByPage.get(p.path).add('r' + m[1]);
 for (const p of pages) {
   const re = /\[[^\]]*\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g;
   let m;

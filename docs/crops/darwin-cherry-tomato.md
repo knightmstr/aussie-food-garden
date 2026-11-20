@@ -4,7 +4,7 @@
 
 *Photo: Steffen Bauer (saatpilot.de), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solanum_lycopersicum_%27Small_Red_Cherry%27_(tomato),_fruit,_close-up_(SaatPilot).jpg). Resized.*
 
-> **Darwin and Katherine.** A dry-season crop. The NT Government says to raise seedlings in a protected nursery, not to direct-seed. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
+> **Darwin and Katherine.** A dry-season crop. The NT Government says to raise seedlings in a protected nursery, not to direct-seed. Figures come from the NT Government sowing sheet[5](../references.md#r5), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts
 
@@ -20,6 +20,20 @@
 
 Timing: the sheet shades April to July for cherry tomato and May to July for full-size tomato. The NT tomato page says late April to July.
 
+## Soil and rotation
+
+| | |
+|---|---|
+| Family | Tomato family (nightshade) |
+| Feeder level | Heavy (SGA[24](../references.md#r24), Salisbury Council[20](../references.md#r20)) |
+| What it takes | A lot. Heavy feeders draw hard on the bed (SGA[24](../references.md#r24)). |
+| What it gives back | No nitrogen added. Roots and leftover leaves return some organic matter, and compost puts nutrients back [general knowledge]. |
+| Plant before it | A legume or a green manure (SGA[24](../references.md#r24)), applied to the Top End [inference]. |
+| Plant after it | A grass green manure (sorghum or pearl millet) in the wet season, then vegetables from another family [inference]. Legume covers host root-knot nematodes. |
+| Watch out for | Salisbury Council says a three-year break before the family returns, and root-knot nematodes build under tomato. |
+
+The pattern for every crop in this guide is in [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
+
 ## What you need
 
 - Seed or seedlings
@@ -29,8 +43,8 @@ Timing: the sheet shades April to July for cherry tomato and May to July for ful
 
 ## Growing methods
 
-- **In a pot:** Cherry tomatoes suit a medium pot, 20 to 30 cm deep ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)). Tomatoes can also grow in hanging baskets ([NSW Environment, small spaces](https://www.environment.nsw.gov.au/about-us/get-involved/sydney-nature/gardens/small-spaces)).
-- **In a bed:** Raised beds 10 to 15 cm high drain better. This is general advice on the Darwin and Katherine sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)).
+- **In a pot:** Cherry tomatoes suit a medium pot, 20 to 30 cm deep[18](../references.md#r18). Tomatoes can also grow in hanging baskets[2](../references.md#r2).
+- **In a bed:** Raised beds 10 to 15 cm high drain better. This is general advice on the Darwin and Katherine sowing sheet[5](../references.md#r5).
 - More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
 
 ## How to grow it
@@ -40,33 +54,30 @@ Timing: the sheet shades April to July for cherry tomato and May to July for ful
 3. Water the seedlings in with a weak fertiliser solution.
 4. Mulch. First picking is about 7 to 8 weeks later.
 
+## Care guide
+
+- **Starting:** Grow from seed or seedlings. The NT page gives late April to July as the best planting window, and says to plant seedlings into moist soil in the evening to avoid sunburn[13](../references.md#r13). The NT manual advises raising the small seed in a protected nursery rather than direct sowing[9, p. 17](../references.md#r9). An Adelaide council advises seed-raising mix, soil at 25 °C, transplanting at 3 to 5 cm with a second pair of leaves, and hardening off over several days[19](../references.md#r19).
+- **Temperature:** The NT page gives no growing temperatures. The Adelaide council plants out when soil is 15 to 20 °C and uses shade cloth in extreme heat. That is a different climate from Darwin.
+- **Sun and shade:** The NT page says to grow outdoors in winter and in shadehouses in summer. The council says at least 6 hours of sun, preferably morning, with shelter from the late afternoon sun and 50 percent shade cloth in extreme heat.
+- **Watering:** Keep the soil moist but not wet[13](../references.md#r13). The council says a slow, deep soak, every 2 to 3 days in extreme heat, a finger test first, and water the soil rather than the leaves. In pots, water until it drains and do not use saucers.
+- **Feeding:** The council says feed at least 2 to 3 times over the plant life, liquid feed about every 3 weeks, and use a potash-heavy fertiliser rather than a high-nitrogen one, which reduces fruit set. Pots need feeding more often. The NT page gives no feeding advice.
+- **Care:** Tall types need a trellis about 1.8 m high or stakes[13](../references.md#r13). The council says use soft ties, pinch the side shoots on tall types and keep leaves off the soil.
+- **Common problems and fixes:** Blossom end rot: water evenly. Fruit splitting: pick early if heavy rain is forecast. Sunburn: shade cloth. Bacterial wilt has no cure: remove the plants[19](../references.md#r19). Whitefly, mites, fruit fly and caterpillars are on the [insect page](../pests/insects.md), and tomato leaf curl virus on the [disease page](../pests/diseases.md#tomato-leaf-curl-virus).
+- **Not found:** Tropical (Darwin) temperature and feeding figures.
+
 ## Companion crops
 
 - **Good neighbours:** [Basil](darwin-basil.md), [Parsley](../companions.md#parsley), [Chives](../companions.md#chives), [Onions and garlic](../companions.md#onions-and-garlic), [Cucumber](darwin-cucumber.md), [Marigold](../companions.md#marigold), [Nasturtium](../companions.md#nasturtium), [Petunias](../companions.md#petunias), [Asparagus](../companions.md#asparagus).
 - **Keep apart:** [Potatoes](../companions.md#potatoes), [Eggplant](../companions.md#eggplant), [Corn](../companions.md#corn).
-- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) and the [Hornsby fact sheet](https://hornsby.nsw.gov.au/__data/assets/pdf_file/0015/52512/HSC00272-EGFS-Guild-and-Companion-Planting_FA.pdf). The two sources disagree on corn: the NT sheet says avoid it and Hornsby lists it as a companion.
-- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8) and the Hornsby fact sheet[17](../references.md#r17). The two sources disagree on corn: the NT sheet says avoid it and Hornsby lists it as a companion. Each pairing is rated on the [companion crops page](../companions.md).
 - Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
-
-## Care guide
-
-- **Starting:** Grow from seed or seedlings. The NT page gives late April to July as the best planting window, and says to plant seedlings into moist soil in the evening to avoid sunburn ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/tomatoes)). The NT manual advises raising the small seed in a protected nursery rather than direct sowing ([NT manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), p. 17). An Adelaide council advises seed-raising mix, soil at 25 °C, transplanting at 3 to 5 cm with a second pair of leaves, and hardening off over several days ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)).
-- **Temperature:** The NT page gives no growing temperatures. The Adelaide council plants out when soil is 15 to 20 °C and uses shade cloth in extreme heat. That is a different climate from Darwin.
-- **Sun and shade:** The NT page says to grow outdoors in winter and in shadehouses in summer. The council says at least 6 hours of sun, preferably morning, with shelter from the late afternoon sun and 50 percent shade cloth in extreme heat.
-- **Watering:** Keep the soil moist but not wet ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/tomatoes)). The council says a slow, deep soak, every 2 to 3 days in extreme heat, a finger test first, and water the soil rather than the leaves. In pots, water until it drains and do not use saucers.
-- **Feeding:** The council says feed at least 2 to 3 times over the plant life, liquid feed about every 3 weeks, and use a potash-heavy fertiliser rather than a high-nitrogen one, which reduces fruit set. Pots need feeding more often. The NT page gives no feeding advice.
-- **Care:** Tall types need a trellis about 1.8 m high or stakes ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/tomatoes)). The council says use soft ties, pinch the side shoots on tall types and keep leaves off the soil.
-- **Rotation:** Tomato family, heavy feeder. Salisbury Council says a three-year break before the family returns, and root-knot nematodes build under tomato. Follow with a legume or light feeder. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
-- **Plant next, so the soil recovers:** A grass green manure (sorghum or pearl millet) in the wet season, then vegetables from another family [inference]. Legume covers host root-knot nematodes. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
-- **Common problems and fixes:** Blossom end rot: water evenly. Fruit splitting: pick early if heavy rain is forecast. Sunburn: shade cloth. Bacterial wilt has no cure: remove the plants ([Salisbury](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf)). Whitefly, mites, fruit fly and caterpillars are on the [insect page](../pests/insects.md), and tomato leaf curl virus on the [disease page](../pests/diseases.md#tomato-leaf-curl-virus).
-- **Not found:** Tropical (Darwin) temperature and feeding figures.
 
 ## Pests and diseases
 
-- **Tomato leaf curl virus** is one of the most serious Top End tomato diseases, spread by whitefly. Late March sowing reduced it in the guide ([details](../pests/diseases.md#tomato-leaf-curl-virus), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 188 to 193).
-- **Bacterial wilt** occurs in red soils around Darwin. Use clean potting mix ([details](../pests/diseases.md#sclerotium-base-rot-and-bacterial-wilt), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 134).
-- **Fruit fly** stings young green tomatoes ([details](../pests/insects.md#season-notes-for-the-top-end), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 70). **Corn earworm** attacks flowers and fruit ([details](../pests/insects.md#helicoverpa-and-cluster-caterpillars), [NT DPIF field guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 58). **Russet mite** bronzes stems from the base up ([details](../pests/insects.md#broad-rust-and-russet-mites), [NT DPIF field guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 78).
-- **Leaf spots and blossom end rot:** remove infected lower leaves, keep foliage dry and water evenly ([details](../pests/diseases.md#leaf-spots-alternaria-cercospora-and-bacterial), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 142, 196).
+- **Tomato leaf curl virus** is one of the most serious Top End tomato diseases, spread by whitefly. Late March sowing reduced it in the guide ([details](../pests/diseases.md#tomato-leaf-curl-virus), NT guide[6, p. 188 to 193](../references.md#r6)).
+- **Bacterial wilt** occurs in red soils around Darwin. Use clean potting mix ([details](../pests/diseases.md#sclerotium-base-rot-and-bacterial-wilt), NT guide[6, p. 134](../references.md#r6)).
+- **Fruit fly** stings young green tomatoes ([details](../pests/insects.md#season-notes-for-the-top-end), NT guide[6, p. 70](../references.md#r6)). **Corn earworm** attacks flowers and fruit ([details](../pests/insects.md#helicoverpa-and-cluster-caterpillars), NT DPIF field guide[6, p. 58](../references.md#r6)). **Russet mite** bronzes stems from the base up ([details](../pests/insects.md#broad-rust-and-russet-mites), NT DPIF field guide[6, p. 78](../references.md#r6)).
+- **Leaf spots and blossom end rot:** remove infected lower leaves, keep foliage dry and water evenly ([details](../pests/diseases.md#leaf-spots-alternaria-cercospora-and-bacterial), NT guide[6, p. 142, 196](../references.md#r6)).
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
 ## See it and watch it
@@ -81,8 +92,8 @@ The links open search results for this crop. I have not vetted every result agai
 
 ## Sources
 
-- [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-- [nt.gov.au, tomatoes](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/tomatoes), government
-- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
-- [Salisbury Council, growing tomatoes (Adelaide)](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_d7_growing_tomatoes_final.pdf), council
-- [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), government
+Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
+
+[2](../references.md#r2) [5](../references.md#r5) [6](../references.md#r6) [8](../references.md#r8) [9](../references.md#r9) [13](../references.md#r13) [17](../references.md#r17) [18](../references.md#r18) [19](../references.md#r19) [20](../references.md#r20) [24](../references.md#r24)
+
+All references are in the [References appendix](../references.md).

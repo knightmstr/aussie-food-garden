@@ -4,7 +4,7 @@
 
 *Photo: Shijan Kaakkara, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yardlong_bean_-_%E0%B4%AA%E0%B4%AF%E0%B5%BC_03.jpg). Resized.*
 
-> **Darwin and Katherine.** Can be sown all year on the NT sheet, and can grow in the wet if the bed drains well. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
+> **Darwin and Katherine.** Can be sown all year on the NT sheet, and can grow in the wet if the bed drains well. Figures come from the NT Government sowing sheet[5](../references.md#r5), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts
 
@@ -20,6 +20,20 @@
 
 Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about 3 m apart. Both are shown.
 
+## Soil and rotation
+
+| | |
+|---|---|
+| Family | Bean family (legume) |
+| Feeder level | Soil builder (SGA[24](../references.md#r24)) |
+| What it takes | Little nitrogen, because it makes its own. |
+| What it gives back | Fixes nitrogen from the air, which helps about one following crop (GRDC[21](../references.md#r21)). A picked crop returns less, because 30 to 40 percent of the crop's nitrogen leaves in the harvest (SA Soil Quality[14](../references.md#r14)). Leave the roots in the bed [inference]. |
+| Plant before it | A leafy crop, from the NT manual's order (NT manual[9](../references.md#r9)). |
+| Plant after it | A hungry crop. The NT manual puts cucumber-family crops after beans, and the beans' nitrogen helps about one crop. Snake beans host root-knot nematodes. |
+| Watch out for | Snake beans also host root-knot nematodes. |
+
+The pattern for every crop in this guide is in [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
+
 ## What you need
 
 - Seed (one or two per hole)
@@ -29,8 +43,8 @@ Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about
 
 ## Growing methods
 
-- **In a pot:** Peas and beans suit a medium pot, 20 to 30 cm deep. Trellised ones need a deep pot, 30 to 50 cm or more ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)).
-- **In a bed:** Use a raised or mounded bed that drains well, 10 to 15 cm high ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)).
+- **In a pot:** Peas and beans suit a medium pot, 20 to 30 cm deep. Trellised ones need a deep pot, 30 to 50 cm or more[18](../references.md#r18).
+- **In a bed:** Use a raised or mounded bed that drains well, 10 to 15 cm high[5](../references.md#r5).
 - More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
 
 ## How to grow it
@@ -41,34 +55,31 @@ Row spacing: the sheet says 75 cm; the NT snake bean page says single rows about
 4. Train the vines onto the trellis. Keep soil moist and water in dry spells.
 5. Pick about two weeks after flowering, usually 8 to 10 weeks after sowing, when the seed outlines are just visible. Pick at least twice a week, more in very hot weather.
 
+## Care guide
+
+- **Starting:** Sow seed directly, not as seedlings. Sow any time of year, 2 cm deep, with climbing types 30 to 50 cm apart in the row and 2 to 3 m between rows. Plant into damp soil, then do not water for 3 to 4 days, because watering straight away can rot the seed[3](../references.md#r3).
+- **Temperature:** No source read gives a growing temperature. The NT page describes warm, humid conditions with steady rain and says frost damages the plants[11](../references.md#r11).
+- **Sun and shade:** Not covered by any source read for snake beans.
+- **Watering:** Keep soil moisture up with regular watering. Water stress lowers yield and overwatering can cause root rot. Sandy soils dry faster than heavy clay, so water them more often. Drip tape gives good control[3](../references.md#r3).
+- **Feeding:** Dig in extra organic matter before planting[11](../references.md#r11). The NT farm sheet gives a complete NPK fertiliser (14:14:12) at 70 g per square metre along the rows, banded 50 mm from the seed, then a 50:50 urea and potassium sulphate side dressing at 5 g per m of row every four weeks. Those are farm rates and are not tested in pots[3](../references.md#r3).
+- **Care:** Put the trellis up before planting or soon after. Mulch around the plants, keeping it clear of the stems, to suppress weeds and hold moisture. Pick at least twice a week, or the pods get too large and tough[3](../references.md#r3).
+- **Common problems and fixes:** Fusarium wilt: use clean seed and good hygiene. Nematodes: grow a green manure crop each year so they do not build up[3](../references.md#r3). Bean fly, podborer, rust and wilt are covered below and on the [insect](../pests/insects.md#bean-fly) and [disease](../pests/diseases.md#fusarium-wilt-of-snake-beans) pages.
+- **Not found:** Sun and shade, germination temperature and pot feeding.
+
 ## Companion crops
 
 - **Good neighbours:** [Corn](../companions.md#corn), [Cucumber](darwin-cucumber.md), [Peas](../companions.md#peas), [Marigold](../companions.md#marigold).
 - **Keep apart:** [Onions and garlic](../companions.md#onions-and-garlic).
-- **Where this comes from:** [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) gives advice for beans in general, not snake beans specifically. It says beans suit most vegetables and herbs. The NT farm sheet also says to grow a green manure each year against nematodes.
-- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8) gives advice for beans in general, not snake beans specifically. It says beans suit most vegetables and herbs. The NT farm sheet also says to grow a green manure each year against nematodes. Each pairing is rated on the [companion crops page](../companions.md).
 - Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
-
-## Care guide
-
-- **Starting:** Sow seed directly, not as seedlings. Sow any time of year, 2 cm deep, with climbing types 30 to 50 cm apart in the row and 2 to 3 m between rows. Plant into damp soil, then do not water for 3 to 4 days, because watering straight away can rot the seed ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
-- **Temperature:** No source read gives a growing temperature. The NT page describes warm, humid conditions with steady rain and says frost damages the plants ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans)).
-- **Sun and shade:** Not covered by any source read for snake beans.
-- **Watering:** Keep soil moisture up with regular watering. Water stress lowers yield and overwatering can cause root rot. Sandy soils dry faster than heavy clay, so water them more often. Drip tape gives good control ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
-- **Feeding:** Dig in extra organic matter before planting ([nt.gov.au](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans)). The NT farm sheet gives a complete NPK fertiliser (14:14:12) at 70 g per square metre along the rows, banded 50 mm from the seed, then a 50:50 urea and potassium sulphate side dressing at 5 g per m of row every four weeks. Those are farm rates and are not tested in pots ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
-- **Care:** Put the trellis up before planting or soon after. Mulch around the plants, keeping it clear of the stems, to suppress weeds and hold moisture. Pick at least twice a week, or the pods get too large and tough ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)).
-- **Rotation:** Bean family, soil builder. The NT manual puts beans after a leafy crop and before cucumber-family crops. The nitrogen helps about one following crop, so put a hungry crop next. Snake beans also host root-knot nematodes. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
-- **Plant next, so the soil recovers:** A hungry crop. The NT manual puts cucumber-family crops after beans, and the beans' nitrogen helps about one crop. Snake beans host root-knot nematodes. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
-- **Common problems and fixes:** Fusarium wilt: use clean seed and good hygiene. Nematodes: grow a green manure crop each year so they do not build up ([Agnote B15](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf)). Bean fly, podborer, rust and wilt are covered below and on the [insect](../pests/insects.md#bean-fly) and [disease](../pests/diseases.md#fusarium-wilt-of-snake-beans) pages.
-- **Not found:** Sun and shade, germination temperature and pot feeding.
 
 ## Pests and diseases
 
-- **Bean fly** is the worst snake bean pest in the dry season. Check seedlings twice a week in the first week after they come up ([bean fly](../pests/insects.md#bean-fly), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 66).
-- **Bean podborer and pod-sucking bug** attack flowers and pods ([details](../pests/insects.md#bean-podborer-and-pod-sucking-bug), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 50 to 54).
-- **Aphids:** cowpea aphid colonies build up before flowering ([cowpea aphid](../pests/insects.md#cowpea-and-melon-aphids), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 28).
-- **Bean rust:** choose black or white-seeded types, since brown-seeded ones are the most susceptible ([bean rust](../pests/diseases.md#bean-rust), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 148).
-- **Fusarium wilt** can collapse plants in one to three days around flowering. It is serious around Darwin ([details](../pests/diseases.md#fusarium-wilt-of-snake-beans), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 166).
+- **Bean fly** is the worst snake bean pest in the dry season. Check seedlings twice a week in the first week after they come up ([bean fly](../pests/insects.md#bean-fly), NT guide[6, p. 66](../references.md#r6)).
+- **Bean podborer and pod-sucking bug** attack flowers and pods ([details](../pests/insects.md#bean-podborer-and-pod-sucking-bug), NT guide[6, p. 50 to 54](../references.md#r6)).
+- **Aphids:** cowpea aphid colonies build up before flowering ([cowpea aphid](../pests/insects.md#cowpea-and-melon-aphids), NT guide[6, p. 28](../references.md#r6)).
+- **Bean rust:** choose black or white-seeded types, since brown-seeded ones are the most susceptible ([bean rust](../pests/diseases.md#bean-rust), NT guide[6, p. 148](../references.md#r6)).
+- **Fusarium wilt** can collapse plants in one to three days around flowering. It is serious around Darwin ([details](../pests/diseases.md#fusarium-wilt-of-snake-beans), NT guide[6, p. 166](../references.md#r6)).
 - Snake beans are also a root-knot nematode host. The NT manual puts them after a leafy crop and before cucurbits.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
@@ -84,8 +95,8 @@ The links open search results for this crop. I have not vetted every result agai
 
 ## Sources
 
-- [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-- [nt.gov.au, snake beans](https://nt.gov.au/environment/home-gardens/growing-vegetables-at-home/snake-beans), government
-- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
-- [NT Agnote B15, Growing snake beans in the Top End (2006)](https://daf.nt.gov.au/__data/assets/pdf_file/0013/233131/385.pdf), government
-- [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), government
+Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
+
+[3](../references.md#r3) [5](../references.md#r5) [6](../references.md#r6) [8](../references.md#r8) [9](../references.md#r9) [11](../references.md#r11) [14](../references.md#r14) [18](../references.md#r18) [21](../references.md#r21) [24](../references.md#r24)
+
+All references are in the [References appendix](../references.md).

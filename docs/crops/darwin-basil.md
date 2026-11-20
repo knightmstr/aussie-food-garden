@@ -4,7 +4,7 @@
 
 *Photo: PumpkinSky, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_CG_NBG_LR.jpg). Resized.*
 
-> **Darwin and Katherine.** Shaded all year on the NT sheet, so it is one of the few things you can start in the wet. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
+> **Darwin and Katherine.** Shaded all year on the NT sheet, so it is one of the few things you can start in the wet. Figures come from the NT Government sowing sheet[5](../references.md#r5), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts
 
@@ -20,6 +20,19 @@
 
 The sheet gives no weeks to picking for basil.
 
+## Soil and rotation
+
+| | |
+|---|---|
+| Family | Mint family [general knowledge] |
+| Feeder level | Not stated in the sources read. |
+| What it takes | Not stated in the sources read. |
+| What it gives back | No nitrogen added. Roots and leftover leaves return some organic matter, and compost puts nutrients back [general knowledge]. |
+| Plant before it | No source read. |
+| Plant after it | No source read. |
+
+The pattern for every crop in this guide is in [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
+
 ## What you need
 
 - Seed
@@ -27,7 +40,7 @@ The sheet gives no weeks to picking for basil.
 
 ## Growing methods
 
-- **In a pot:** Herbs can grow in pots ([NSW Environment, small spaces](https://www.environment.nsw.gov.au/about-us/get-involved/sydney-nature/gardens/small-spaces)). Salisbury says herbs generally prefer shade in summer ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)). Neither gives a basil-specific pot size.
+- **In a pot:** Herbs can grow in pots[2](../references.md#r2). Salisbury says herbs generally prefer shade in summer[18](../references.md#r18). Neither gives a basil-specific pot size.
 - More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
 
 ## How to grow it
@@ -37,30 +50,27 @@ The sheet gives no weeks to picking for basil.
 3. Space plants 30 cm apart, in rows 30 cm apart.
 4. Mulch straight after planting.
 
-## Companion crops
-
-- **Good neighbours:** [Tomato](darwin-cherry-tomato.md).
-- **Where this comes from:** [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf) says basil improves tomatoes and repels flies and mosquitoes.
-- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
-- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
-
 ## Care guide
 
-- **Starting:** No source read says how to raise basil seedlings. The Darwin sources only give months. A fusarium-tolerant variety (Nufar F1) is used in the Darwin Rural area ([NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), p. 28).
-- **Temperature:** Basil dislikes cold and dies back when it arrives. Frost-free tropical areas can grow it for years ([SGA](https://sgaonline.org.au/basil)).
-- **Sun and shade:** Full sun. In very warm areas it tolerates part shade ([SGA](https://sgaonline.org.au/basil)).
-- **Watering:** No set amount. Use the finger test: if soil sticks to your finger, skip watering. Water in the morning so leaves are not wet as the temperature drops, and do not use greywater ([SGA](https://sgaonline.org.au/basil)).
-- **Feeding:** Liquid seaweed, worm wee or liquid manure, fairly often through the growing season and after harvests. The source gives no interval ([SGA](https://sgaonline.org.au/basil)).
-- **Care:** Pick often to stop it getting leggy and going to seed. Remove the flowers to keep the leaves lush for longer ([SGA](https://sgaonline.org.au/basil)).
-- **Rotation:** No rotation advice found in the sources read. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
-- **Plant next, so the soil recovers:** No source read. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
+- **Starting:** No source read says how to raise basil seedlings. The Darwin sources only give months. A fusarium-tolerant variety (Nufar F1) is used in the Darwin Rural area[9, p. 28](../references.md#r9).
+- **Temperature:** Basil dislikes cold and dies back when it arrives. Frost-free tropical areas can grow it for years[23](../references.md#r23).
+- **Sun and shade:** Full sun. In very warm areas it tolerates part shade[23](../references.md#r23).
+- **Watering:** No set amount. Use the finger test: if soil sticks to your finger, skip watering. Water in the morning so leaves are not wet as the temperature drops, and do not use greywater[23](../references.md#r23).
+- **Feeding:** Liquid seaweed, worm wee or liquid manure, fairly often through the growing season and after harvests. The source gives no interval[23](../references.md#r23).
+- **Care:** Pick often to stop it getting leggy and going to seed. Remove the flowers to keep the leaves lush for longer[23](../references.md#r23).
 - **Common problems and fixes:** Snails and caterpillars are the pests SGA names. Regular picking, flower removal and feeding are its only fixes. Fusarium wilt is covered on the [disease page](../pests/diseases.md#fusarium-wilt-of-basil).
 - **Not found:** A seedling method, feeding interval and rates.
 
+## Companion crops
+
+- **Good neighbours:** [Tomato](darwin-cherry-tomato.md).
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8) says basil improves tomatoes and repels flies and mosquitoes. Each pairing is rated on the [companion crops page](../companions.md).
+- Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
+
 ## Pests and diseases
 
-- **Fusarium wilt of basil** is a major Top End disease. Use resistant varieties and clean seed, and do not reuse infected soil or pots ([details](../pests/diseases.md#fusarium-wilt-of-basil), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 164).
-- **Spiralling whitefly:** check weekly. Numbers are usually higher in the dry season, and a parasitic wasp keeps them down in most NT areas ([details](../pests/insects.md#season-notes-for-the-top-end), [NT guide](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), p. 88).
+- **Fusarium wilt of basil** is a major Top End disease. Use resistant varieties and clean seed, and do not reuse infected soil or pots ([details](../pests/diseases.md#fusarium-wilt-of-basil), NT guide[6, p. 164](../references.md#r6)).
+- **Spiralling whitefly:** check weekly. Numbers are usually higher in the dry season, and a parasitic wasp keeps them down in most NT areas ([details](../pests/insects.md#season-notes-for-the-top-end), NT guide[6, p. 88](../references.md#r6)).
 - The sheet gives no pest advice for basil.
 - Organic fixes are on the [insect pests page](../pests/insects.md) and the [diseases page](../pests/diseases.md).
 
@@ -76,7 +86,8 @@ The links open search results for this crop. I have not vetted every result agai
 
 ## Sources
 
-- [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
-- [SGA, basil](https://sgaonline.org.au/basil), community
-- [NT Vegetable growing manual](https://industry.nt.gov.au/__data/assets/pdf_file/0019/228007/ntg-vegetable-growing-manual.pdf), government
+Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
+
+[2](../references.md#r2) [5](../references.md#r5) [6](../references.md#r6) [8](../references.md#r8) [9](../references.md#r9) [18](../references.md#r18) [23](../references.md#r23)
+
+All references are in the [References appendix](../references.md).

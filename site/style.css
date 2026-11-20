@@ -329,3 +329,15 @@ a.row:active, label.row:active { background: var(--fill); }
 .srcline a { color: var(--muted); }
 @media (prefers-reduced-motion: reduce) { .nav { transition: none; } }
 @media print { .topbar, .nav, .scrim, .foot, .tabs { display: none; } .layout { display: block; } body { background: #fff; color: #000; } }
+
+/* Soil card and care guide rows: label above, text below. */
+.srow { display: flex; flex-direction: column; gap: 3px; padding: 12px 18px; position: relative; }
+.srow + .srow::before { content: ""; position: absolute; top: 0; left: 18px; right: 18px; border-top: 1px solid var(--line); }
+.srow .sl { font-size: 11.5px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.srow .sv { line-height: 1.5; }
+.crop .group.soil, .crop .group.care { margin-bottom: 4px; }
+/* Numbered source citations. */
+a.cite { font-size: .72em; font-weight: 600; vertical-align: super; line-height: 0; text-decoration: none; padding: 0 3px; margin: 0 1px 0 2px; border-radius: 6px; background: var(--fill); color: var(--muted); white-space: nowrap; }
+a.cite::before { content: "["; } a.cite::after { content: "]"; }
+a.cite:hover { color: var(--fg); }
+.content ol > li:target { background: var(--fill); }

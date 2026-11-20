@@ -4,7 +4,7 @@
 
 *Photo: Schlaghecken Josef, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raphanus_sativus_Radieschen,_Bakterielle_Nassf%C3%A4ule,_J.Schlaghecken-1a.jpg). Resized.*
 
-> **Darwin and Katherine.** One of the quickest crops on the sheet. Figures come from the NT Government sowing sheet ([NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf)), which is government but old (2005/2008). Other sources are named below.
+> **Darwin and Katherine.** One of the quickest crops on the sheet. Figures come from the NT Government sowing sheet[5](../references.md#r5), which is government but old (2005/2008). Other sources are named below.
 
 ## Key facts
 
@@ -17,6 +17,20 @@
 | Rows apart | 10 to 15 cm |
 | Seedlings up | 5 to 8 days |
 | First pick | 6 to 8 weeks |
+
+## Soil and rotation
+
+| | |
+|---|---|
+| Family | Cabbage family (brassica) |
+| Feeder level | Not stated in the sources read. |
+| What it takes | Not stated in the sources read. |
+| What it gives back | No nitrogen added. Roots and leftover leaves return some organic matter, and compost puts nutrients back [general knowledge]. |
+| Plant before it | No source read. |
+| Plant after it | A legume or a grass green manure, not a mustard cover (clubroot risk). |
+| Watch out for | Clubroot spores last up to 20 years, so keep cabbage-family crops out of infected beds. A home rotation cannot clear it. |
+
+The pattern for every crop in this guide is in [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
 
 ## What you need
 
@@ -34,25 +48,22 @@
 2. Seedlings come up in 5 to 8 days.
 3. Pick from about 6 to 8 weeks.
 
+## Care guide
+
+- **Starting:** Sow in loose, well-drained soil with organic matter, with blood and bone dug in first. Cover the seed lightly. Seedlings come up in about a week. Thin to 10 to 15 cm, eat the thinnings, and sow every 3 to 4 weeks. Summer types take 4 to 6 weeks[29](../references.md#r29).
+- **Temperature:** No figures. The page lists tropical climates as suitable and says summer types grow year-round in most climates[29](../references.md#r29).
+- **Sun and shade:** Full sun[29](../references.md#r29).
+- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting, and bolted roots turn woody and bitter[29](../references.md#r29).
+- **Feeding:** Not required. Blood and bone at planting, and optionally an organic liquid fertiliser weekly or fortnightly[29](../references.md#r29).
+- **Care:** Mulch with sugarcane or pea straw. Do not strip too much foliage from one plant[29](../references.md#r29).
+- **Common problems and fixes:** Splitting and bolting: keep soil moist. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time[29](../references.md#r29).
+- **Not found:** A Darwin or NT source, and any figure for watering or temperature. Only one retailer page was read.
+
 ## Companion crops
 
 - **Good neighbours:** [Peas](../companions.md#peas), [Lettuce](../companions.md#lettuce), [Cucumber](darwin-cucumber.md), [Nasturtium](../companions.md#nasturtium).
-- **Where this comes from:** From [NT sheet VF11](https://daf.nt.gov.au/__data/assets/pdf_file/0005/227606/vf11.pdf).
-- **How reliable:** weak. Most of these pairings are traditional practice, and the trials read found little support for them. The [companion crops page](../companions.md) rates each one. A name that has a crop page in this guide opens that page. Any other name opens its note on the companion crops page.
+- **How reliable:** Weak. Most of these pairings are traditional practice, and the trials read found little support for them. Sources: NT sheet VF11[8](../references.md#r8). Each pairing is rated on the [companion crops page](../companions.md).
 - Flowering strips of alyssum, cornflower or buckwheat are the best-supported companion practice; see [Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips).
-
-## Care guide
-
-- **Starting:** Sow in loose, well-drained soil with organic matter, with blood and bone dug in first. Cover the seed lightly. Seedlings come up in about a week. Thin to 10 to 15 cm, eat the thinnings, and sow every 3 to 4 weeks. Summer types take 4 to 6 weeks ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Temperature:** No figures. The page lists tropical climates as suitable and says summer types grow year-round in most climates ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Sun and shade:** Full sun ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Watering:** Keep the soil evenly moist. Dry soil causes splitting or bolting, and bolted roots turn woody and bitter ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Feeding:** Not required. Blood and bone at planting, and optionally an organic liquid fertiliser weekly or fortnightly ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Care:** Mulch with sugarcane or pea straw. Do not strip too much foliage from one plant ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Rotation:** Cabbage family. Clubroot spores last up to 20 years, so keep cabbage-family crops out of infected beds. A home rotation cannot clear it. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
-- **Plant next, so the soil recovers:** A legume or a grass green manure, not a mustard cover (clubroot risk). See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
-- **Common problems and fixes:** Splitting and bolting: keep soil moist. Snails and slugs: baits or barriers. Caterpillars: Bt (DiPel) per the label. Woody roots: harvest on time ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes)).
-- **Not found:** A Darwin or NT source, and any figure for watering or temperature. Only one retailer page was read.
 
 ## Pests and diseases
 
@@ -72,6 +83,8 @@ The links open search results for this crop. I have not vetted every result agai
 
 ## Sources
 
-- [NT DAF IS4](https://daf.nt.gov.au/__data/assets/pdf_file/0003/228090/is4_vegetable_calendar_darwin_katherine_08.pdf), government
-- [NT DPIF field guide to vegetable pests and diseases (2014)](https://dpir.nt.gov.au/__data/assets/pdf_file/0009/227772/vegfieldguide-sml.pdf), government
-- [Bunnings, radishes](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-radishes), retailer
+Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
+
+[5](../references.md#r5) [6](../references.md#r6) [8](../references.md#r8) [29](../references.md#r29)
+
+All references are in the [References appendix](../references.md).

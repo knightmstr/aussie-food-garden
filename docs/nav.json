@@ -105,6 +105,10 @@
       "title": "About",
       "pages": [
         {
+          "path": "references",
+          "title": "References (appendix)"
+        },
+        {
           "path": "about",
           "title": "Sources, limits and updates"
         },

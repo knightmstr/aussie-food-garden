@@ -4,7 +4,7 @@
 
 *Photo: Leo Michels, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eruca_sativa_1_IP0206101.jpg). Resized.*
 
-> **Sydney.** One of the fastest salad crops to grow. Months and sowing figures come from one council's seed library list ([City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)) where listed, with timing and tips from the sources named below. None of them gives frost dates.
+> **Sydney.** One of the fastest salad crops to grow. Months and sowing figures come from one council's seed library list[15](../references.md#r15) where listed, with timing and tips from the sources named below. None of them gives frost dates.
 
 ## Key facts
 
@@ -15,6 +15,20 @@
 | Germination | 8 to 14 days |
 | Ready | About 4 weeks from seed, then cut for months (City of Sydney) |
 
+## Soil and rotation
+
+| | |
+|---|---|
+| Family | Cabbage family (brassica) [general knowledge] |
+| Feeder level | Not stated in the sources read. |
+| What it takes | Not stated in the sources read. |
+| What it gives back | No nitrogen added. Roots and leftover leaves return some organic matter, and compost puts nutrients back [general knowledge]. |
+| Plant before it | No source read. |
+| Plant after it | A legume, or a green manure that is not a mustard [inference, as rocket is cabbage family]. |
+| Watch out for | No source read names rocket for rotation. As a cabbage-family plant, the clubroot caution probably applies [inference]. |
+
+The pattern for every crop in this guide is in [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
+
 ## What you need
 
 - Seed
@@ -23,7 +37,7 @@
 
 ## Growing methods
 
-- **In a pot:** Salisbury puts leafy greens in a shallow pot, 15 to 20 cm deep ([Salisbury Council, growing in pots and containers](https://www.salisbury.sa.gov.au/assets/files/assets/public/general_documents/live/healthy_living/living_well_in_the_living_city/pack_e1_growing_in_pots_and_containers_final.pdf)). The City of Sydney gives 20 to 30 cm for vegetables and herbs ([City of Sydney, tips to start an edible garden](https://news.cityofsydney.nsw.gov.au/articles/tips-to-start-an-edible-garden)). Both are shown.
+- **In a pot:** Salisbury puts leafy greens in a shallow pot, 15 to 20 cm deep[18](../references.md#r18). The City of Sydney gives 20 to 30 cm for vegetables and herbs[16](../references.md#r16). Both are shown.
 - More on pots, soil and water: [small spaces, pots and renting](../start/small-spaces.md).
 
 ## How to grow it
@@ -32,22 +46,20 @@
 2. Seedlings come up in 8 to 14 days.
 3. Harvest from about 4 weeks, and keep cutting. It can be harvested continuously for months.
 
+## Care guide
+
+- **Starting:** Sow year-round in most climates, though cooler weather gives the best crops. Sow every 3 to 4 weeks. Leaves are ready after about 6 weeks[30](../references.md#r30).
+- **Temperature:** Cooler temperatures give the best crops, and sudden changes can cause bolting[30](../references.md#r30).
+- **Sun and shade:** Full sun to part shade. In very hot summers use part shade or protect from afternoon sun[30](../references.md#r30).
+- **Watering:** Keep the soil moist, especially in hot, dry weather. Drying out can cause bolting. Mulch with sugarcane or pea straw[30](../references.md#r30).
+- **Feeding:** Feed weekly with a liquid fertiliser for herbs and vegetables. No dilution rate is given[30](../references.md#r30).
+- **Care:** Pick the outer leaves first and pick regularly. Pinch off flower buds to prevent bolting. Use good potting mix in pots[30](../references.md#r30).
+- **Common problems and fixes:** Bolting: even moisture, mulch, regular picking, removing flower buds, and shade. Flea beetles make small holes but are generally minor[30](../references.md#r30).
+- **Not found:** Exact temperatures and pot size.
+
 ## Companion crops
 
 - No source read names companion plants for rocket. See the [companion crops page](../companions.md) for what is known, and for flowering strips that suit any crop ([Alyssum, cornflower and buckwheat strips](../companions.md#alyssum-cornflower-and-buckwheat-strips)).
-
-## Care guide
-
-- **Starting:** Sow year-round in most climates, though cooler weather gives the best crops. Sow every 3 to 4 weeks. Leaves are ready after about 6 weeks ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
-- **Temperature:** Cooler temperatures give the best crops, and sudden changes can cause bolting ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
-- **Sun and shade:** Full sun to part shade. In very hot summers use part shade or protect from afternoon sun ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
-- **Watering:** Keep the soil moist, especially in hot, dry weather. Drying out can cause bolting. Mulch with sugarcane or pea straw ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
-- **Feeding:** Feed weekly with a liquid fertiliser for herbs and vegetables. No dilution rate is given ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
-- **Care:** Pick the outer leaves first and pick regularly. Pinch off flower buds to prevent bolting. Use good potting mix in pots ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
-- **Rotation:** No source read names rocket for rotation. As a cabbage-family plant, the clubroot caution probably applies [inference]. See [rotation for the crops in this guide](../principles.md#rotation-for-the-crops-in-this-guide).
-- **Plant next, so the soil recovers:** A legume, or a green manure that is not a mustard [inference, as rocket is cabbage family]. See [what to plant after each crop](../principles.md#what-to-plant-after-each-crop).
-- **Common problems and fixes:** Bolting: even moisture, mulch, regular picking, removing flower buds, and shade. Flea beetles make small holes but are generally minor ([Bunnings](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket)).
-- **Not found:** Exact temperatures and pot size.
 
 ## Watch for
 
@@ -66,6 +78,8 @@ The links open search results for this crop. I have not vetted every result agai
 
 ## Sources
 
-- [City of Sydney, tips to start an edible garden](https://news.cityofsydney.nsw.gov.au/articles/tips-to-start-an-edible-garden)
-- [City of Ryde seed library guide, June 2024](https://www.ryde.nsw.gov.au/files/assets/public/v/4/library/2024-06-seasonal-planting-guide.pdf)
-- [Bunnings, rocket](https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-rocket), retailer
+Numbers in square brackets on this page are references. Open one for the full source, who published it and what kind of source it is.
+
+[15](../references.md#r15) [16](../references.md#r16) [18](../references.md#r18) [30](../references.md#r30)
+
+All references are in the [References appendix](../references.md).

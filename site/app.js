@@ -154,6 +154,32 @@
         }
         s.n.forEach(function (n) { if (!(n.querySelector && n.querySelector('table')) && n.tagName !== 'TABLE') { n.classList.add('fine'); out.appendChild(n); } });
         if (note) { out.appendChild(fold('About these figures', [note])); note = null; }
+      } else if (key === 'soil and rotation') {
+        out.appendChild(el('h2', null, esc(s.t)));
+        var tb = null; s.n.forEach(function (n) { if (n.querySelector && n.querySelector('table')) tb = n.querySelector('table'); });
+        if (tb) {
+          var sg = el('div', 'group soil');
+          [].slice.call(tb.querySelectorAll('tbody tr')).forEach(function (tr) {
+            var c = tr.children; if (c.length < 2) return;
+            sg.appendChild(el('div', 'srow', '<span class="sl">' + c[0].innerHTML + '</span><span class="sv">' + c[1].innerHTML + '</span>'));
+          });
+          out.appendChild(sg);
+        }
+        s.n.forEach(function (n) { if (!(n.querySelector && n.querySelector('table')) && n.tagName !== 'TABLE') { n.classList.add('fine'); out.appendChild(n); } });
+      } else if (key === 'care guide') {
+        out.appendChild(el('h2', null, esc(s.t)));
+        var cg = el('div', 'group care'), gap = null;
+        s.n.forEach(function (n) {
+          if (n.tagName !== 'UL') { out.appendChild(n); return; }
+          [].slice.call(n.children).forEach(function (li) {
+            var st = li.querySelector('strong'), lab = st ? st.textContent.replace(/:\s*$/, '') : '';
+            if (st) st.parentNode.removeChild(st);
+            if (/^not found$/i.test(lab)) { gap = li; return; }
+            cg.appendChild(el('div', 'srow', '<span class="sl">' + esc(lab) + '</span><span class="sv">' + li.innerHTML.replace(/^\s*:?\s*/, '') + '</span>'));
+          });
+        });
+        out.appendChild(cg);
+        if (gap) { var gn = el('div', null, gap.innerHTML.replace(/^\s*:?\s*/, '')); out.appendChild(fold('What the sources do not say', [gn])); }
       } else if (key === 'what you need' || key === 'growing methods') {
         out.appendChild(el('h2', null, esc(s.t)));
         s.n.forEach(function (n) {
@@ -175,7 +201,7 @@
         out.appendChild(chips);
         s.n.forEach(function (n) { if (!n.querySelector('a')) { n.classList.add('fine'); out.appendChild(n); } });
       } else if (key === 'watch for' || key === 'sources') {
-        out.appendChild(fold(s.t, s.n));
+        out.appendChild(fold(key === 'sources' ? 'Sources for this page' : s.t, s.n));
       } else {
         out.appendChild(el('h2', null, esc(s.t))); s.n.forEach(function (n) { out.appendChild(n); });
       }
@@ -224,6 +250,11 @@
     return getText(base + path + '.md').then(function (md) {
       contentEl.innerHTML = marked.parse(md);
       sanitise(contentEl); fixLinks(contentEl, path); fixImages(contentEl, path); wrapTables(contentEl);
+      contentEl.querySelectorAll('a[href*="#/references?a=r"]').forEach(function (l) { if (/^\d+/.test(l.textContent)) l.classList.add('cite'); });
+      if (path === 'references') contentEl.querySelectorAll('ol').forEach(function (ol) {
+        var st = parseInt(ol.getAttribute('start') || '1', 10);
+        [].slice.call(ol.children).forEach(function (li, i) { li.id = 'r' + (st + i); });
+      });
       var h1 = contentEl.querySelector('h1');
       document.title = (h1 ? h1.textContent + ' · ' : '') + 'Aussie Food Garden';
       var crop = /^crops\/(darwin|sydney)-/.exec(path);
